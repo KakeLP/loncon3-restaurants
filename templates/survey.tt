@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Loncon 3 survey sheets</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" href="[% base_url %]stylesheets/survey-print.css" type="text/css" />
+</head>
+
+<body>
+
+[% FOREACH venue = venues %]
+
+<h3>[% venue.name %]</h3>
+
+<table>
+<tr class="open"><th>Open during Thu 14 - Mon 18 August?</th><td></td>
+<tr class="address"><th>Address:</th><td>[% venue.address %]</td></tr>
+<tr class="phone"><th>Phone:</th><td>[% venue.phone %]</td></tr>
+<tr class="hours"><th>Opening/food hours:</th><td>[% venue.hours %]</td></tr>
+<tr class="website"><th>Website:</th><td>[% venue.website %]</td></tr>
+<tr class="twitter"><th>Twitter:</th><td>[% venue.twitter %]</td></tr>
+<tr class="cuisine"><th>Type(s) of food:</th><td>[% venue.cuisines %]</td></tr>
+<tr class="eat-in"><th>Eat-in food?</th><td></td></tr>
+<tr class="takeaway"><th>Takeaway food?</th><td></td></tr>
+<tr class="delivery"><th>Deliveries?</th><td></td></tr>
+<tr class="drink"><th>OK to come for just a drink?</th><td></td></tr>
+<tr class="licenced"><th>Alcohol licence?</th><td></td></tr>
+<tr class="byob"><th>BYOB?</th><td></td></tr>
+<tr class="bookings"><th>Bookings?</th><td></td></tr>
+<tr class="accessibility"><th>Physical accessibility:</th><td>[% venue.access %]</td></tr>
+<tr class="children"><th>Facilities for children:</th><td></td></tr>
+<tr class="special-diets"><th>Special diets (vegetarian, vegan, gluten-free, allergies, etc):</th><td></td></tr>
+<tr class="summary"><th>Other information:</th><td>[% venue.summary %]</td></tr>
+</table>
+
+[% END %]
+
+</body>
+
+</html>

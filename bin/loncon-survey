@@ -1,0 +1,62 @@
+#!/usr/bin/perl -w
+
+# Makes printable survey sheets.  Edit the to_print sub to set the criteria.
+
+use strict;
+use File::Copy;
+use Template;
+use YAML::Any qw( LoadFile );
+
+my $datadir = "/Users/kake/Documents/Geo stuff/Loncon";
+my $filename = "$datadir/food-guide.yaml";
+my $webdir = "/Users/kake/Sites/loncon";
+
+# Read in and process the venue information.
+my @venues = LoadFile( $filename );
+@venues = sort namesort @venues;
+my $total = scalar @venues;
+
+@venues = grep { to_print( $_ ) && !$_->{exclude} } @venues;
+my $todo = scalar @venues;
+
+print "Found $total venue" . ( $total == 1 ? "" : "s" ) . ", $todo to print.\n";
+
+foreach my $venue ( @venues ) {
+  my @cuisines = ( ref $venue->{cuisine} ) ? @{$venue->{cuisine}} : ( $venue->{cuisine} || "" );
+  $venue->{cuisines} = join ", ", @cuisines;
+}
+
+# Set up template stuff.
+my $tt_config = {
+  INCLUDE_PATH => "$datadir/templates/",
+};
+my $tt = Template->new( $tt_config ) or die Template->error;
+
+# Output the sheets.
+my $tt_vars = {
+  venues => \@venues,
+};
+
+open( my $output_fh, ">", "$webdir/sheets.html" ) or die $!;
+$tt->process( "survey.tt", $tt_vars, $output_fh ) or die $tt->error;
+close $output_fh;
+
+copy( "$datadir/stylesheets/survey-print.css", "$webdir/stylesheets" ) || die $!;
+
+sub namesort {
+  my $aa = lc( $a->{name} );
+  my $bb = lc( $b->{name} );
+  foreach ( ( $aa, $bb ) ) {
+    s/^the //;
+  }
+  $aa cmp $bb;
+}
+
+sub to_print {
+  my $venue = shift;
+  my %areahash;
+  my $area = $venue->{area};
+  my @areas = ( ref $area ) ? @$area : ( $area );
+  %areahash = map { lc( $_ ) => 1 } @areas;
+  return 1 if $areahash{stratford};
+}
