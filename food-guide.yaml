@@ -7526,3 +7526,132 @@ summary: "Not actually in Canary Wharf itself, but just across the river near th
 access: 
 links: 
 surveyed: 
+---
+name: Formans
+address: Stour Road, Fish Island, E3 2NT
+area: Stratford
+website: http://formans.co.uk/
+twitter: 
+phone: 020 8525 2365
+lat: 51.539275
+long: -0.021526605
+station:
+  - Hackney Wick
+  - Pudding Mill Lane
+type: restaurant
+cuisine: British
+licensed: yes
+byob: 
+bookings: yes
+eat-in: yes
+takeaway: 
+delivery: 
+just-drink: 
+hours: "Mon-Wed: closed; Thu-Fri: 5pm-11pm (last seating 9:30pm); Sat: 10am-5pm, 7pm-11pm (last seating 9:30pm); Sun: noon-5pm (last seating 3pm)."
+photo: 
+summary: "Restaurant and bar associated with H Forman & Son's century-old salmon smokery.    Situated alongside the River Lee Navigation, on the other side of the Olympic Park from Stratford proper.  The walk from Stratford can be shortened by taking the London Overground one stop to Hackney Wick Station, or the DLR one stop to Pudding Mill Lane Station.  Upmarket British dishes such as warm smoked eel fillets with capers and mustard dressing; poached turbot with scallops, clams, chorizo broth, and baby carrots; and roast mushroom and leek shepherd's pie.  Vegetarian options are sparse.  Open Thursday to Sunday only."
+access: 
+links: 
+surveyed: 
+---
+name: Moka East
+address: The Greenway, Marshgate Lane, Stratford, E15 2PJ
+area: Stratford
+website: http://www.theviewtube.co.uk/eat/
+twitter: MokaEast
+phone: 07506 870837
+lat: 51.535378
+long: -0.013437063
+station:
+  - Pudding Mill Lane
+  - Stratford
+type: restaurant
+cuisine: British
+licensed: 
+byob: 
+bookings: 
+eat-in: yes
+takeaway: 
+delivery: 
+just-drink: 
+hours: "Mon-Sun: 9am-5pm"
+photo: 
+summary: "Cafe at the “View Tube” overlooking the Olympic Park.  Closest to Pudding Mill Lane Station on the DLR, but walkable from Stratford Station.  Open seven days a week from morning until late afternoon.  Soup and bread, pastries, cakes, and locally roasted coffee."
+access: 
+links: http://www.timeout.com/london/restaurants/moka-east
+surveyed: 
+---
+name: Squires
+address: 6 Beckton Road, Canning Town, E16 1EW
+area: Canning Town
+website: http://www.squiresuk.com/
+twitter: SquiresAfrican
+phone: 020 7222 1234
+lat: 51.517723
+long: 0.013599202
+station: Canning Town
+type: restaurant
+cuisine: Nigerian
+licensed: yes
+byob: 
+bookings: 
+eat-in: yes
+takeaway: 
+delivery: 
+just-drink: 
+hours: 
+photo: 
+summary: "Nigerian dishes including efo egusi (a stew based on spinach and ground melon seeds), pounded yam (a mashed-potato-like carbohydrate dish eaten with one's hand), yam porridge, pepper soup, and jollof rice."
+access: 
+links: 
+surveyed: 
+---
+name: Basilico
+address: 653 Commercial Road, Limehouse, E14 7LW
+area: Limehouse
+website: http://www.basilico.co.uk/
+twitter: basilicopizzas
+phone: 020 3302 5959
+lat: 51.512777
+long: -0.038199618
+station: Limehouse
+type: takeaway
+cuisine: Italian
+licensed: yes
+byob: no
+bookings: no
+eat-in: no
+takeaway: yes
+delivery: yes
+just-drink: no
+hours: "Mon-Sun: 11am-late"
+photo: 
+summary: "Wood-fired pizza takeaway and delivery from a small chain with several London branches."
+access: 
+links: 
+surveyed: 
+---
+name: Basilico
+address: 103 Tower Bridge Road, Bermondsey, SE1 4TW
+area: London Bridge
+website: http://www.basilico.co.uk/
+twitter: basilicopizzas
+phone: 020 3302 7070
+lat: 51.496638
+long: -0.082474440
+station: London Bridge
+type: takeaway
+cuisine: Italian
+licensed: yes
+byob: no
+bookings: no
+eat-in: no
+takeaway: yes
+delivery: yes
+just-drink: no
+hours: "Mon-Sun: 11am-late"
+photo: 
+summary: "Wood-fired pizza takeaway and delivery from a small chain with several London branches."
+access: 
+links: 
+surveyed: 
