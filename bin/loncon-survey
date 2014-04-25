@@ -1,6 +1,8 @@
 #!/usr/bin/perl -w
 
-# Makes printable survey sheets.  Edit the to_print sub to set the criteria.
+# Makes printable survey sheets.  Excludes places marked as already having
+# been surveyed, and places with a true "exclude" attribute.
+# Edit the to_print sub to set other criteria.
 
 use strict;
 use File::Copy;
@@ -16,7 +18,7 @@ my @venues = LoadFile( $filename );
 @venues = sort namesort @venues;
 my $total = scalar @venues;
 
-@venues = grep { to_print( $_ ) && !$_->{exclude} } @venues;
+@venues = grep { to_print( $_ ) && !$_->{exclude} && !$_->{surveyed} } @venues;
 my $todo = scalar @venues;
 
 print "Found $total venue" . ( $total == 1 ? "" : "s" ) . ", $todo to print.\n";

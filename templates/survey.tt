@@ -14,6 +14,7 @@
 <h3>[% venue.name %]</h3>
 
 <table>
+<tr class="survey-date"><th>Date visited</th><td></td>
 <tr class="open"><th>Open during Thu 14 - Mon 18 August?</th><td></td>
 <tr class="address"><th>Address:</th><td>[% venue.address %]</td></tr>
 <tr class="phone"><th>Phone:</th><td>[% venue.phone %]</td></tr>
