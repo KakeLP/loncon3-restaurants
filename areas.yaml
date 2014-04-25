@@ -38,6 +38,18 @@ name: DLR
 description: Venues which aren’t in any of the main areas we list here, but
   which are easily reached via the DLR network.
 ---
+name: East Ham
+description: A large area of East London served by Upton Park and East Ham
+  stations on the District Line.  Direct trains from Tower Hill Station,
+  change from the Central Line at Mile End Station, or change from the DLR or
+  Jubilee Line at West Ham Station.  A wealth of small independent cafes and
+  restaurants serve South Indian food at excellent prices — far too many to
+  list them all here, so the adventurous are encouraged to explore along
+  Green Street (Upton Park Station) and East Ham High Street (East Ham
+  Station).  Facilities can be somewhat basic, but almost everywhere will have
+  a good selection of vegetarian options, and several places are completely
+  vegetarian.
+---
 name: ExCeL
 description: Venues around ExCeL itself.  DLR stations are Custom House, Prince
   Regent, and Royal Victoria.
