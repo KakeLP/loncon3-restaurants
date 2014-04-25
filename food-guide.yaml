@@ -118,12 +118,26 @@ type: restaurant
 cuisine:
   - British
   - Thai
-hours: "Mon-Sat: 11am-3pm (small menu and breakfast), 6pm-11pm (full menu); Sun: closed"
+licensed: yes
+byob: yes
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+hours: "Mon-Sat: 11am-3pm (limited Thai menu and British cafe food), 6pm-11pm (full Thai menu); Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12265435416/
-  - http://www.flickr.com/photos/kake_pugh/12265299514/
-summary: A dual menu offers British “greasy spoon” cafe food as well as Thai food, in a traditional British cafe setting.
+  - https://www.flickr.com/photos/kake_pugh/13993949784/
+  - https://www.flickr.com/photos/kake_pugh/13993514275/
+  - https://www.flickr.com/photos/kake_pugh/14013506003/
+  - https://www.flickr.com/photos/kake_pugh/13993507425/
+  - https://www.flickr.com/photos/kake_pugh/13993937664/
+  - https://www.flickr.com/photos/kake_pugh/14013495833/
+  - https://www.flickr.com/photos/kake_pugh/13990292402/
+summary: A traditional British cafe setting offers “greasy spoon” cafe food and a limited Thai menu at lunchtimes, and a full Thai menu in the evening.  Vegetarian options are sparse.  Takeaway available, but no deliveries.  Booster seats available for children.  A couple of wines and bottled beers on offer; BYOB also permitted.  Closed Sundays.  Cash and cheques only.
+access: No step to get in (just a small ridge), but toilets are down a flight of stairs.
 links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2405494-Reviews-Pie_Crust-London_England.html
+surveyed: April 2014
 ---
 name: King Edward VII
 address: 47 Broadway, Stratford, E15 4BQ
@@ -137,20 +151,28 @@ type: pub
 cuisine: British
 licensed: yes
 byob: no
-hours: "Mon-Wed: noon-11pm; Thu-Sat: noon-midnight; Sun: noon-11:30pm"
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Wed: noon-11pm; Thu-Sat: noon-midnight; Sun: noon-11:30pm.  Food served Mon-Fri: noon-3pm, 5pm-10pm; Sat-Sun: noon-10pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/2743681267/
   - http://www.flickr.com/photos/kake_pugh/12265853593/
   - http://www.flickr.com/photos/kake_pugh/12266264866/
   - http://www.flickr.com/photos/kake_pugh/12266255236/
   - http://www.flickr.com/photos/kake_pugh/12265673285/
-summary: Real ale and pub food; the menu is perhaps a little over-ambitious, so stick with the basics.  Sandwiches at lunchtime are good value.
-access: One step down to get in. Half a dozen steps up to the back room, from which the toilets are also accessed.
+summary: Traditional British pub serving real ale and pub food.  The menu is perhaps a little over-ambitious, so stick with the basics.  Sandwiches at lunchtime are good value.  Children permitted until 10pm.
+access: One step down to get in.  Two steps to the side room, from which the toilets are also accessed.
 links: http://london.randomness.org.uk/wiki.cgi?King_Edward_VII,_E15_4BQ
+surveyed: April 2014
 ---
 name: Indisca
 address: 150 The Grove, Stratford, E15 1NS
 area: Stratford
+website: http://indisca.co.uk/
+twitter: indisca
 phone: 020 8534 7770
 lat: 51.543863
 long: 0.0041068643
@@ -158,6 +180,12 @@ station: Stratford
 type: restaurant
 cuisine: Indian
 licensed: yes
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: yes
+just-drink: no
 hours: "Mon-Thu: 11:30am-2:30pm, 5:30pm-11:30pm; Fri-Sat: 11:30am-2:30pm, 5:30pm-midnight; Sun: 11:30am-2:30pm, 5:30pm-11:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12267333816/
@@ -165,6 +193,9 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12266729935/
   - http://www.flickr.com/photos/kake_pugh/12266880523/
   - http://www.flickr.com/photos/kake_pugh/12266870893/
+summary: Indian restaurant with a menu that goes beyond the usual British curryhouse staples.  A reasonable number of vegetarian options, few if any vegan.  Highchairs available for children.
+access: A step to get in, but no further steps once you're in.  Wide aisles, plenty of space for wheelchairs at tables.  Ladies' toilet doubles as accessible toilet (large cubicle), though the way through to this is a little narrow and involves corners.
+surveyed: April 2014
 ---
 name: Hua Run
 address: 125 The Grove, Stratford, E15 1EN
@@ -2077,35 +2108,50 @@ type: restaurant
 cuisine:
   - Moroccan
   - Lebanese
+licensed: yes
+byob: yes
 bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: yes
+just-drink: no
 hours: "Mon-Sun: 11:30am-midnight"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12992256233/
   - http://www.flickr.com/photos/kake_pugh/12992487844/
   - http://www.flickr.com/photos/kake_pugh/12992200813/
   - http://www.flickr.com/photos/kake_pugh/12992063115/
-summary: Has a shisha menu and a heated garden terrace.
+summary: Restaurant offering Moroccan and Lebanese food including vegetarian and vegan options.  Shisha (hookah) menu and heated garden terrace.  Highchairs available for children.
+access: Step to get in.  Toilets down a flight of stairs.  More steps to some of the seating and to the shisha garden.
+surveyed: April 2014
 ---
 name: LA Bar
 address: 405 Stratford High Street, E15 4QZ
 area: Stratford
-phone: 07455 939137
+phone: 07956 369174
 lat: 51.539622
 long: 0.00015060602
 station: Stratford
 type: takeaway
 cuisine: Caribbean
+licensed: yes
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
 delivery: yes
-hours: "Mon-Thu: noon-9pm; Fri-Sat: noon-11pm; Sun: closed"
+just-drink: yes
+hours: "Mon-Thu: noon-9pm; Fri-Sat: noon-11pm; Sun: closed.  Food served Mon-Thu: noon-9pm.  No food Fri-Sat."
 photo:
   - http://www.flickr.com/photos/kake_pugh/12992120205/
   - http://www.flickr.com/photos/kake_pugh/12992426624/
-  - http://www.flickr.com/photos/kake_pugh/12992048185/
-  - http://www.flickr.com/photos/kake_pugh/12992048185/
-summary: Despite the name, as of March 2014 this is only open for takeaway/delivery.
+  - https://www.flickr.com/photos/kake_pugh/13990549982/
+summary: Small bar and casual restaurant offering cocktails (including non-alcoholic) and Caribbean food.  Fine to come in for just a drink.  Half-price beer, wine, and cocktails during happy hour on Mondays and Tuesdays.  Food served Monday to Thursday only; closed entirely on Sundays.  Takeaway and delivery (within Stratford only).  Menu focused on meat and fish, but one vegetarian set meal available.
+access: Step-free to get in (small ramp), step-free throughout including to toilets.
+surveyed: April 2014
 ---
 name: Ye Olde Black Bull
+exclude: Doesn't do food.
 address: 13 Broadway, Stratford, E15 4BQ
 area: Stratford
 phone: 020 8519 6720
@@ -2120,6 +2166,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12992394424/
 summary: "NB: Phone number possibly wrong (no answer on several occasions)."
 ---
 name: Stratford Best Cafe/Best Kebab House
+exclude: Staff unwilling to answer questions.
 address: 21-23 Broadway, Stratford, E15 4BQ
 area: Stratford
 lat: 51.540383
@@ -2145,9 +2192,17 @@ station: Stratford
 type: pub
 cuisine: British
 licensed: yes
-hours: "Mon-Thu: 10am-11pm; Fri-Sat: 10am-1am; Sun: noon-11pm.  Food served until 10pm daily."
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Thu: 10am-11pm; Fri-Sat: 10am-1am; Sun: noon-11pm.  Food served until 9pm daily.  Breakfasts served until noon."
 photo: http://www.flickr.com/photos/kake_pugh/12992350994/
-summary: Pub food and real ale.
+summary: Traditional British pub, part of the Stonegate chain.  Pub food such as burgers, fish & chips, chicken tikka masala, and steak & ale pie served all day at good prices, though vegetarian options are sparse.  Real ale including guest ales.  Children welcome until 7pm; highchairs and children's menu available.  Poker night on Thursdays, DJs (and hence loud music) on Friday and Saturday evenings.
+access: No step to get in.  Bar and Radar-locked accessible toilet on the same level.  Some seating on this level too, but much of the seating in the pub is either on a dais, or at high tables, or outside.
+surveyed: April 2014
 ---
 name: Cafe In The Courtyard
 address: Old Town Hall, 29 Broadway, Stratford, E15 4BQ
@@ -2181,10 +2236,11 @@ licensed: yes
 bookings: yes
 takeaway: yes
 hours: "Mon-Tue: noon-3pm; Wed: noon-3pm, 5pm-10pm; Thu: noon-10pm; Fri-Sat: noon-late; Sun: closed"
-photo: http://www.flickr.com/photos/kake_pugh/12991918515/
+photo: https://www.flickr.com/photos/kake_pugh/13994184594/
 summary: Pizza, pasta, and fish. Gluten-free pasta available.
 ---
 name: Queens Head
+exclude: Doesn't do food.
 address: 5-7 West Ham Lane, Stratford, E15 4PH
 area: Stratford
 phone: 020 8522 7111
@@ -2204,6 +2260,7 @@ links:
 summary: "NB: Phone number not working."
 ---
 name: Princess Of Wales
+exclude: Doesn't do food.
 address: 25 West Ham Lane, Stratford, E15 4PH
 area: Stratford
 phone: 020 8519 2930
@@ -2224,6 +2281,7 @@ links:
   - http://www.yelp.co.uk/biz/the-princess-of-wales-london
 ---
 name: Manus Palm Grove
+exclude: Pretty sure this has shut down.
 address: 45 West Ham Lane, Stratford, E15 4PH
 area: Stratford
 phone: 020 8555 5560
@@ -2244,13 +2302,24 @@ lat: 51.539457
 long: 0.0040639490
 station: Stratford
 type: restaurant
-cuisine: British
+cuisine: European
+licensed: no
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Fri: 8am-8pm; Sat-Sun: 9am-7:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12992687405/
   - http://www.flickr.com/photos/kake_pugh/12992716575/
+  - https://www.flickr.com/photos/kake_pugh/13970645706/
   - http://www.flickr.com/photos/kake_pugh/12993101154/
-summary: Cakes and coffee, including gluten-free options.
+summary: "Small 14-seater cafe with a daily-changing menu of hot dishes, soups, savoury pies and pastries, and cakes.  Vegetarian options available.  Some cakes are wheat-free but not necessarily gluten-free.  No alcohol, but freshly-squeezed juices.  A range of coffee options but only limited choices of tea."
+access: A small step to get in.  Fairly small inside.  Another step and a narrow 180-degree turn to get to the toilet.
 links: http://gastrogays.wordpress.com/2014/01/22/guide-stratford-london/
+surveyed: April 2014
 ---
 name: Asmara Cafe
 address: 53 West Ham Lane, Stratford, E15 4PH
@@ -2261,14 +2330,25 @@ long: 0.0041122287
 station: Stratford
 type: restaurant
 cuisine: Eritrean
-hours: "Mon-Thu: 8am-10:30pm; Fri-Sat: 8am-11pm; Sun: 8am-10:30pm"
+licensed: no
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Thu: 8am-10:30pm; Fri-Sat: 8am-11pm; Sun: 8am-10:30pm.  Sometimes closes early if not busy."
 photo:
   - http://www.flickr.com/photos/kake_pugh/12993093804/
   - http://www.flickr.com/photos/kake_pugh/12993117214/
   - http://www.flickr.com/photos/kake_pugh/12993115564/
   - http://www.flickr.com/photos/kake_pugh/12993130374/
+summary: Small cafe serving Eritrean food (e.g. okra and meat stew, spiced lentils) as well as pasta dishes and European and Arabic sandwiches (e.g. lasagne, tuna mayo sandwiches, pitta bread with hummous).  Plenty of vegetarian options among the Eritrean dishes.  Fine to come in for just a coffee.  No alcohol served, BYOB not permitted.  No facilities for children.  Takeaway but no deliveries.
+access: A small step to get in.  Two steps and very narrow access to toilets.
+surveyed: April 2014
 ---
 name: Café Lympic
+exclude: Staff unwilling to answer questions.
 address: 61 West Ham Lane, Stratford, E15 4PH
 area: Stratford
 phone: 020 8555 3477
@@ -2288,11 +2368,19 @@ long: 0.0048605650
 station: Stratford
 type: takeaway
 cuisine: Indian
+licensed: no
+byob: yes
+bookings: yes
+eat-in: yes
 takeaway: yes
 delivery: yes
+just-drink: no
 hours: "Mon-Sun: noon-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/13005636364/
+summary: "Small takeaway and casual restaurant serving kebabs and grilled meats from a proper charcoal grill, rotisserie chicken, freshly-made naans from an in-house tandoori oven, and various curries.  Five vegetarian curry options.  Children welcome, but no highchairs available.  Takeaway and delivery.  Deposit required for bookings."
+access: Step to get in.  More steps to the majority of seating, and even more steps to the toilets.
 links: http://www.just-eat.co.uk/restaurants-tiffingrill-e15/menu
+surveyed: April 2014
 ---
 name: VIP Cafe
 address: 75 Vicarage Lane, Stratford, E15 4HG
