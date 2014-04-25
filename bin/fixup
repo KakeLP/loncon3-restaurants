@@ -1,0 +1,75 @@
+#!/usr/bin/perl -w
+
+use strict;
+use File::Slurp;
+
+my $datadir = "/Users/kake/Documents/Geo stuff/Loncon";
+my $fieldfile = "$datadir/fields.yaml";
+my $datafile = "$datadir/food-guide.yaml";
+
+my @fields = read_file( $fieldfile );
+shift @fields;
+@fields = map { s/:\s*//s; $_; } @fields;
+
+my @lines = read_file( $datafile );
+
+my $output;
+my %content;
+my $continuation;
+my $field_to_continue;
+
+LINES: foreach my $line ( @lines ) {
+  if ( $line !~ /^ / && $field_to_continue && $continuation ) {
+      $content{$field_to_continue} = "\n$continuation";
+      $field_to_continue = "";
+      $continuation = "";
+  }
+  if ( $line =~ /---/ ) {
+    $output .= print_content( %content );
+    %content = ();
+    next;
+  }
+  if ( $line =~ /^\s\s+/ ) {
+    $continuation .= $line;
+    next;
+  }
+  foreach my $field ( @fields ) {
+    if ( $line =~ /^${field}:\s*$/ ) {
+      $field_to_continue = $field;
+      next LINES;
+    }
+    if ( $line =~ /^${field}/ ) {
+      my $value = $line;
+      $value =~ s/^$field: ?//;
+      $content{$field} = $value;
+      next LINES;
+    }
+  }
+}
+
+# Don't forget to print the final record.
+$output .= print_content( %content );
+
+# But take off the final output separator.
+$output =~ s/---\s$//s;
+
+print $output;
+
+sub print_content {
+  my %content = @_;
+  my $output;
+
+  foreach my $field ( @fields ) {
+    if ( $field eq "exclude" && !$content{$field} ) {
+      next;
+    }
+    my $value = $content{$field} || "\n";
+    $output .= "$field: $value";
+  }
+
+  $output .= "---\n";
+
+  $output =~ s/: \n /:\n /gs;
+
+  return $output;
+}
