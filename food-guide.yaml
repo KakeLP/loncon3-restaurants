@@ -7655,3 +7655,83 @@ summary: "Wood-fired pizza takeaway and delivery from a small chain with several
 access: 
 links: 
 surveyed: 
+---
+name: Moshi Moshi
+address: Unit 24, Liverpool Street Station, EC2M 7PY
+area: Central Line
+website: http://www.moshimoshi.co.uk/
+twitter: MoshiMoshiLDN
+phone: 020 7247 3227
+lat: 51.517766
+long: -0.081511527
+station: Liverpool Street
+type: restaurant
+cuisine: Japanese
+licensed: yes
+byob: 
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: 
+just-drink: 
+hours: "Mon-Fri: 11:30am-10pm"
+photo: https://www.flickr.com/photos/kake_pugh/2009000056/
+summary: "Japanese restaurant on the upper level of Liverpool Street Station, offering sushi and sashimi with a focus on sustainability.  A la carte menu plus a conveyor belt which offers a rather more interesting selection than one might expect.  Hot dishes too, plus freshly-squeezed juices, wine, sake, and beer.  Occasional vegetarian options.  Closed weekends."
+access: 
+links: http://london.randomness.org.uk/wiki.cgi?Moshi_Moshi_Sushi,_EC2M_7PY
+surveyed: 
+---
+name: The Rooftop Cafe
+address: The Exchange, 28 London Bridge Street, London Bridge, SE1 9SG
+area: London Bridge
+website: http://www.theexchange.so/rooftop
+twitter: ExchangeLDN
+phone: 020 3102 3770
+lat: 51.504951
+long: -0.087427542
+station: London Bridge
+type: restaurant
+cuisine: British
+licensed: 
+byob: 
+bookings: yes
+eat-in: yes
+takeaway: 
+delivery: 
+just-drink: 
+hours: "Mon-Tue: 8am-11:30am, noon-3pm; Wed-Fri: 8am-11:30am, noon-3pm, 6pm-10:30pm; Sat: 8am-4pm, 6pm-10:30pm; Sun: closed"
+photo: 
+summary: 
+access: 
+links:
+  - http://www.timeout.com/london/restaurants/rooftop-cafe
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d5267229-Reviews-The_Rooftop_Cafe-London_England.html
+surveyed: 
+---
+name: Ticino
+address: 177 Bermondsey Street, Bermondsey, SE1 3UW
+area: London Bridge
+website: 
+twitter: TicinoKitchen
+phone: 
+lat: 51.498879
+long: -0.080984876
+station: London Bridge
+type: restaurant
+cuisine: Italian
+licensed: 
+byob: 
+bookings: 
+eat-in: yes
+takeaway: 
+delivery: 
+just-drink: 
+hours: 
+photo: 
+summary: 
+access: 
+links:
+  - http://chowhound.chow.com/topics/965798
+  - http://samphireandsalsify.com/2014/03/06/ticino-bermondsey-street/
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d5884004-Reviews-Ticino_Restaurant-London_England.html
+surveyed: 
