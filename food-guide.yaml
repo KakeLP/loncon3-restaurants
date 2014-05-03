@@ -390,25 +390,28 @@ address: Unit 10, Market Village, Stratford
 area: Stratford
 website: 
 twitter: 
-phone: 020 8221 2524
+phone: 
 lat: 51.541643
 long: 0.0019584149
 station: Stratford
 type: restaurant
 cuisine: Brazilian
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Possibly Mon-Wed: 9am-5:30pm; Thu-Fri: 9am-6:30pm; Sat: 9am-6pm"
-photo: http://www.flickr.com/photos/kake_pugh/12269368506/
-summary: "Tiny Brazilian cafe in a shopping centre.  Pop in for a snack and a drink.  NB: Phone number not working."
-access: 
-links: 
-surveyed: 
+licensed: no
+byob: no
+bookings: no
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: 9am-6pm; Sun: closed."
+photo:
+  - https://www.flickr.com/photos/kake_pugh/14087871615/
+  - https://www.flickr.com/photos/kake_pugh/14087873925/
+  - https://www.flickr.com/photos/kake_pugh/14087873925/
+summary: "Tiny Brazilian cafe in a shopping centre, also selling a few Brazilian groceries.  Juices include passion fruit, guava, cashew, and açai.  Savoury snacks include coxinhas (deep-fried chicken-stuffed rissoles), pão de queijo (cheese-flavoured bread rolls), or empadas (small pies).  Feijoada (a rich stew of black beans and pork) on Saturdays only."
+access: No steps to get in.  No customer toilets.  Quite small inside.
+links: https://www.youtube.com/watch?v=luMejYXsD-U
+surveyed: April 2014
 ---
 name: Yoe Bo
 address: Unit 1, Gerry Raffles Square, Stratford, E15 1BG
@@ -421,19 +424,22 @@ long: 0.00038167831
 station: Stratford
 type: restaurant
 cuisine: Chinese
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+licensed: yes
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon-Thu: noon-10:30pm; Fri-Sat: noon-11pm; Sun: 11am-10:30pm"
-photo: http://www.flickr.com/photos/kake_pugh/3737080596/
-summary: All-you-can-eat Chinese buffet restaurant.
-access: 
+photo:
+  - http://www.flickr.com/photos/kake_pugh/3737080596/
+  - https://www.flickr.com/photos/kake_pugh/14088509594/
+  - https://www.flickr.com/photos/kake_pugh/13901429437/
+summary: Chinese restaurant with an all-you-can-eat buffet plus a la carte.  Vegetarian options are sparse.  Highchairs available but no baby change facilities.
+access: Small ramp to get in, then all on the same level.  Accessible toilet (though this is sometimes locked — tell the staff if you need it).
 links: 
-surveyed: 
+surveyed: April 2014
 ---
 name: Theatre Royal Bar
 address: Theatre Royal, Gerry Raffles Square, Stratford, E15 1BN
@@ -447,23 +453,23 @@ station: Stratford
 type: restaurant
 cuisine: Caribbean
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: no
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: no
+just-drink: yes
 hours: "Mon-Thu: 10am-11pm; Fri: 10am-midnight; Sat: 11am-midnight; Sun: noon-11pm. Food served Mon-Sat: noon-9pm; Sun: noon-8:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12269274376/
   - http://www.flickr.com/photos/kake_pugh/12269286316/
   - http://www.flickr.com/photos/kake_pugh/12268726215/
-summary: 
-access: 
+summary: Theatre bar serving Caribbean food, open to non-theatre-goers too.  Bookings for large groups only.  Highchairs and baby change facilities.  Live entertainment such as comedy and music most nights.  Some vegetarian options such as falafel and vegetable curry.
+access: Step-free access via a ramp.  Accessible toilet.
 links: 
 surveyed: 
 ---
-name: Stratford Circus Cafe (Northern Imagination?)
+name: Northern Imagination
 address: Stratford Circus, Theatre Square, Stratford, E15 1BX
 area: Stratford
 website: https://www.stratford-circus.com/
@@ -473,24 +479,26 @@ lat: 51.542835
 long: 0.0017120540
 station: Stratford
 type: restaurant
-cuisine: Italian
+cuisine: global
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sat: 10am-6pm; Sun: closed"
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Wed: 10am-6pm; Thu-Sat: 10am-8pm; Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12268692495/
   - http://www.flickr.com/photos/kake_pugh/12269123924/
   - http://www.flickr.com/photos/kake_pugh/12268674515/
   - http://www.flickr.com/photos/kake_pugh/12269110404/
-summary: Soup, sandwiches, serious coffee, and craft beer from local breweries.
-access: 
+  - https://www.flickr.com/photos/kake_pugh/13901286100/
+  - https://www.flickr.com/photos/kake_pugh/14087866995/
+summary: Cafe/bar specialising in vegetarian and vegan food (though meat options are also available).  Some gluten-free.  Soup, hot specials, sandwiches, Union coffee (locally roasted), and craft beer from local breweries such as Crate and London Fields.  Highchairs, baby change facilities, and children’s menu.
+access: No steps to get in, and there's an automatic door.  Step-free throughout, and there's an accessible toilet.
 links: 
-surveyed: 
+surveyed: April 2014
 ---
 name: Lituanica
 address: Unit 4, Beckton Retail Park, Alpine Way, E6 6LA
@@ -3377,6 +3385,7 @@ links:
 surveyed: April 2014
 ---
 name: Cafe In The Courtyard
+exclude: Receptionist at Old Town Hall says this closed down ages ago.
 address: Old Town Hall, 29 Broadway, Stratford, E15 4BQ
 area: Stratford
 website: 
@@ -3408,6 +3417,7 @@ links:
 surveyed: 
 ---
 name: Cafe Mondo
+exclude: Will be closed for holidays during the con.
 address: 3 West Ham Lane, Stratford, E15 4PH
 area: Stratford
 website: http://cafemondo.co.uk/
@@ -3734,27 +3744,27 @@ address: 35 Leytonstone Road, Stratford, E15 1JA
 area: Stratford
 website: 
 twitter: 
-phone: 020 8555 7775
+phone: 020 3632 5052
 lat: 51.546332
 long: 0.0057430118
 station:
   - Maryland
   - Stratford
 type: restaurant
-cuisine: 
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: 
+cuisine: British
+licensed: no
+byob: no
+bookings: no
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: 7am-7pm; Sun: 9am-7pm."
 photo: http://www.flickr.com/photos/kake_pugh/13005323453/
-summary: "Coffee and pastry shop opposite Maryland Station.  NB: Phone number not working."
-access: 
+summary: "Small cafe and coffee shop opposite Maryland Station.  Sandwiches made to order, and full English breakfast served all day."
+access: Small step to get in.  No steps once you're in, but access to the toilets is quite narrow.  Limited seating.
 links: 
-surveyed: 
+surveyed: April 2014
 ---
 name: Tasty
 address: 51a Leytonstone Road, Stratford, E15 1JA
@@ -3769,21 +3779,24 @@ station:
   - Stratford
 type: takeaway
 cuisine: Nigerian
-licensed: 
-byob: 
-bookings: 
-eat-in: 
+licensed: no
+byob: no
+bookings: no
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: no
 hours: "Mon-Sat: noon-10pm; Sun: closed"
-photo: http://www.flickr.com/photos/kake_pugh/13006787823/
-summary: Part of a small chain.
-access: 
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13006787823/
+  - https://www.flickr.com/photos/kake_pugh/14087864685/
+summary: Nigerian takeaway near Maryland Station, part of a small chain.  Also does deliveries.  One small table for eat-in.  An extensive menu including moin moin (savoury bean-based pudding) steamed in leaf, nkwobi (spicy cow foot), grilled croaker with plantain, and bitter leaf soup.
+access: A step to get in.
 links: 
-surveyed: 
+surveyed: April 2014
 ---
 name: Nooks
+exclude: Seems to have closed down as of April 2014.
 address: 55 Leytonstone Road, Stratford, E15 1JA
 area: Stratford
 website: 
@@ -3827,21 +3840,23 @@ station:
   - Stratford
 type: restaurant
 cuisine: Caribbean
-licensed: 
-byob: 
-bookings: 
-eat-in: 
+licensed: no
+byob: no
+bookings: no
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
-hours: "Mon-Sun: 10am-11pm"
+delivery: yes
+just-drink: yes
+hours: "Mon-Sun: 10:30am-11pm (according to staff member; flyer says Mon-Thu: 10am-10pm; Fri-Sat: 10am-11pm; Sun: noon-10pm)."
 photo:
   - http://www.flickr.com/photos/kake_pugh/13006607965/
   - http://www.flickr.com/photos/kake_pugh/13006754043/
-summary: Caribbean food including stew chicken, jerk pork, curry goat, and mannish water; also fresh juices.
-access: 
+  - https://www.flickr.com/photos/kake_pugh/13901428849/
+  - https://www.flickr.com/photos/kake_pugh/13901430687/
+summary: "Small juice bar and restaurant serving fresh juices and Caribbean food including fish tea, stew chicken, jerk pork, curry goat, and mannish water.  Highchair available but no baby change facilities.  Vegetarian options are sparse."
+access: Small step to get in.  No steps to toilets.
 links: 
-surveyed: 
+surveyed: April 2014
 ---
 name: D'Gaf
 address: 11 Leytonstone Road, Stratford, E15 1JA
@@ -3860,19 +3875,19 @@ type:
 cuisine:
   - British
   - Indian
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sun: noon-midnight"
+licensed: no
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: yes
+just-drink: yes
+hours: "Mon-Sun: noon-midnight.  Food served Mon-Sun: noon-11pm."
 photo: http://www.flickr.com/photos/kake_pugh/13006729443/
-summary: Halal hookah cafe with food and mocktails. Possibly alcohol-free?
-access: 
+summary: Halal hookah cafe serving Indian and British food.  Plenty of vegetarian options, all marked on menu.  No alcohol licence, BYOB not permitted, but serves alcohol-free cocktails and cider.  Covered shisha garden on the roof.  Bookable private room.  Children permitted on the ground floor only; highchairs and smaller portions available.
+access: Two steps to get in, further steps (a narrow staircase with handrail) to the toilets, roof garden, and private room.
 links: 
-surveyed: 
+surveyed: April 2014
 ---
 name: Railway Tavern
 address: 131 Angel Lane, Stratford, E15 1DB
@@ -3886,18 +3901,18 @@ station: Stratford
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sat: noon-11pm; Sun: noon-10:30pm.  Food served Mon-Fri: noon-3pm, 6pm-10pm; Sat-Sun: 1pm-10pm."
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Bar open Mon-Sun: noon-midnight.  Food served Mon-Sun: 7am-8pm."
 photo: http://www.flickr.com/photos/kake_pugh/13006719293/
-summary: Traditional British pub food. Breakfast too though possibly only for guests in the hotel upstairs?
-access: 
+summary: Traditional British pub, open from 7am for breakfast.  Tradtional pub food served lunchtime through to evening.  Vegetarian options are present but sparse.  Gluten-free possible with advance notice.  Large car park, small beer garden, and sunny conservatory.  Changing selection of real ale, though only one or two on at a time.  Children’s menu and one highchair, but no baby change facilities.  Roast dinners on Sundays.
+access: Step-free access through the conservatory, and all on the level once you're in.  Accessible toilet.
 links: 
-surveyed: 
+surveyed: April 2014
 ---
 name: Pizza Express
 address: Theatre Square, Stratford, E15 1BX
@@ -3911,18 +3926,18 @@ station: Stratford
 type: restaurant
 cuisine: Italian
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: no
+just-drink: yes
 hours: "Mon: 11:30am-10pm; Tue-Wed: 11:30am-10:30pm; Thu: 11:30am-11:30pm; Fri-Sat: 11:30am-11pm; Sun: 11:30am-10pm"
 photo: http://www.flickr.com/photos/kake_pugh/13006958034/
-summary: Reliable chain pizzeria in the same building as the Picturehouse cinema. Separate gluten-free menu including pizzas.
-access: 
+summary: Reliable chain pizzeria in the same building as the Picturehouse cinema.  Vegan and vegetarian options.  Separate gluten-free menu including pizzas.  Some outside seating, under cover.  At least half a dozen highchairs available, and there's a pull-down baby change table in the accessible toilet.
+access: Step-free to get in, all on one level.  Accessible toilet, though there's a 180-degree turn from the corridor to get into it.
 links: 
-surveyed: 
+surveyed: April 2014
 ---
 name: De Lites
 address: 81 Watney Street, Shadwell, E1 2QE
@@ -6412,21 +6427,21 @@ station: London Bridge
 type: restaurant
 cuisine: Vietnamese
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: yes
 hours: "Mon-Fri: 11am-10:30pm"
 photo:
   - https://www.flickr.com/photos/kake_pugh/13329193665/
   - https://www.flickr.com/photos/kake_pugh/13329180195/
   - https://www.flickr.com/photos/kake_pugh/13329318283/
-summary: Hot food including pho and Vietnamese curries; cold food including summer rolls and banh mi. Plenty of vegan, vegetarian, halal, and gluten free options, all clearly marked on menu. Delivery within 10 minutes' walk (which includes the Tower Bridge Hilton).
-access: 
+summary: Small Vietnamese cafe serving hot food including pho and Vietnamese curries, and cold food including summer rolls and banh mi. Plenty of vegan, vegetarian, halal, and gluten free options, all clearly marked on menu. Delivery within 10 minutes' walk (which includes the Tower Bridge Hilton).  Expect queues at lunchtimes, though these are speeded up by touch-screen ordering.
+access: A small step to get in.  More steps to the toilets.
 links: http://www.thegoodwebguide.co.uk/food-wine/table-talk/interviews/Nghi-Nguyen-Velo-Vietnamese-restaurant-interview/15526
-surveyed: 
+surveyed: April 2014
 ---
 name: Suchard
 address: 102 Tooley Street, London Bridge, SE1 2JP
@@ -6440,12 +6455,12 @@ station: London Bridge
 type: restaurant
 cuisine: Thai
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: no
 hours: "Mon-Sat: noon-3pm, 5:30pm-11pm; Sun: closed; Bank Hol: 5pm-10:30pm"
 photo:
   - https://www.flickr.com/photos/kake_pugh/13329075125/
@@ -6453,16 +6468,16 @@ photo:
   - https://www.flickr.com/photos/kake_pugh/13329140965/
   - https://www.flickr.com/photos/kake_pugh/13329140965/
   - https://www.flickr.com/photos/kake_pugh/13329153205/
-summary: Cheap and cheerful.
-access: 
+summary: Cheap and cheerful Thai food in a small but busy restaurant.  Vegetarian options on request.
+access: A small step to get in; more steps to the toilets.
 links: http://london.randomness.org.uk/wiki.cgi?Suchard_Thai,_SE1_2JP
-surveyed: 
+surveyed: April 2014
 ---
 name: Magdalen
 address: 152 Tooley Street, London Bridge, SE1 2TU
 area: London Bridge
 website: http://www.magdalenrestaurant.co.uk/
-twitter: 
+twitter: MagdalenSE1
 phone: 020 7403 1342
 lat: 51.503661
 long: -0.080911115
@@ -6470,21 +6485,21 @@ station: London Bridge
 type: restaurant
 cuisine: British
 licensed: yes
-byob: 
+byob: yes
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: noon-2:30pm, 6:30pm-10pm; Sat: 6:30pm-10pm; Sun: closed"
 photo:
   - https://www.flickr.com/photos/kake_pugh/13329087355/
   - https://www.flickr.com/photos/kake_pugh/13329101295/
   - https://www.flickr.com/photos/kake_pugh/13329091265/
-summary: Vegetarian options are sparse.
-access: A step to get in. Accessible toilet on the ground floor.
+summary: Modern British restaurant focused on local ingredients sourced from Borough Market and Spa Terminus.  Coffee is from the Monmouth Coffee Company, and cheese is from Neal’s Yard.  Vegetarian options are sparse, though there’s always at least one starter and one main.  Gluten-free on request.  Note that the restaurant will be closed from Monday 18 August onwards.  £20 corkage for BYOB.  Bar seating at the front, and it's fine to come in for just a drink.
+access: A step to get in. Accessible toilet on the ground floor, with a 90-degree turn to get in.
 links: http://london.randomness.org.uk/wiki.cgi?Magdalen,_SE1_2TU
-surveyed: 
+surveyed: April 2014
 ---
 name: Vivat Bacchus
 address: 4 Hays Lane, London Bridge, SE1 2HB
@@ -6500,22 +6515,22 @@ cuisine:
   - European
   - South African
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: noon-late; Sat: 5pm-late; Sun: closed. Food served until 10:30pm, drinks until 11:30pm."
 photo:
   - https://www.flickr.com/photos/kake_pugh/13330357375/
   - https://www.flickr.com/photos/kake_pugh/13330533303/
   - https://www.flickr.com/photos/kake_pugh/13330759464/
   - https://www.flickr.com/photos/kake_pugh/13330788814/
-summary: 
-access: 
+summary: "Restaurant specialising in wine, cheese, and South African food, with a seasonally-changing menu.  Small “cheese room” for a pick-your-own cheeseboard.  Extensive wine cellar with a focus on South Africa; wines also available to take away.  Some vegetarian options, also gluten-free options."
+access: A small step to get in.  The tables are quite close together.  A lift to the basement, where the accessible toilet is situated.
 links: http://london.randomness.org.uk/wiki.cgi?Vivat_Bacchus,_SE1_2HB
-surveyed: 
+surveyed: April 2014
 ---
 name: Barrowboy and Banker
 address: 6-8 Borough High Street, London Bridge, SE1 9QQ
@@ -6529,20 +6544,20 @@ station: London Bridge
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon-Sat: 11am-11pm; Sun: noon-7pm. Food served Mon: noon-9pm; Tue-Sat: noon-10pm; Sun: noon-5:30pm."
 photo:
   - https://www.flickr.com/photos/kake_pugh/13330499943/
   - https://www.flickr.com/photos/kake_pugh/13330336275/
-summary: Housed in a grand building originally constructed to serve as the first branch of the National Westminster Bank, with interior feaures including a curved central staircase, mezzanine floor, frosted-glass privacy screens, and murals. Owned by Fuller's, a well-known London brewery, and serving several of their real ales as well as competent pub food.
+summary: Housed in a grand building originally constructed to serve as the first branch of the National Westminster Bank, with interior feaures including a curved central staircase, mezzanine floor, frosted-glass privacy screens, and murals. Owned by Fuller's, a well-known London brewery, and serving several of their real ales as well as competent pub food.  On football nights it gets quite busy, so bookings are only taken for dining on the mezzanine, and children are not permitted on the ground floor for safety reasons.  Highchairs and children’s menu available, but no baby change facilities.
 access: Several steps at the entrance. The toilets are down a flight of stairs.
 links: http://london.randomness.org.uk/wiki.cgi?Barrowboy_And_Banker,_SE1_9QQ
-surveyed: 
+surveyed: April 2014
 ---
 name: Tito's
 address: 4-6 London Bridge Street, London Bridge, SE1 9SG
@@ -6556,13 +6571,13 @@ station: London Bridge
 type: restaurant
 cuisine: Peruvian
 licensed: yes
-byob: 
+byob: yes
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
-hours: 
+delivery: no
+just-drink: yes
+hours: "Mon-Thu: 8am-11pm; Fri-Sat: noon-11pm; Sun: noon-9pm"
 photo:
   - https://www.flickr.com/photos/kake_pugh/13330713514/
   - https://www.flickr.com/photos/kake_pugh/13330657874/
@@ -6572,10 +6587,10 @@ photo:
   - https://www.flickr.com/photos/kake_pugh/13330431233/
   - https://www.flickr.com/photos/kake_pugh/13330459363/
   - https://www.flickr.com/photos/kake_pugh/13330442903/
-summary: Breakfast and lunch menu served from 7am. Rudimentary children's menu.
-access: 
+summary: London's oldest Peruvian restaurant, open since the late 1990s and focusing on serving Peruvian food the traditional way.  Ceviche a specialty.  Breakfast and lunch menu served from 8am.  Vegetarian options are sparse.  Gluten-free on request.  Children's menu and highchairs available, but no baby change facilities.  £10 corkage fee for BYOB.  Nightclub in the basement open until 4am on Fridays and Saturdays.
+access: A step to get in, and toilets are up a flight of stairs with a sturdy handrail.
 links: http://london.randomness.org.uk/wiki.cgi?Tito%27s,_SE1_9SG
-surveyed: 
+surveyed: April 2014
 ---
 name: Tapas Brindisa
 address: 18-20 Southwark Street, London Bridge, SE1 1TJ
@@ -6589,20 +6604,20 @@ station: London Bridge
 type: restaurant
 cuisine: Spanish
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: no
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: no
 hours: "Mon-Fri: 10am-11:30pm; Sat: 9am-11:30pm; Sun: 11am-10pm. Breakfast served Mon-Fri: 10am-11am; Sat: 9am-11am. Hot food served Mon-Sat: noon-4pm, 5:30pm-11:30pm; Sun: noon-10pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/13334413353/
   - http://www.flickr.com/photos/kake_pugh/13334278295/
-summary: Tapas bar right on the edge of Borough Market, part of a small chain. Always seems busy and queues are likely.
-access: 
+summary: Tapas bar right on the edge of Borough Market.  Part of a small chain, though this was the first one and has been open for around a decade.  Always seems busy and queues are likely.  No bookings taken.  Pull-down baby change unit in the accessible toilet.
+access: No step to get in.  Ladies’ toilet doubles as an accessible cubicle.
 links: http://london.randomness.org.uk/wiki.cgi?Tapas_Brindisa,_SE1_1TJ
-surveyed: 
+surveyed: April 2014
 ---
 name: Monmouth Coffee Company
 address: 2 Park Street, London Bridge, SE1 9AB
@@ -6616,22 +6631,22 @@ station: London Bridge
 type:
   - grocery shop
   - restaurant
-cuisine: 
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
+cuisine: British
+licensed: no
+byob: no
+bookings: no
+eat-in: yes
+takeaway: yes
+delivery: no
 just-drink: 
 hours: "Mon-Sat: 7:30am-6pm; Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/13334655474/
-summary: Focused on their own-roasted coffee, but also serving pastries, bread-and-jam, and things. Beans sold to take away. Expect queues.
-access: 
+summary: Focused on their own-roasted coffee, but also serving pastries, bread-and-jam, and such.  Coffee beans sold to take away.  Usually quite busy; expect queues.  Seating is provided on high stools around the edges of the room as well as one communal table.
+access: No step to get in, but toilets are down a flight of stairs in the basement.
 links:
   - http://www.timeout.com/london/restaurants/monmouth-coffee-company
   - http://www.yelp.co.uk/biz/monmouth-coffee-london
-surveyed: 
+surveyed: April 2014
 ---
 name: Wright Brothers
 address: 11 Stoney Street, London Bridge, SE1 9AD
@@ -6645,20 +6660,20 @@ station: London Bridge
 type: restaurant
 cuisine: British
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon-Sat: noon-11pm; Sun: noon-10pm. Hot food served Mon-Fri: noon-3pm, 6pm-11pm; Sat: noon-4pm, 6pm-11; Sun: noon-4pm, 6pm-10pm; Bank Hol: closed."
 photo: http://www.flickr.com/photos/kake_pugh/13334410903/
-summary: Self-described “oyster & porter house” serving fish and seafood including around a dozen varieties of oyster. Vegetarian options unlikely. A good selection of bottled stouts and porters as well as wine and cocktails.
-access: 
+summary: Self-described “oyster & porter house” serving fish and seafood including around a dozen varieties of oyster.  Staff accustomed to providing gluten-free options due to several regular customers who require them; but vegetarian options unlikely.  A good selection of bottled stouts and porters as well as wine and cocktails.  Barrel seating at front, high tables further back (for which booking is recommended).  Fine to come in for just a drink at the front part.  Pushchairs and prams are not permitted, due to lack of space.
+access: Tiny step to get in.  It's quite small inside, and most of the seating is on high stools, though there is one small table at normal height.  There is an accessible toilet on the ground floor but access to this is quite narrow.
 links:
   - http://chowhound.chow.com/topics/757244
   - http://theskinnybib.com/2011/04/27/oysters-indeed/
-surveyed: 
+surveyed: April 2014
 ---
 name: Konditor And Cook
 address: 10 Stoney Street, Bermondsey, SE1 9AD
@@ -6669,27 +6684,27 @@ phone: 020 7633 3333
 lat: 51.505576
 long: -0.091446832
 station: London Bridge
-type: restaurant
-cuisine: 
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Thu: 7:30am-6pm; Fri: 7:30am-7pm; Sat: 8:30am-5pm; Sun: 11am-5pm"
+type: takeaway
+cuisine: cake
+licensed: no
+byob: no
+bookings: no
+eat-in: no
+takeaway: yes
+delivery: no
+just-drink: no
+hours: "Mon-Fri: 3:30am-6:30pm; Sat: 8:30am-5pm; Sun: 11am-5pm"
 photo: http://www.flickr.com/photos/kake_pugh/13334640034/
-summary: Cakes, tarts, biscuits, savouries, salads, sandwiches, soups, and hot dishes.
-access: 
+summary: Cake shop on the edge of Borough Market, selling small and large cakes, mini treats, and biscuits.  No seating.  Wheat free and dairy free options.
+access: Small step to get in, no other steps inside, but it is quite small.
 links: 
-surveyed: 
+surveyed: April 2014
 ---
 name: The Market Porter
 address: 9 Stoney Street, Bermondsey, SE1 9AA
 area: London Bridge
 website: http://www.markettaverns.co.uk/
-twitter: 
+twitter: TheMarketPorter
 phone: 020 7407 2495
 lat: 51.505397
 long: -0.091277853
@@ -6697,21 +6712,21 @@ station: London Bridge
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 6am-8:30am, 11am-11pm; Sat: noon-11pm; Sun: noon-10:30pm. Bar food served Mon-Fri: noon-3pm; Sat: closed; Sun: noon-5pm. Restaurant food served Mon-Thu: noon-3pm; Fri-Sun: noon-5pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/13334638744/
   - http://www.flickr.com/photos/kake_pugh/13334392853/
   - http://www.flickr.com/photos/kake_pugh/13334376023/
-summary: Early-opening pub on the edge of Borough Market. Fast turnover keeps the real ale fresh but also means that rarer ales run out quickly.  Food served lunchtimes only from separate menus in the bar and upstairs dining room, with ingredients sourced from the market.
-access: 
+summary: Early-opening pub on the edge of Borough Market. Fast turnover keeps the real ale fresh but also means that rarer ales run out quickly.  Very busy and crowded at peak times.  Food served lunchtimes only from separate menus in the bar and upstairs dining room, with ingredients sourced from the market.  One or two vegetarian options.  Bookings taken for the restaurant only.  Children welcome but no highchairs or baby change facilities.
+access: A step to get in.  RADAR-locked accessible toilet on ground floor, but limited seating.  A flight of stairs (with handrail) to get to the first-floor restaurant.
 links: http://london.randomness.org.uk/wiki.cgi?Market_Porter,_SE1_9AA
-surveyed: 
+surveyed: April 2014
 ---
 name: Champor-Champor
 address: 62-64 Weston Street, London Bridge, SE1 3QJ
@@ -6755,18 +6770,18 @@ station: London Bridge
 type: pub
 cuisine: Thai
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: noon-3pm, 5pm-late; Sat: 5pm-late; Sun: closed"
 photo: https://www.flickr.com/photos/kake_pugh/13347498974/
-summary: Cheap and cheerful Thai food in a pub setting. Other (non-pub) branch on Tooley Street.
-access: 
+summary: Cheap and cheerful Thai food in a pub setting.  Vegetarian options on request.  The menu is the same as at their other (non-pub) branch on Tooley Street, but this one is more likely to have free tables at lunchtime.
+access: Large step to get in, but toilets are on the same level.
 links: http://london.randomness.org.uk/wiki.cgi?Suchard_Freehouse,_SE1_3JW
-surveyed: 
+surveyed: April 2014
 ---
 name: Casse-Croûte
 address: 109 Bermondsey Street, Bermondsey, SE1 3XB
@@ -6780,20 +6795,20 @@ station: London Bridge
 type: restaurant
 cuisine: French
 licensed: yes
-byob: 
+byob: yes
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sat: 9am-10pm; Sun: 9am-5pm"
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: noon-10pm; Sun: 9am-5pm"
 photo: https://www.flickr.com/photos/kake_pugh/13347103075/
-summary: Tiny French bistro.
-access: 
+summary: Tiny French bistro with a small amount of bar seating.  Fine to come in for just a drink if there’s room.  BYOB of French wines only, with a corkage of £19.  Vegetarian, vegan, and gluten-free options possible with advance notice.
+access: "A small step to get in; no further steps to the toilet.  Quite small and crowded."
 links:
   - http://www.theguardian.com/lifeandstyle/2013/aug/31/restaurants-casse-croute-london
   - http://www.timeout.com/london/restaurants/casse-croute
-surveyed: 
+surveyed: April 2014
 ---
 name: José
 address: 104 Bermondsey Street, Bermondsey, SE1 3UB
@@ -6804,24 +6819,24 @@ phone:
 lat: 51.500577
 long: -0.081855252
 station: London Bridge
-type: pub
+type: restaurant
 cuisine: Spanish
 licensed: yes
-byob: 
+byob: no
 bookings: no
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: no
 hours: "Mon-Fri: noon-10:30pm; Sat: 10am-10:30pm; Sun: noon-5:30pm"
 photo: https://www.flickr.com/photos/kake_pugh/13347234153/
-summary: 
-access: 
+summary: "Small but well-regarded tapas bar with an open kitchen and a good selection of sherries and Spanish wines.  One or two vegetarian options, and gluten-free may be possible.  No telephone, and no bookings."
+access: No step to get in, and the toilet is on the same level.  Very small and crowded inside.  All the seating is on high stools.
 links:
   - http://www.timeout.com/london/restaurants/jose
   - http://www.standard.co.uk/goingout/restaurants/in-the-queue-for-top-tapas-at-jos-7425259.html
   - http://www.doshermanos.co.uk/2011/06/jose-una-esquina-espanola.html
-surveyed: 
+surveyed: April 2014
 ---
 name: Caphe House
 address: 114 Bermondsey Street, Bermondsey, SE1 3TX
@@ -6860,21 +6875,23 @@ station: London Bridge
 type: restaurant
 cuisine: Italian
 licensed: yes
-byob: 
+byob: yes
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: no
 hours: "Mon: closed; Tue-Fri: noon-3pm, 6pm-10pm; Sat: noon-3:30pm, 6pm-10pm; Sun: noon-4pm"
-photo: https://www.flickr.com/photos/kake_pugh/13347091225/
-summary: 
-access: 
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13347091225/
+  - https://www.flickr.com/photos/kake_pugh/14088874185/
+summary: Italian restaurant with a bookable private room.  BYOB possible, but corkage £15/bottle (£30 in the private room), with a limit of 1 bottle per diner.  Three or four highchairs, and there’s a pull-down baby change table in the accessible toilet.  Gluten-free pasta always available.  Vegetarian options are sparse.
+access: Small step to get in.  Accessible toilet on ground floor.
 links:
   - http://www.timeout.com/london/restaurants/zucca
   - http://metro.co.uk/2010/04/27/zucca-restaurant-review-268072/
   - http://bellaphon.blogspot.co.uk/2012/05/zucca.html
-surveyed: 
+surveyed: April 2014
 ---
 name: Pizarro
 address: 194 Bermondsey Street, Bermondsey, SE1 3TQ
@@ -6888,21 +6905,23 @@ station: London Bridge
 type: restaurant
 cuisine: Spanish
 licensed: yes
-byob: 
+byob: yes
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sat: noon-11pm; Sun: noon-10pm. Main menu served Mon-Fri: noon-3pm, 6pm-11pm; Sat: noon-11pm; Sun: noon-10pm."
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: noon-11pm; Sun: noon-10pm. Main menu served Mon-Fri: noon-3pm, 6pm-11pm; Sat: noon-11pm; Sun: 11am-10pm."
 photo:
   - https://www.flickr.com/photos/kake_pugh/13347073455/
   - https://www.flickr.com/photos/kake_pugh/13347214113/
-summary: Under the same ownership as José up the road, but after an initial period of no-booking policy, this one now takes bookings.
-access: 
+  - https://www.flickr.com/photos/kake_pugh/14085636242/
+  - https://www.flickr.com/photos/kake_pugh/13902147149/
+summary: Spanish restaurant under the same ownership as José up the road, but after an initial period of no-booking policy, this one now takes bookings.  BYOB permitted but corkage £15/bottle.  Highchair available, and there’s a pull-down baby change table in the accessible toilet.  One vegetarian starter and main always available, sometimes more.  Vegan and gluten-free options are possible.  Bookable private dining room seats up to 10 people.  Large groups (14 or more) may be asked to order from a set menu.
+access: A large step in, but there is a portable ramp available.  Toilets on the same level, including an accessible one, though the corridor to this is a little narrow.
 links:
   - http://www.timeout.com/london/restaurants/pizarro
-surveyed: 
+surveyed: April 2014
 ---
 name: Crystal China
 address: 78-80 Tower Bridge Road, Bermondsey, SE1 4TP
@@ -6918,22 +6937,22 @@ station:
 type: restaurant
 cuisine: Chinese
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: no
 hours: "Mon-Sat: noon-2:30pm, 5:30pm-11:30pm; Sun: noon-3pm; 5:30pm-11pm"
 photo:
   - https://www.flickr.com/photos/kake_pugh/13348984964/
   - https://www.flickr.com/photos/kake_pugh/13348665463/
   - https://www.flickr.com/photos/kake_pugh/13348653093/
   - http://www.flickr.com/photos/rjw1/8344956217/
-summary: Regional Chinese food from Sichuan, Dongbei (North-East China), and Shanghai. They also do the usual generic Anglicised dishes. A small selection of the interesting stuff is available for online ordering and delivery.
-access: 
+summary: Regional Chinese food from Sichuan, Dongbei (North-East China), and Shanghai. They also do the usual generic Anglicised dishes. A small selection of the interesting stuff is available for online ordering and delivery.  Highchairs available but no baby change facilities.
+access: A small ridge at the threshold and then a 90-degree turn.  No steps to toilets, but there is a somewhat tight turn.
 links: http://london.randomness.org.uk/wiki.cgi?Crystal_China,_SE1_4TP
-surveyed: 
+surveyed: April 2014
 ---
 name: M Manze
 address: 87 Tower Bridge Road, Bermondsey, SE1 4TW
@@ -6948,21 +6967,21 @@ station:
   - London Bridge
 type: restaurant
 cuisine: British
-licensed: 
-byob: 
-bookings: 
-eat-in: 
+licensed: no
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: no
+just-drink: no
 hours: "Mon: 11am-2pm; Tue-Thu: 10.30am-2pm; Fri: 10am-2.30pm; Sat: 10am-2.45pm; Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/2446494236/
   - http://www.flickr.com/photos/kake_pugh/2446404662/
-summary: The oldest continuously open “pie and mash shop” in London, on Tower Bridge Road since 1902 and now housed in a Grade II listed building with original Victorian tiling. Open lunchtimes only, serving pies, mashed potato, stewed and jellied eels, and “liquor” (a thin parsley sauce, non-alcoholic despite the name). Vegan (soya-based) pies available.
-access: 
+summary: The oldest continuously open “pie and mash shop” in London, on Tower Bridge Road since 1902 and now housed in a Grade II listed building with original Victorian tiling. Open lunchtimes only, serving pies, mashed potato, stewed and jellied eels, and “liquor” (a thin parsley sauce, non-alcoholic despite the name). Vegan (soya-based) pies available.  Bookings taken for large parties only.  Highchairs available.
+access: A tiny step to get in.  Seating is on church-pew-style benches at long tables.  No customer toilets.
 links: http://london.randomness.org.uk/wiki.cgi?M_Manze,_SE1_4TW
-surveyed: 
+surveyed: April 2014
 ---
 name: Constancia
 address: 52 Tanner Street, Bermondsey, SE1 3PH
@@ -7012,21 +7031,21 @@ station:
 type: pub
 cuisine: British
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sat: noon-11pm; Sun: noon-10:30pm"
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Sun: noon-11pm"
 photo:
   - https://www.flickr.com/photos/kake_pugh/13351080574/
   - https://www.flickr.com/photos/kake_pugh/13350827053/
   - https://www.flickr.com/photos/kake_pugh/13350692155/
-summary: Interesting draught and bottled beers from London and beyond. Food is mainly meat-based, heavy on the hotdogs and burgers, and includes foot-long pork scratchings. Vegetarian options are sparse.
-access: 
+summary: "Craft beer focused pub, part of a small chain, serving British pub food with an American twist.  Interesting draught and bottled beers from London and beyond, with an emphasis on small local breweries. Food is mainly meat-based, heavy on the hotdogs and burgers, and includes foot-long pork scratchings. Vegetarian options are sparse. 70-seater function room. Highchairs and children’s portions available, but no baby change facilities."
+access: Two steps to get in.  Toilets down a flight of stairs with several bends and a non-continuous handrail.
 links: http://london.randomness.org.uk/wiki.cgi?Draft_House,_SE1_2UP
-surveyed: 
+surveyed: April 2014
 ---
 name: Tentazioni Fine Food
 address: 19 The Circle, Queen Elizabeth Street, Bermondsey, SE1 2JE
@@ -7046,21 +7065,21 @@ type:
   - restaurant
 cuisine: Italian
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: yes
+just-drink: yes
 hours: "Mon-Fri: 8am-8pm; Sat: 9am-8pm; Sun: closed"
 photo:
-  - http://www.flickr.com/photos/foodstories/3958601756/
-  - http://www.flickr.com/photos/foodstories/3958267695/
-  - http://www.flickr.com/photos/foodstories/3959048712/
-summary: Italian delicatessen and cafe under the same ownership as nearby Tentazioni Restaurant. Sandwiches, pasta, and coffee as well as deli items such as cheese, bread, cooked meat, and storecupboard groceries.
-access: 
+  - https://www.flickr.com/photos/kake_pugh/13350631035/
+  - https://www.flickr.com/photos/kake_pugh/14108814543/
+  - https://www.flickr.com/photos/kake_pugh/13902140829/
+summary: Italian delicatessen and cafe under the same ownership as nearby Tentazioni Restaurant. Sandwiches, pasta, and coffee as well as deli items such as cheese, bread, cooked meat, and storecupboard groceries.  Gluten-free pasta available, and substitutions possible on most menu items.  Wines by the glass and bottle to drink in, and bottles also available to take away.  No highchairs on site, but they can bring one from the restaurant with advance notice.  No baby change facilities (no customer toilets).
+access: A ridge at the threshold.  5 steps to the seating area, but they are happy to move a table to the ground-floor deli area, though space is limited and this could only seat two or three.  No customer toilets.
 links: http://www.yelp.co.uk/biz/tentazioni-fine-food-london
-surveyed: 
+surveyed: April 2014
 ---
 name: Tentazioni Restaurant
 address: Lloyds Wharf, 2 Mill Street, Bermondsey, SE1 2BD
@@ -7074,18 +7093,18 @@ station: Bermondsey
 type: restaurant
 cuisine: Italian
 licensed: yes
-byob: 
+byob: yes
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: yes
+delivery: yes
+just-drink: yes
 hours: "Mon-Fri: noon-2:45pm, 6pm-10:45pm; Sat: 6pm-10:45pm; Sun: noon-9pm"
 photo: http://flickr.com/photos/kake_pugh/2908524670/
-summary: Space to suit large groups if booked in advance.
-access: 
+summary: Italian restaurant in Bermondsey’s old warehouse district.  Deliveries within 1 mile (which includes the Tower Bridge Hilton).  BYOB corkage £10.  Highchairs and smaller portions available for children, but no baby change facilities.  Separate vegetarian and gluten-free menus.  Bookable areas to suit up to 25, up to 35, or up to 70.
+access: Step-free access from the Mill Street entrance (which is usually closed but can be opened on request), but steps from here to the toilets.
 links: http://london.randomness.org.uk/wiki.cgi?Tentazioni,_SE1_2BD
-surveyed: 
+surveyed: April 2014
 ---
 name: The Dean Swift
 address: 10 Gainsford Street, Bermondsey, SE1 2NE
@@ -7102,22 +7121,22 @@ station:
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sat: noon-midnight; Sun: noon-11pm. Food served Mon-Sun: noon-9pm."
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: noon-midnight; Sun: noon-11pm. Food served Mon-Sun: noon-9:30pm."
 photo:
   - https://www.flickr.com/photos/kake_pugh/13350999714/
   - https://www.flickr.com/photos/kake_pugh/13350984724/
   - https://www.flickr.com/photos/kake_pugh/13350970654/
   - https://www.flickr.com/photos/kake_pugh/13350719983/
-summary: Interesting draught and bottled beers from London and beyond. Bar snacks might include a half-pint of brown shrimp, chorizo scotch egg, or baba ganoush with bread. A small main menu in addition, with a reasonable proportion of vegetarian options.
-access: A step to get in, and it's quite small inside.
+summary: Interesting draught and bottled beers from London and beyond.  Bar snacks might include a half-pint of brown shrimp, chorizo scotch egg, or baba ganoush with bread.  A small main menu in addition, with a reasonable proportion of vegetarian options.  Chef happy to adapt to special diets where possible.  Highchairs and children’s portions available, but no baby change facilities.
+access: A small step to get in.  No steps to toilets.  The restaurant is upstairs and there’s no lift, but food is also available on the ground floor.
 links: http://london.randomness.org.uk/wiki.cgi?Dean_Swift,_SE1_2LX
-surveyed: 
+surveyed: April 2014
 ---
 name: Teapod
 address: Cardamom Building, 31 Shad Thames, Bermondsey, SE1 2YR
@@ -7133,47 +7152,53 @@ station:
   - Tower Hill
 type: restaurant
 cuisine: British
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+licensed: no
+byob: no
+bookings: no
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 8am-6pm; Sat-Sun: 9:30am-6:30pm"
 photo:
   - https://www.flickr.com/photos/kake_pugh/13350528765/
   - https://www.flickr.com/photos/kake_pugh/13350704753/
   - https://www.flickr.com/photos/kake_pugh/13350545545/
-summary: Modern-style teashop offering a full range of loose-leaf teas, espresso-based coffees, handmade cakes including wheat-free options, sandwiches, and daily hot options.
+  - https://www.flickr.com/photos/kake_pugh/14085611921/
+  - https://www.flickr.com/photos/kake_pugh/14089278724/
+summary: Modern-style teashop offering a full range of loose-leaf teas, espresso-based coffees, handmade cakes including wheat-free options, sandwiches, and daily-changing hot options.  Vegetarian always available.  Options suitable for gluten-free, dairy-free, vegan, and other special diets are sometimes available.  A highchair for children, but no baby change facilities.
 access: No step to get in (just a small ridge), and it's step-free through to the toilet too. The interior is quite well-filled with chairs and tables, and it might be hard to get a wheelchair to a table if the place was full. The toilet is a single cubicle and isn't overly large, but the door opens outwards.
 links: http://london.randomness.org.uk/wiki.cgi?Teapod,_SE1_2YR
-surveyed: 
+surveyed: April 2014
 ---
 name: Peppers
 address: 7-9 West Ham Lane, Stratford, E15 4PH
 area: Stratford
 website: 
 twitter: 
-phone: 
+phone: 020 8519 3470
 lat: 51.540550
 long: 0.0024492591
 station: Stratford
 type: restaurant
-cuisine: 
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: 
-photo: 
-summary: 
-access: 
+cuisine: Italian
+licensed: no
+byob: yes
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: 10:30am-6:30pm; Sun: closed."
+photo:
+  - https://www.flickr.com/photos/kake_pugh/14087878665/
+  - https://www.flickr.com/photos/kake_pugh/14084690601/
+  - https://www.flickr.com/photos/kake_pugh/14064790296/
+  - https://www.flickr.com/photos/kake_pugh/14087886425/
+summary: "Halal cafe with plenty of vegetarian options.  Stone-baked pizzas (halal beef pepperoni available), panini, sandwiches, baguettes, jacket potatoes, and Musetti coffee.  Local delivery for large orders only.  One small table with low chairs for children.  Some outside seating."
+access: No step to get in, just a ridge at the threshold.  No interior steps.  Another ridge and a tight turn to get to the toilets.
 links: 
-surveyed: 
+surveyed: April 2014
 ---
 name: Bongo East
 address: 46 Longbridge Road, Barking, IG11 8RW
@@ -7566,20 +7591,22 @@ station:
   - Pudding Mill Lane
   - Stratford
 type: restaurant
-cuisine: British
-licensed: 
-byob: 
-bookings: 
+cuisine:
+  - British
+  - Italian
+licensed: yes
+byob: no
+bookings: no
 eat-in: yes
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sun: 9am-5pm"
-photo: 
-summary: "Cafe at the “View Tube” overlooking the Olympic Park.  Closest to Pudding Mill Lane Station on the DLR, but walkable from Stratford Station.  Open seven days a week from morning until late afternoon.  Soup and bread, pastries, cakes, and locally roasted coffee."
-access: 
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sun: 9am-5pm (sometimes open later)."
+photo: https://www.flickr.com/photos/kake_pugh/14084765922/
+summary: "Cafe at the “View Tube” overlooking the Olympic Park.  Closest to Pudding Mill Lane Station on the DLR, but walkable from Stratford Station.  Open seven days a week from morning until late afternoon.  Some ingredients sourced from the attached kitchen garden.  Soup and bread, hot meals, sandwiches, pastries, cakes, and locally roasted coffee.  Cakes, sandwiches, and drinks available to take away (not hot food).  Highchairs, baby change facilities, and children’s corner with books and activities.  Vegetarian options.  Gluten-free bread, soya milk, decaffeinated coffee, and gluten-and-dairy-free cakes available."
+access: Step-free to get in, and there's an accessible toilet on the same level.
 links: http://www.timeout.com/london/restaurants/moka-east
-surveyed: 
+surveyed: April 2014
 ---
 name: Squires
 address: 6 Beckton Road, Canning Town, E16 1EW
@@ -7649,12 +7676,16 @@ eat-in: no
 takeaway: yes
 delivery: yes
 just-drink: no
-hours: "Mon-Sun: 11am-late"
-photo: 
-summary: "Wood-fired pizza takeaway and delivery from a small chain with several London branches."
-access: 
+hours: "Mon-Thu: 11am-11pm; Fri-Sat: 11am-midnight; Sun: 11am-11pm"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/14085634512/
+  - https://www.flickr.com/photos/kake_pugh/14085624262/
+  - https://www.flickr.com/photos/kake_pugh/14108810383/
+  - https://www.flickr.com/photos/kake_pugh/13902129010/
+summary: "Wood-fired pizza takeaway and delivery from a small chain with several London branches.  Also salads, smoothies, freshly-squeezed juices, antipasti, ice cream, and wine.  A few vegetarian options.  Gluten-free pizza bases available in 12-inch size only."
+access: A large step to get in, and it's quite small inside.
 links: 
-surveyed: 
+surveyed: April 2014
 ---
 name: Moshi Moshi
 address: Unit 24, Liverpool Street Station, EC2M 7PY
@@ -7692,46 +7723,50 @@ long: -0.087427542
 station: London Bridge
 type: restaurant
 cuisine: British
-licensed: 
-byob: 
+licensed: yes
+byob: no
 bookings: yes
 eat-in: yes
-takeaway: 
-delivery: 
-just-drink: 
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon-Tue: 8am-11:30am, noon-3pm; Wed-Fri: 8am-11:30am, noon-3pm, 6pm-10:30pm; Sat: 8am-4pm, 6pm-10:30pm; Sun: closed"
-photo: 
-summary: 
-access: 
+photo:
+  - https://www.flickr.com/photos/kake_pugh/14088882915/
+  - https://www.flickr.com/photos/kake_pugh/14088886095/
+  - https://www.flickr.com/photos/kake_pugh/14088889435/
+  - https://www.flickr.com/photos/kake_pugh/13902301438/
+summary: "Small cafe, associated with a workspace but open to the public.  British food focusing on seasonal British produce.  Local bottled beer from the Camden Town brewery, and predominantly natural wines.  One or two vegetarian options, gluten-free possible with advance notice.  Access via buzzer (which can be temperamental, so they recommend you bring your mobile phone to call them in case of problems).  Rooftop patio garden with a vertiginously-looming Shard and good views across London.  Booking strongly recommended on evenings towards the end of the week.  Children permitted but there are no highchairs or baby change facilities."
+access: Many steps to get to the cafe; there is a lift but it only goes part of the way, leaving a total of 41 unavoidable steps in flights of about half a dozen.
 links:
   - http://www.timeout.com/london/restaurants/rooftop-cafe
   - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d5267229-Reviews-The_Rooftop_Cafe-London_England.html
-surveyed: 
+surveyed: April 2014
 ---
 name: Ticino
 address: 177 Bermondsey Street, Bermondsey, SE1 3UW
 area: London Bridge
 website: 
 twitter: TicinoKitchen
-phone: 
+phone: 020 7378 2882
 lat: 51.498879
 long: -0.080984876
 station: London Bridge
 type: restaurant
 cuisine: Italian
-licensed: 
-byob: 
-bookings: 
+licensed: yes
+byob: no
+bookings: yes
 eat-in: yes
-takeaway: 
-delivery: 
-just-drink: 
-hours: 
-photo: 
-summary: 
-access: 
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Thu: 10am-10pm; Fri-Sat: 9am-11pm; Sun: 10am-10pm (only been open three months at time of survey; these might change)."
+photo: https://www.flickr.com/photos/kake_pugh/14089348094/
+summary: Italian restaurant associated with Ticino artisan bakery.  Vegetarian and vegan options on request.  Gluten-free bread available.  Coffee from Illy.  Pizzas, sandwiches, and coffee available for takeaway.  OK to come in just for a drink if they’re not busy.  Two highchairs but no baby change facilities (aside from a nappy bin in the accessible toilet).
+access: No step to get in.  Accessible toilet on ground floor.
 links:
   - http://chowhound.chow.com/topics/965798
   - http://samphireandsalsify.com/2014/03/06/ticino-bermondsey-street/
   - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d5884004-Reviews-Ticino_Restaurant-London_England.html
-surveyed: 
+surveyed: April 2014
