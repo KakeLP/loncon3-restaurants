@@ -19,6 +19,10 @@ h3.area_name {
   margin-left: -2.5em;
 }
 
+.surveyed {
+  background-color: #cbdba8;
+}
+
 .venues_by_area li .name {
   font-weight: bold;
 }

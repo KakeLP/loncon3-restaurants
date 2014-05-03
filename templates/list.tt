@@ -1,7 +1,8 @@
 [% subtitle = 'list' %]
 [% INCLUDE header.tt %]
 
-<p>Note: inclusion on this list does not imply inclusion in the final guide.  This is just a shortlist.</p>
+<p>Note: inclusion on this list does not imply inclusion in the final guide.  This is just a shortlist.  <span class="surveyed">Highlighted entries</span>
+have been fully surveyed.</p>
 
 <ul class="areas">
   [% FOREACH area = areas %]
@@ -19,7 +20,11 @@
 
   <ul class="venues_by_area">
   [% FOREACH venue = area.venues %]
-    <li>
+    [% IF venue.surveyed %]
+      <li class="surveyed">
+    [% ELSE %]
+      <li class="not_surveyed">
+    [% END %]
       <span class="name">[% venue.name %],</span>
       <span class="address">[% venue.address %].</span>
       <span class="contact">
