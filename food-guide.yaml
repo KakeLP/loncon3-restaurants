@@ -1333,7 +1333,7 @@ links:
 surveyed: 
 ---
 name: Ayanna's
-address: 2 Yablsey Street, Blackwall, E14 9RG
+address: 2 Yabsley Street, Blackwall, E14 9RG
 area: Canary Wharf
 website: http://www.ayannaslondon.com/
 twitter: AyannasLondon
@@ -1673,18 +1673,18 @@ station: Canary Wharf
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: no
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Food served Mon-Fri 8am-10pm, Sat-Sun 10am-10pm."
 photo: http://www.flickr.com/photos/kake_pugh/12752113443/
-summary: Chain pub serving food all day including breakfast.
-access: 
+summary: Chain pub right next to Canary Wharf Station serving food all day including breakfast, small plates, burgers, and main meals.  Fully glazed frontage looks out onto the dock, and there's plenty of outside seating too.  Highchairs available, and children have their own section of the menu.  Some vegetarian and gluten-free options, and staff have access to a large book listing all dietary information.
+access: Step-free access via one of the three entrances.  RADAR-locked accessible toilet.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Slug and Lettuce
 address: 30 South Colonnade, Canary Wharf, E14 5EP
@@ -1698,18 +1698,18 @@ station: Canary Wharf
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Fri: 8am-midnight; Sat-Sun: 10am-midnight.  Food served Mon-Fri: 8am-10pm; Sat-Sun: 10am-10pm."
+byob: no
+bookings: yes (except at lunchtimes)
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Fri: 8am-midnight; Sat: 10am-midnight; Sun: 10am-10:30pm.  (May close at 11pm Mon-Sat if not busy.)  Food served Mon-Fri: 8am-10pm; Sat-Sun: 10am-10pm."
 photo: http://www.flickr.com/photos/kake_pugh/12752112063/
-summary: Chain pub serving food all day including breakfast.  No under-18s after 5pm.
-access: 
+summary: Chain pub right next to Canary Wharf Station serving food all day including breakfast.  Highchairs, children's menu, and baby change facilities, but no under-18s after 5pm.  Vegetarian options, but not vegan.  Some gluten-free available on request.
+access: Step-free access, though the entrance doors are quite heavy.  RADAR-locked accessible toilet.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Smollensky's
 address: 1 Reuters Plaza, Canary Wharf, E14 5AJ
@@ -1745,21 +1745,23 @@ phone: 020 7719 1749
 lat: 51.504302
 long: -0.019689292
 station: Canary Wharf
-type: restaurant
+type:
+  - grocery shop
+  - restaurant
 cuisine: Italian
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes (except at lunchtimes)
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 6:30am-11:30pm; Sat: 9am-11:30pm; Sun: 9am-10:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/12752340924/
-summary: Chain Italian restaurant with a separate gluten-free menu including gluten-free pasta.  Also serves breakfast.
-access: 
+summary: Chain Italian restaurant right next to Canary Wharf Station, also serves breakfast.  Separate vegan, vegetarian, and gluten-free menus.  The gluten-free menu includes gluten-free pasta.  The vegan menu is small, but includes 3 antipasti and 2 main courses.  Also has a small deli selling Italian groceries.
+access: Step-free throughout, and there's an accessible toilet, though there's very little space to move between tables and the toilets are at the far end.  Very noisy when busy.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Nicolas
 address: Unit 480, One Canada Square, Canary Wharf, E14 5AX
@@ -1803,18 +1805,18 @@ station: Canary Wharf
 type: takeaway
 cuisine: American
 licensed: no
-byob: 
+byob: no
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
-hours: "Mon-Fri: 7am-4pm; Sat-Sun: closed"
+delivery: no
+just-drink: yes
+hours: "Mon-Fri: 6am-5pm; Sat-Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/12751735305/
-summary: Hot salt beef and other meats carved to order and served in generously-filled sandwiches.  Don't think there's any seating.
-access: Step-free from the plaza outside Canary Wharf Station.
+summary: Hot salt beef and other meats carved to order and served in generously-filled sandwiches.  Seating for about 20.  Very busy at lunchtimes, but queues move fast.
+access: Step-free from the plaza outside Canary Wharf Station.  No customer toilets.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Rocket
 address: 2 Churchill Place, Canary Wharf, E14 5RB
@@ -1934,43 +1936,43 @@ station: Canary Wharf
 type: restaurant
 cuisine: British
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 7:30am-11pm; Sat: 9am-11pm; Sun: 10am-7pm"
 photo: http://www.flickr.com/photos/kake_pugh/12819572654/in/photostream
-summary: Seasonally-based British food and drink, including breakfast.
-access: 
+summary: Seasonally-based British food and drink, including breakfast.  Vegetarian and gluten-free options are sparse.  Highchairs, baby change, and half-portions available for children.
+access: Step-free throughout, and there's an accessible toilet.  Entrance doors are very heavy.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Taylor St Baristas
 address: 8 South Colonnade, Canary Wharf, E14 4PZ
 area: Canary Wharf
 website: http://www.taylor-st.com/
-twitter: Taylor_St
+twitter: TSBCanaryWharf
 phone: 020 7519 6536
 lat: 51.504809
 long: -0.022025496
 station: Canary Wharf
 type: takeaway
-cuisine: British
+cuisine: Australian
 licensed: no
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: no
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 7am-6pm; Sat-Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/12819148145/in/photostream
-summary: Coffee specialists also serving breakfast, soups, sandwiches, and cakes.  Mostly takeaway, a few seats.
-access: 
+summary: Coffee specialists also serving breakfast, soups, sandwiches, and cakes.  Mostly takeaway, a few seats.  All soups and some salads are gluten-free.  Vegetarian and vegan options.  Choice of coffee beans; house blend plus a guest that changes every two weeks.  Also sells coffee beans to grind at home, or will grind to order.
+access: Step-free throughout.  No customer toilets.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Boisdale
 address: Cabot Place, Canary Wharf, E14 4QT
@@ -2002,25 +2004,25 @@ address: Unit 12, Cabot Place West, Canary Wharf, E14 4QT
 area: Canary Wharf
 website: http://www.cafebrera.com/
 twitter: 
-phone: 0207 512 9191
+phone: 0207 512 9394
 lat: 51.505120
 long: -0.022186428
 station: Canary Wharf
 type: restaurant
 cuisine: Italian
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
-delivery: yes
-just-drink: 
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 6am-9pm; Sat-Sun: 9am-6pm"
 photo: http://www.flickr.com/photos/kake_pugh/12819201803/in/photostream
-summary: Milanese-style cafe with bread baked on the premises.  Three locations around Canary Wharf.
-access: 
+summary: Milanese-style cafe with bread baked on the premises.  Three locations around Canary Wharf.  Vegetarian options always, gluten-free options occasionally.
+access: Step-free entrance.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Iberica
 address: 12 Cabot Square, Canary Wharf, E14 4QQ
@@ -2084,20 +2086,20 @@ station: Canary Wharf
 type: restaurant
 cuisine: British
 licensed: yes
-byob: 
+byob: yes (corkage £30/bottle)
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Fri: 8am-11:30am, 11:45am-2:45pm, 5:30pm-10:30pm; Sat-Sun: 10am-noon, 12:15pm-5pm"
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Fri: 8am-11:30am, 11:45am-2:45pm, 5:30pm-10:30pm; Sat: 10am-noon, 12:15pm-5pm, 5:30pm-10:30pm; Sun: 10am-noon, 12:30pm-5pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/12819083595/
   - http://www.flickr.com/photos/kake_pugh/12837792974/
-summary: Modern British restaurant, bar, and deli.  Part of a small chain.
-access: 
+summary: Modern British restaurant, bar, and deli with other branches throughout London.  Highchairs, children's menu, activity pack, weekend-only playroom, and pull-down baby change in the accessible toilet.  Vegetarian options always available; vegan, gluten-free, and other special diets catered for with advance notice.
+access: Step-free access, wide aisles, and accessible toilet, though the doors at the entrance and to the toilets are quite heavy.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Royal China
 address: 30 Westferry Circus, Canary Wharf, E14 8RR
@@ -2362,7 +2364,7 @@ name: Obikà
 address: Unit 1, West Wintergarden, 35 Bank Street, Canary Wharf, E14 5NW
 area: Canary Wharf
 website: http://obika.com/
-twitter: 
+twitter: ObikaUK
 phone: 020 7719 1532
 lat: 51.502535
 long: -0.020239145
@@ -2370,22 +2372,22 @@ station: Canary Wharf
 type: restaurant
 cuisine: Italian
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Fri: 9:30am-10pm; Sat: noon-10pm"
+eat-in: yes
+takeaway: yes
+delivery: no (except if ordered 2 hours in advance, and only within the Canary Wharf estate)
+just-drink: yes (except at peak times)
+hours: "Mon-Fri: 11:30am-10pm; Sat: noon-10pm; closed Sun.  Sandwiches and croissants available for takeaway from 7am."
 photo:
   - http://www.flickr.com/photos/kake_pugh/12836276055/
   - http://www.flickr.com/photos/kake_pugh/12836276055/
   - http://www.flickr.com/photos/kake_pugh/12836327273/
   - http://www.flickr.com/photos/kake_pugh/12836226545/
-summary: Self-styled “Mozzarella bar”.
-access: 
+summary: Self-styled “Mozzarella bar” located in the bright, airy West Wintergarden atrium near Canary Wharf Station, offering pastas, pizzas, and salads as well as mozzarella-based dishes.  Highchairs and half-portions (mainly of pasta dishes) available for children.  Vegetarian and gluten-free options are mostly their main-course salads.  Other allergies catered for with advance notice, and the kitchen staff are aware of cross-contamination issues.
+access: Step-free access (not immediately obvious; go around the other side if you can't see it).  RADAR-locked accessible toilet a short (indoor) distance away.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Zamoo Falafel
 address: 19 Cuba Street, Isle of Dogs, E14 8LD
@@ -2534,25 +2536,25 @@ address: 3 Westferry Circus, Canary Wharf, E14 4HD
 area: Canary Wharf
 website: 
 twitter: 
-phone: 020 7519 6792
+phone: 
 lat: 51.506178
 long: -0.026274115
 station: Canary Wharf
 type: takeaway
-cuisine: 
-licensed: 
-byob: 
-bookings: 
-eat-in: 
+cuisine: Italian
+licensed: no
+byob: no
+bookings: no
+eat-in: no
 takeaway: yes
-delivery: 
-just-drink: 
-hours: "Possibly Mon-Fri: 6am-4pm"
+delivery: no
+just-drink: no
+hours: "Mon-Fri: 6am-3pm; Sat-Sun: closed."
 photo: http://www.flickr.com/photos/kake_pugh/12837780504/
-summary: "Cheap sandwich shop.  NB: Phone number not working."
-access: 
+summary: "Small but well-priced sandwich shop; a rare budget option on the Wharf.  Also sells pre-packed pasta salads.  NB: no telephone."
+access: Step-free access, and a wide aisle to the serving counter.  Entrance door quite heavy.  No customer toilets.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Quadrato
 address: Four Seasons Hotel, 46 Westferry Circus, Canary Wharf, E14 8RS
@@ -2568,18 +2570,18 @@ station:
 type: restaurant
 cuisine: Italian
 licensed: yes
-byob: 
+byob: yes (corkage £20)
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 6:30am-11am, noon-3pm, 6pm-10:30pm; Sat: 8am-11am, noon-3pm, 6pm-10:30pm; Sun: 8am-11am, 12:30pm-3pm, 6pm-10:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/12837414053/
-summary: Modern Italian restaurant in the Four Seasons Hotel, open for breakfast, lunch, and dinner.
-access: No step-free access from Westferry Station; for step-free access use Canary Wharf Station.
+summary: Modern Italian restaurant in the Four Seasons Hotel, open for breakfast, lunch, and dinner.  Continental breakfast buffet every day, plus full English breakfast on weekends.  Highchairs and children's menu available.  For baby change facilities, take the lift to the first floor of the hotel.  Brunch and “kids' corner” on Sundays.  Vegetarian options always available; vegan, gluten-free, and other special diets catered for with advance notice.
+access: Step-free access, and there are accessible cubicles in both men's and women's toilets.  Doors from outside to hotel lobby and from lobby to toilets are a little heavy, but external doors usually have a doorperson in attendance.  Use Canary Wharf Station for step-free access from public transport, as there are mandatory steps between Westferry Station and here.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Dockland Diner
 address: 76-77 Cannon Drive, Isle of Dogs, E14 4AS
@@ -2595,18 +2597,18 @@ station:
 type: restaurant
 cuisine: British
 licensed: no
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Possibly Mon-Fri: 7am-2:30pm; Sat-Sun: closed"
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Fri: 7am-2:30pm; Sat: 7am-noon; Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/12838590004/
-summary: "Traditional British “greasy spoon” cafe — possibly the only one of its kind on the Isle of Dogs.  NB: Phone number possibly wrong (no answer on several occasions)."
-access: 
+summary: "Traditional British cafe of 33 years' standing, and now the only one of its kind remaining on the Isle of Dogs.  It even has its own fruit machine (think gambling, not fresh fruit).  The current manager has been there for 30 years.  Full English breakfasts, fish and chips, pies, pork chops, and sponge puddings.  Everything available in half-portions for children.  A few vegetarian options; jacket potatoes and so on.  Gets very busy at lunchtimes."
+access: Steps to get in, but portable ramp can be put in place on request.  Very little space to move between tables.  Toilet is a single large cubicle.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: The Ledger Building
 address: 4 Hertsmere Road, West India Quay, E14 4AL
@@ -2621,17 +2623,17 @@ type: pub
 cuisine: British
 licensed: yes
 byob: no
-bookings: 
-eat-in: 
+bookings: yes
+eat-in: yes
 takeaway: no
 delivery: no
-just-drink: 
-hours: "Mon-Thu: 8am-midnight; Fri-Sat: 8am-1am; Sun: 8am-11pm"
+just-drink: yes
+hours: "Mon-Thu: 8am-midnight; Fri-Sat: 8am-1am; Sun: 8am-11pm.  Food served Mon-Sat: 8am-11pm; Sun: 8am-10pm."
 photo: http://www.flickr.com/photos/kake_pugh/12838131875/
-summary: Lloyds No 1 (Wetherspoons) pub.  Reasonably-priced real ales and pub food.
-access: 
+summary: Lloyds No 1 (Wetherspoons) pub serving reasonably-priced real ales and pub food.  Plenty of outside seating, and there's a bar out there too in the summer months.  Children allowed in dining rooms (but not interior bar area) until 9pm.  Children's menu, pull-down babychange in the accessible toilet, and an abundance of highchairs.  Vegetarian, vegan, and gluten-free options; a customer leaflet is available with all dietary information.
+access: Pavement outside is uneven (cobblestones).  Three steps in, but a portable ramp can be placed on request.  Accessible toilet.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Rum and Sugar
 address: No 1 Warehouse, West India Quay, E14 4AL
@@ -2645,22 +2647,22 @@ station: West India Quay
 type: restaurant
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon: closed; Tue-Wed: 11am-11pm; Thu-Fri 11am-1am; Sat: 11am-11pm; Sun: 11am-6pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12838117565/
   - http://www.flickr.com/photos/kake_pugh/12838530134/
   - http://www.flickr.com/photos/kake_pugh/12838088265/
   - http://www.flickr.com/photos/kake_pugh/12838502404/
-summary: Restaurant attached to the Museum of London Docklands.
-access: 
+summary: Restaurant attached to the Museum of London Docklands.  Housed in a warehouse previously used to store both rum and sugar, and many original features remain including structural wooden pillars.  Now serves 100 different rums, and rum is also used in the desserts and sauces.  Local beers on draught from the Greenwich-based Meantime Brewery.  Sometimes booked for private parties on Saturdays.  Children welcome until 6pm.  Highchairs and children's menu.  Baby change facilities in the museum (free entry, open until 6pm).  Vegetarian and gluten-free options.  Plenty of outside seating.
+access: Step-free throughout.  Slightly uneven flagstones outside, and entrance door is quite heavy.  Accessible toilet.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: La Tasca
 address: Unit E, 12 Hertsmere Road, West India Quay, E14 4AE
@@ -2674,18 +2676,18 @@ station: West India Quay
 type: restaurant
 cuisine: Spanish
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon-Sun: 11am-11:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/12838489764/
-summary: Chain tapas restaurant with several gluten-free options.
-access: 
+summary: Chain tapas restaurant with plenty of gluten-free options and vegetarian options.  Highchairs, children's menu, and pull-down baby change in the accessible toilet.  Outside seating looking onto the quay.  Live music at times.
+access: Small step at entrance, and the flagstones outside are somewhat uneven.  Accessible toilet on same level as restaurant, accessed through a door marked “private” and an occasionally-cluttered corridor.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Strada
 address: Unit E, 12 Hertsmere Road, West India Quay, E14 4AE
@@ -2699,18 +2701,18 @@ station: West India Quay
 type: restaurant
 cuisine: Italian
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sat: 11:30am-11pm; Sun: 11:30am-10:30pm"
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes (except when busy, e.g. at lunchtimes Thu-Sun).
+hours: "Mon-Sat: 8am-11pm; Sun: 8am-10:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/12838476074/
-summary: Chain Italian restaurant.
-access: 
+summary: Reliable chain Italian restaurant.  Highchairs, children's menu, pull-down baby change in the accessible toilet.  Vegetarian options, but vegan options are limited to salads and gluten-free options are sparse.
+access: Pavement outside is uneven (cobblestones).  Step-free access, accessible toilet.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Temple Lounge
 address: Unit D, Hertsmere Road, West India Quay, E14 4AF
@@ -2726,18 +2728,18 @@ cuisine:
   - Lebanese
   - Indian
 licensed: no
-byob: yes
-bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sun: 1pm-midnight"
+byob: yes (if ordering food)
+bookings: no (except for groups of 15 or more)
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes (but note minimum spend)
+hours: "Mon-Sun: 1pm-midnight.  Food served Mon-Sun: 1pm-11pm."
 photo: http://www.flickr.com/photos/kake_pugh/12838101433/
-summary: Halal shisha cafe with a large covered outdoor seating area.  BYOB allowed only with advance reservations.  Minimum spend of £10/head.
-access: 
+summary: Halal shisha cafe with a dual menu of Indian and Lebanese food.  Limited indoor seating, but a large covered outdoor seating area.  No alcohol served, and BYOB allowed only with advance reservations.  Minimum spend of £10/head.  Plenty of vegetarian options, some gluten-free options.  Cash only; no cards.
+access: Step-free access, but access to toilets is quite narrow.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Levante
 exclude: Closing down soon.
@@ -2779,18 +2781,18 @@ station: West India Quay
 type: restaurant
 cuisine: British
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Food served Mon-Sat: 11am-10pm (bar open until 11pm); Sun: 11am-9pm (bar open until 10pm)"
 photo: http://www.flickr.com/photos/kake_pugh/12838419324/
-summary: Part of a small chain.
-access: 
+summary: "Part of a small chain offering classic British dishes plus pasta and steaks.  Manager Ash offers a 20% discount to anyone coming in dressed in “Sci-Fi attire”!  Highchairs and children's menu, and children are welcome until 7pm.  Plenty of outdoor seating overlooking the quay.  Vegetarian options, but not gluten-free or vegan."
+access: Step-free access, RADAR-locked accessible toilet.  Entrance door is a bit heavy.  Lighting is dim.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Via
 address: Unit B, 18 Hertsmere Road, West India Quay, E14 4AY
@@ -2804,13 +2806,13 @@ station: West India Quay
 type: restaurant
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Wed: noon-midnight; Thu-Fri: noon-1am; Sat: 10am-midnight, Sun: noon-11pm"
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Wed: noon-midnight; Thu-Fri: noon-1am; Sat: 10am-midnight, Sun: noon-11pm.  Food served Mon-Wed: noon-9pm; Thu-Sat: noon-10pm; Sun: noon-9pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/12860026643/
   - http://www.flickr.com/photos/kake_pugh/12859939235/
@@ -2819,10 +2821,10 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12859970123/
   - http://www.flickr.com/photos/kake_pugh/12859890545/
   - http://www.flickr.com/photos/kake_pugh/12859950833/
-summary: Cocktails, burgers, sharing platters, and pub food.
-access: 
+summary: Real ales, cocktails, burgers, sharing platters, and pub food.  Children welcome until 7:30pm; highchairs and children's menu available.  Vegetarian and vegan options are sparse.  No gluten-free options on menu, but the chef will accommodate this and other special diets if possible.
+access: Step-free access, RADAR-locked accessible toilet.  Lighting is quite dim.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Browns
 address: Unit A, 18 Hertsmere Road, West India Quay, E14 4AY
@@ -2836,22 +2838,22 @@ station: West India Quay
 type: restaurant
 cuisine: British
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon-Thu: 8am-11pm; Fri-Sat: 8am-midnight; Sun: 9-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12860281164/
   - http://www.flickr.com/photos/kake_pugh/12859924083/
   - http://www.flickr.com/photos/kake_pugh/12859822885/
   - http://www.flickr.com/photos/kake_pugh/12859875963/
-summary: Chain restaurant offering classic British food including breakfast, traditional afternoon tea, and Sunday roasts.
-access: 
+summary: "Chain restaurant offering classic British food with Continental style.  Breakfast, lunch, dinner, traditional afternoon tea, Sunday roasts, and cocktails.  Children welcome at any time.  Highchairs, children’s menu, and pull-down baby change table in the accessible loo.  Plenty of vegetarian options, and the chef is willing to adapt the menu to other dietary needs.  Outdoor seating with a view over the quay."
+access: "No steps in, just a small ridge at the threshold.  Accessible toilet with slightly narrow access."
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Manhattan Grill
 address: 22 Hertsmere Road, West India Quay, E14 4ED
