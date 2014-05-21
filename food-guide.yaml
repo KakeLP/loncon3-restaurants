@@ -4449,19 +4449,19 @@ station:
   - Whitechapel
 type: restaurant
 cuisine: Turkish
-licensed: 
-byob: 
+licensed: no
+byob: yes
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
-hours: "Mon-Sun: 10am-midnight"
+delivery: no
+just-drink: no
+hours: "Mon-Sun: 11am-1am"
 photo: http://www.flickr.com/photos/kake_pugh/13055176905/
-summary: Charcoal-grilled kebabs including İskender, yoğurtlu, and vegetable varieties; pide and lahmacun (“Turkish pizzas”); and daily hot specials.
-access: 
+summary: Charcoal-grilled kebabs including yoğurtlu shish; pide and lahmacun (“Turkish pizzas”); and daily hot specials.  Three vegetarian mains plus one vegetarian kebab.  Highchairs and children's menu available.
+access: Small step to get in.  Accessible toilet.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Lahore One
 address: 218 Commercial Road, Whitechapel, E1 2JT
@@ -4475,20 +4475,23 @@ station:
   - Shadwell
   - Whitechapel
 type: restaurant
-cuisine: Punjabi
-licensed: 
-byob: 
+cuisine:
+  - Bangladeshi
+  - Indian
+  - Pakistani
+licensed: no
+byob: yes
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
+eat-in: yes
+takeaway: yes
+delivery: no
 just-drink: 
 hours: "Mon-Sun: noon-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13057216903/
-summary: A short menu focusing on home-style curries and kebabs, with plenty of vegetarian options.
-access: 
+summary: A short menu focusing on kebabs and home-style curries, with plenty of vegetarian options.  Well known for its Lahori-style chickpeas, methi (fenugreek) chicken, and slow-cooked kheer (rice pudding).
+access: No step to get in, but toilets are up a flight of stairs.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Sahara Grill
 address: 49-53 New Road, Whitechapel, E1 1HH
@@ -4500,22 +4503,22 @@ lat: 51.516102
 long: -0.062371686
 station: Whitechapel
 type: restaurant
-cuisine: global
+cuisine: grill house
 licensed: no
 byob: no
 bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Thu: noon-11:30pm; Fri-Sun: noon-midnight"
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Thu: noon-11:30pm; Fri: 2pm-midnight; Sat-Sun: noon-midnight"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13057391394/
   - http://www.flickr.com/photos/kake_pugh/13057067895/
-summary: Halal, alcohol-free restaurant in The Whitechapel hotel. Part of a small chain. Burgers, fajitas, steaks.
-access: 
+summary: Halal, alcohol-free restaurant in The Whitechapel hotel, part of a small chain. Burgers, fajitas, steaks. Vegetarian options are sparse. Pull-down baby change in ladies' toilets.
+access: Step-free to get in.  Lift access to toilets in basement.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Needoo Grill
 address: 85-87 New Road, Whitechapel, E1 1HH
@@ -4527,20 +4530,22 @@ lat: 51.516995
 long: -0.062551394
 station: Whitechapel
 type: restaurant
-cuisine: Punjabi
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
+cuisine:
+  - Indian
+  - Pakistani
+licensed: no
+byob: yes
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
 just-drink: 
 hours: "Mon-Sun: noon-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13057186703/
-summary: Curries and grilled meats with daily specials including haleem and nihari.
-access: 
+summary: Curries and grilled meats with daily specials including haleem and nihari.  Plenty of vegetarian options.  Highchairs for children, and a pull-down baby change table in the ladies' toilet.
+access: Three steps to get in.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Maza
 address: 97 New Road, Whitechapel, E1 1HJ
@@ -4558,18 +4563,18 @@ cuisine:
 licensed: no
 byob: yes
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
-delivery: 
+delivery: yes
 just-drink: 
 hours: "Mon-Sun: 11am-midnight"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13057047455/
   - http://www.flickr.com/photos/kake_pugh/13057040345/
-summary: A small and focused menu of curries and grilled meats; plenty of vegetarian options. Halal.
-access: 
+summary: A small and focused menu of curries and grilled meats; plenty of vegetarian options. Halal. Vegetarians catered for. Highchair available for children.
+access: No step to get in, but toilets are up two flights of stairs.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: The Crêpe Shop
 address: 103 Fieldgate Street, Whitechapel, E1 1JU
@@ -4582,13 +4587,13 @@ long: -0.062969819
 station: Whitechapel
 type: restaurant
 cuisine: British
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+licensed: no
+byob: yes (corkage £10/bottle)
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 10:30am-9pm; Sat: 11:30am-10pm; Sun: open for events only"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13057118523/
@@ -4596,9 +4601,36 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/13057316514/
   - http://www.flickr.com/photos/kake_pugh/13057337554/
   - http://www.flickr.com/photos/kake_pugh/13057337554/
-summary: Crêpes, coffee, and cakes in an “art café” with a basement gallery and monthly-changing exhibitions.
-access: 
+summary: Sweet and savoury crêpes, soups, cakes, and Moak coffee in an “art café” with a basement gallery and monthly-changing exhibitions.  All food halal.  All sweet crêpes and some of the savoury are vegetarian.  Two highchairs for children, and a children's menu, but no baby change facilities.
+access: Step to get in, but they can put a portable ramp in place if notified.  Toilets in the basement, no lift.
 links: 
+surveyed: May 2014
+---
+name: Straits Times Kopitiam
+address: 66a Whitechapel High Street, E1 7PL
+area: Whitechapel
+website: 
+twitter: StraitsTimesUK
+phone: 
+lat: 51.515892
+long: -0.069842979
+station:
+  - Aldgate
+  - Aldgate East
+type: restaurant
+cuisine: 
+licensed: 
+byob: 
+bookings: 
+eat-in: 
+takeaway: 
+delivery: 
+just-drink: 
+hours: "Possibly Mon-Fri: 8am-6pm, Sat: 9am-6pm; Sun: closed."
+photo: 
+summary: 
+access: 
+links: http://www.yelp.com/biz/straits-times-kopitiam-london
 surveyed: 
 ---
 name: Tayyabs
@@ -4612,25 +4644,25 @@ long: -0.063530400
 station: Whitechapel
 type: restaurant
 cuisine: Punjabi
-licensed: 
-byob: 
+licensed: no
+byob: yes
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: no
 hours: "Mon-Sun: noon-11:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/13057295074/
-summary: Extremely popular — expect long queues and don't expect to linger over your meal. Booking strongly recommended.
-access: 
+summary: Extremely popular Punjabi restaurant, famous for its lamb chops. Expect long queues and don't expect to linger over your meal. Booking strongly recommended. Vegetarian options available.
+access: Ramp to get in, accessible toilet.  Pavement outside rather cluttered with street furniture.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Lahore Kebab House
 address: 2-10 Umberston Street, Whitechapel, E1 1PY
 area: Whitechapel
 website: http://www.lahore-kebabhouse.com/
-twitter: 
+twitter: LahoreKebabHous
 phone: 020 7481 9737
 lat: 51.514683
 long: -0.063052967
@@ -4638,20 +4670,22 @@ station:
   - Aldgate East
   - Whitechapel
 type: restaurant
-cuisine: Punjabi
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
+cuisine:
+  - Pakistani
+  - Punjabi
+licensed: no
+byob: yes
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: yes (they send it in a taxi, customer pays the taxi driver)
 just-drink: 
 hours: "Mon-Sun: noon-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13056970345/
-summary: Curries and grilled meats. Very large but also very popular — expect queues.
-access: 
+summary: Curries and grilled meats. Very large but also very popular — expect queues at peak times. Highchairs available for children. Plenty of vegetarian options. Vegetable oil used instead of ghee, so vegan also possible.
+access: Tiny step to get in. Accessible toilet on ground floor, but access to this is quite crowded with tables and chairs.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: misschu
 address: 91 Whitechapel High Street, E1 7RA
@@ -4666,19 +4700,19 @@ station:
   - Aldgate East
 type: restaurant
 cuisine: Vietnamese
-licensed: 
-byob: 
-bookings: 
-eat-in: 
+licensed: yes
+byob: no
+bookings: no
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: yes
 hours: "Mon-Sun: 11am-10:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/13062473194/
-summary: Vietnamese food with a pan-Asian twist. Vegan and gluten-free options. Small eat-in area.
-access: 
+summary: Vietnamese food with a pan-Asian twist, including bánh mì and phở.  Vegetarian, vegan, and gluten-free options. Small eat-in area.
+access: No steps to get in, but doorway is a little narrow and toilets are in the basement.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Qasida
 address: 96 Whitechapel High Street, E1 7RA
@@ -4692,20 +4726,22 @@ station:
   - Aldgate
   - Aldgate East
 type: restaurant
-cuisine: Turkish
+cuisine:
+  - Indian
+  - Turkish
 licensed: no
 byob: no
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
-hours: "Mon-Sun: 9am-11-pm"
+delivery: yes
+just-drink: yes
+hours: "Mon-Sun: 11am-11-pm"
 photo: http://www.flickr.com/photos/kake_pugh/13062266643/
-summary: Alcohol-free halal Turkish restaurant.
-access: 
+summary: Alcohol-free halal Turkish and Indian restaurant.  Highchairs for children, children's menu, pull-down baby change table in ladies' toilet (no baby change in men's).  Plenty of vegetarian options.  Private rooms available, some with low seating.
+access: Small step to get in.  Accessible toilet.  Baby change and some seating is in the basement.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Kasturi
 address: 57 Aldgate High Street, EC3N 1AL
@@ -4727,7 +4763,7 @@ eat-in:
 takeaway: 
 delivery: 
 just-drink: 
-hours: "Mon-Sat: noon-3pm, 6pm-11pm; Sun: closed"
+hours: "Mon-Sat: noon-3pm, 6pm-11pm; Sun: closed.  Possibly actually closes at 2pm?"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13062254303/
   - http://www.flickr.com/photos/kake_pugh/13062238883/
@@ -4778,18 +4814,18 @@ station:
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Fri: 11am-11pm; Sat-Sun: closed"
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Fri: 11am-11pm; Sat-Sun: closed.  Food served Mon-Fri: noon-3pm, 5pm-8:30pm."
 photo: http://www.flickr.com/photos/kake_pugh/13062394374/
-summary: Shepherd Neame pub serving real ales, sandwiches, and traditional hot pub food.
-access: Level entrance, step-free access to bar and ladies' (gents' not checked).
+summary: Shepherd Neame pub serving real ales, sandwiches, and traditional hot pub food.  Children welcome but no highchairs, children's menu, or baby change.  Vegetarian options unlikely.
+access: Step-free entrance, also to toilets.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Dispensary
 address: 19a Leman Street, Whitechapel, E1 8EN
@@ -4807,18 +4843,18 @@ type:
   - restaurant
 cuisine: British
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Fri: 11:30am-11pm; Sat-Sun: closed"
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Fri: 11:30am-11pm; Sat-Sun: closed.  Food served Mon-Fri: noon-3pm, 5pm-8:45pm."
 photo: http://www.flickr.com/photos/kake_pugh/13062174103/
-summary: Grade II* listed building housing a pub with a mezzanine restaurant. Children under 14 allowed in the restaurant (when accompanied by an adult) but not in the bar.
-access: 
+summary: Grade II* listed building housing a pub with a mezzanine restaurant. Children under 14 allowed in the restaurant (when accompanied by an adult) but not in the bar.  Always some vegetarian options on the menu; chef can accommodate vegan and gluten-free with advance notice.  Dogs welcome.  Four or five real ales usually available, though stocks are run down towards the end of the week due to weekend closure.
+access: "Seven steps to get in, no handrail.  Toilets in basement."
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Oliver Conquest
 address: 70 Leman Street, Whitechapel, E1 8EU
@@ -4834,21 +4870,21 @@ station:
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: no (except at lunchtimes)
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes (except Friday lunchtimes)
 hours: "Mon-Wed: noon-11pm; Thu-Fri: noon-11:30pm; Sat: 6pm-11:30pm; Sun: closed. Food served Mon-Fri: noon-3pm, 5:30pm-9pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13062005755/
   - http://www.flickr.com/photos/kake_pugh/13062343894/
   - http://www.flickr.com/photos/kake_pugh/13062034935/
-summary: Self-proclaimed “pub and gin house”. Over 150 gins, plus Meantime beer on draught. Sandwiches, nachos, and a small selection of hot meals.
-access: 
+summary: Pub and gin house offering over 150 gins on a menu listing the main characteristics of each.  Gin-based cocktails available after 5pm, with each gin carefully chosen to suit the other ingredients.  Tonic from Fever Tree.  Meantime beer on draught.  Sandwiches, nachos, hotdogs, burgers, and a small selection of hot meals; one or two vegetarian options.  No children allowed.
+access: No steps to get in, or to toilets, but access to toilets is extremely narrow.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Cafe Spice Namaste
 address: 16 Prescot Street, Whitechapel, E1 8AZ
@@ -4865,12 +4901,12 @@ station:
 type: restaurant
 cuisine: Indian
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
 delivery: no
-just-drink: 
+just-drink: yes
 hours: "Mon-Fri: noon-3pm, 6:15pm-10:30pm; Sat: 6:30pm-10:30pm; Sun (and Bank Hol): closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13062313014/
@@ -4879,10 +4915,10 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/13062263014/
   - http://www.flickr.com/photos/kake_pugh/13062042703/
   - http://www.flickr.com/photos/kake_pugh/13062027423/
-summary: Modern Indian food using seasonal British produce. Tasting menu available. More expensive than average for an Indian restaurant in London. Grade II listed building.
-access: Half a dozen steps to get in; no lift. Bell at bottom of steps to ring for staff who will carry or assist mobility-impaired people into the building. Accessible toilet available. Interior steps not yet checked.
+summary: Modern Indian food using seasonal British produce.  Tasting menu available.  Grade II listed building. Highchairs and half-portions for children; baby changing space can be arranged.  Halal, vegetarian, gluten-free, and nut-free options all marked clearly on menu.
+access: Half a dozen steps to get in; no lift. Bell at bottom of steps to ring for staff who will carry or assist mobility-impaired people into the building. Accessible toilet.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Princess Of Prussia
 address: 15 Prescot Street, Whitechapel, E1 8AZ
@@ -4899,20 +4935,50 @@ station:
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: no
+just-drink: yes
 hours: "Mon-Sat: 11am-midnight; Sun: 11am-10:30pm. Food served Mon-Fri: noon-3pm, 6pm-10pm; Sat: noon-5pm, 6pm-10pm; Sun: noon-5pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13061858155/
   - http://www.flickr.com/photos/kake_pugh/13062212084/
   - http://www.flickr.com/photos/kake_pugh/13062197084/
-summary: Real ale, sandwiches, bar snacks, and traditional British pub food including roast lunches on Sundays.
-access: 
+summary: Traditional pub owned by the Shepherd Neame brewery.  Real ale, sandwiches, bar snacks, and traditional British pub food including roast lunches on Sundays.  A cosy back room leads through to a patio beer garden.  Vegetarian options on regular menu; vegan and gluten-free catered for with advance notice.  Children's menu.  Staff recommend that children leave before 7pm on Fridays, as it gets very busy and crowded.
+access: No steps in, just a small ridge at the threshold.  Men's toilet on ground floor, but access is a bit narrow.  Ladies' toilet in basement, but those who can't use stairs are welcome to use the men's.  Steps to beer garden, no handrail.
 links: 
+surveyed: May 2014
+---
+name: Long Shot Coffee
+address: 127 Leman Street, Whitechapel, E1 8EY
+area: Whitechapel
+website: 
+twitter: LongShot127
+phone: 020 7481 1100
+lat: 51.511739
+long: -0.068872020
+station:
+  - Aldgate
+  - Aldgate East
+  - Tower Gateway
+type: restaurant
+cuisine: 
+licensed: 
+byob: 
+bookings: 
+eat-in: 
+takeaway: 
+delivery: 
+just-drink: 
+hours: "Mon-Fri: 7am-5:30pm; Sat-Sun: 9am-5:30pm"
+photo: 
+summary: Small independent coffee shop.
+access: 
+links:
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d5433298-Reviews-Long_Shot_Coffee-London_England.html
+  - http://www.yelp.co.uk/biz/long-shot-coffee-london
 surveyed: 
 ---
 name: Red Chilli
@@ -4930,18 +4996,18 @@ station:
 type: restaurant
 cuisine: Indian
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: no
 hours: "Mon-Fri: noon-2pm, 5:30pm-midnight; Sat-Sun: 5:30-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13064073993/
-summary: 
-access: 
+summary: British curryhouse favourites plus house specials such as grilled garlic chilli paneer and grilled garlic lamb shank.  Plenty of vegetarian options, and vegetable oil is used instead of ghee so vegan is also possible.  Highchairs and half portions for children.
+access: Step to get in, but portable ramp available.  Two steps to toilets, and access is narrow.  Dim lighting.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Brown Bear
 address: 139 Leman Street, Whitechapel, E1 8EY
@@ -4956,22 +5022,25 @@ station:
   - Aldgate East
   - Tower Gateway
 type: pub
-cuisine: 
+cuisine:
+  - British
+  - Thai
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Open Mon-Thu: 11am-11:30pm; Fri-Sat: 11am-midnight; Sun: 11am-10:30pm. Food served Mon-Fri: 11am-9pm."
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Open Mon-Thu: 11am-11:30pm; Fri-Sat: 11am-11pm; Sun: 11am-10:30pm. Food served Mon-Fri: noon-9pm."
 photo: http://www.flickr.com/photos/kake_pugh/13063937675/
-summary: 
-access: 
+summary: "Traditional British pub serving “pub grub” and Thai food.  Real ales: two regulars and a guest.  Plenty of vegetarian options.  Half-portions for children.  Live sports shown on TV."
+access: Tiny step to get in (at left-hand entrance).  No steps to toilets, but access is narrow.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: The Empress
+exclude: Staff unwilling to answer questions.
 address: 141 Leman Street, Whitechapel, E1 8EY
 area: Whitechapel
 website: http://theempress.co.uk/
@@ -6021,22 +6090,22 @@ lat: 51.511674
 long: -0.056406453
 station: Shadwell
 type: restaurant
-cuisine: 
-licensed: 
+cuisine: British
+licensed: no
 byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: 
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sun: 7am-6pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13270511173/
   - http://www.flickr.com/photos/kake_pugh/13270365855/
-summary: Halal cafe just inside Shadwell DLR Station, also offering internet terminals.
-access: No steps to get in.
+summary: Small cafe just inside Shadwell DLR Station, offering sandwiches, cakes, pastries, jacket potatoes, smoothies, and coffee.  All halal.  £3 minimum on card payments.
+access: Step-free throughout.
 links: http://www.yelp.co.uk/biz/cafe-marrone-london
-surveyed: 
+surveyed: May 2014
 ---
 name: Sichuan Kitchen
 address: 213 East India Dock Road, Poplar, E14 0ED
@@ -6121,10 +6190,10 @@ hours: "Mon-Wed: 9am-6:30pm; Thu: 9am-7pm; Fri: 9am-6:30pm; Sat-Sun: closed"
 photo:
   - https://www.flickr.com/photos/kake_pugh/13324295905/
   - https://www.flickr.com/photos/kake_pugh/13324305415/
-summary: Hand-made chocolates with interesting flavours including port and stilton, sea salted caramel, and Sichuan pepper.
+summary: Hand-made chocolates including interestingly-flavoured truffles such as port and stilton, sea salted caramel, and Sichuan pepper.  Vegetarian, vegan, and gluten-free options.
 access: A step to get in, and it's quite small inside.
 links: http://london.randomness.org.uk/wiki.cgi?Paul_A_Young,_EC3V_3LP
-surveyed: 
+surveyed: May 2014
 ---
 name: Simpson's Tavern
 address: Ball Court, 38½ Cornhill, City, EC3V 9DR
@@ -6142,22 +6211,51 @@ type:
   - restaurant
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon: 11:30am-4pm; Tue-Fri: 8am-10:30am, 11:30am-4pm; Sat-Sun: closed.  Food served Mon: noon-2:45pm; Tue-Fri: 8am-10:30am, noon-2:45pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/5573026058/
   - https://www.flickr.com/photos/kake_pugh/13324466713/
   - https://www.flickr.com/photos/kake_pugh/13324270095/
   - https://www.flickr.com/photos/kake_pugh/13324276795/
   - https://www.flickr.com/photos/kake_pugh/13324442263/
-summary: Hidden away down a narrow pedestrian alleyway, this pub and restaurant consists of a pair of late 17th century houses, converted to a chop-house and coffee shop in the 18th century.
-access: At least one step to get into the ground-floor dining room and bar. The restaurant and wine bar involve steep staircases. The ground floor passages are narrow and twisty, and the interior is very cramped.
+summary: Hidden away down a narrow pedestrian alleyway, this pub and restaurant consists of a pair of late 17th century houses, converted to a chop-house and coffee shop in the 18th century.  It now offers booth seating, real ales, bar snacks, and a daily-changing menu of traditional English food.  Two vegetarian options each day.
+access: At least one step to get into the ground-floor dining room and bar. The restaurant and wine bar involve steep staircases. The ground floor passages are narrow and twisty, and the interior is very cramped.  Toilets are on the first floor and in the basement.
 links: http://london.randomness.org.uk/wiki.cgi?Simpson%27s_Tavern,_EC3V_9DR
+surveyed: May 2014
+---
+name: George and Vulture
+address: 3 Castle Court, off Cornhill, City, EC3V 9DL
+area: Bank/Tower Hill
+website: 
+twitter: 
+phone: 020 7626 9710
+lat: 51.513020
+long: -0.085884556
+station:
+  - Bank
+  - Monument
+type: restaurant
+cuisine: British
+licensed: 
+byob: 
+bookings: 
+eat-in: yes
+takeaway: 
+delivery: 
+just-drink: 
+hours: 
+photo: 
+summary: 
+access: 
+links:
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1792671-Reviews-George_and_Vulture-London_England.html
+  - http://en.wikipedia.org/wiki/George_and_Vulture
 surveyed: 
 ---
 name: Jamaica Wine House
@@ -6174,18 +6272,18 @@ station:
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 11am-11pm; Sat-Sun: closed"
 photo: https://www.flickr.com/photos/kake_pugh/13325297894/
-summary: 
-access: A step to get in at at least one of the entrances, and the toilets are down a flight of stairs.
+summary: Pub in a 17th-century building with original features still visible.  Real ales from the national Shepherd Neame brewery.  Children welcome in the basement restaurant, but the bar area gets crowded and dangerous for small people at peak times.  Vegetarian options are sparse on the regular menu, but better provision available for groups with advance notice.
+access: A step to get in, and the toilets are down a flight of stairs.
 links: http://london.randomness.org.uk/wiki.cgi?Jamaica_Wine_House,_EC3V_9DS
-surveyed: 
+surveyed: May 2014
 ---
 name: The Wurst Club
 address: 56-57 Cornhill, City, EC3V 3PD
@@ -6214,13 +6312,14 @@ photo:
   - https://www.flickr.com/photos/kake_pugh/13324882065/
   - https://www.flickr.com/photos/kake_pugh/13325282674/
 summary: German sausages, beer, sauerkraut, and potato-based side dishes to take away. No seats for eat-in, though there is a small counter if you fancy eating standing up.
-access: 
+access: A step to get in, and it's quite narrow inside.
 links:
   - http://www.timeout.com/london/restaurants/wurst-club
   - http://www.yelp.co.uk/biz/the-wurst-club-london
 surveyed: 
 ---
 name: The Ship
+exclude: Will be closed for refurbishment in August.
 address: 11 Talbot Court, EC3V 0BP
 area: Bank/Tower Hill
 website: http://www.nicholsonspubs.co.uk/theshiptalbotcourtlondon/
@@ -6257,23 +6356,23 @@ station: Monument
 type: pub
 cuisine: British
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Fri: 11am-11pm; Sat: noon-8pm; Sun: closed"
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Fri: 11am-11pm; Sat: noon-8pm; Sun: closed.  Food served Mon-Fri: 11am-10pm; Sat: noon-8pm."
 photo:
   - https://www.flickr.com/photos/kake_pugh/13325040903/
   - https://www.flickr.com/photos/kake_pugh/13324860255/
-summary: 
-access: 
+summary: Nicholson's pub with ten handpumps for real ale and cider, usually all on.  British food from a chain-wide menu.  Highchair and children's menu available; they recommend that children dine in the first-floor dining area rather than the ground floor, which gets very busy at peak times.  Vegetarian and gluten-free options available, and staff have access to an book listing all known allergens in ingredients.
+access: A step to get in, uneven pavement outside.  Ground-floor ladies' toilet doubles as accessible toilet.  Much of the ground-floor seating is on high stools.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Wagamama
-address: 2B Tower Place, Tower of London, EC3N 4EE
+address: 2B Tower Place, Tower Hill, EC3N 4EE
 area: Bank/Tower Hill
 website: http://www.wagamama.com/
 twitter: Wagamama_UK
@@ -6284,26 +6383,26 @@ station:
   - Tower Gateway
   - Tower Hill
 type: restaurant
-cuisine: pan-Asian
+cuisine: Japanese
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: no
+just-drink: yes
 hours: "Mon-Sun: 11:30am-9pm"
 photo: http://flickr.com/photos/kake_pugh/2864033556/
-summary: Informal chain restaurant offering Japanese-inspired pan-Asian food. Separate children's menu with similar choices to main menu.
-access: Braille menus, magnifying sheets, and induction loops.
+summary: Informal chain restaurant offering Japanese food with a pan-Asian twist. Separate children's menu with similar choices to main menu. Staff have access to allergy book.
+access: Steps at entrance, but lift available. Accessible toilet. Very noisy when busy. Braille menus, magnifying sheets, and induction loops.
 links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1019713-Reviews-Wagamama_Tower_Hill-London_England.html
-surveyed: 
+surveyed: May 2014
 ---
 name: Brasserie Blanc
-address: 14 Trinity Square, Tower of London, EC3N 4AA
+address: 14 Trinity Square, Tower Hill, EC3N 4AA
 area: Bank/Tower Hill
 website: http://www.brasserieblanc.com/
-twitter: 
+twitter: BBlancTower
 phone: 020 7480 5500
 lat: 51.509752
 long: -0.078395203
@@ -6313,21 +6412,48 @@ station:
 type: restaurant
 cuisine: French
 licensed: yes
-byob: 
+byob: yes (corkage approx £10/bottle)
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 8:30am-10pm; Sat-Sun: closed. Breakfast served 8:30am-11am. Coffee and pastries available all day. Bar open from noon."
 photo:
   - https://www.flickr.com/photos/kake_pugh/13324850695/
   - https://www.flickr.com/photos/kake_pugh/13325018813/
   - https://www.flickr.com/photos/kake_pugh/13324830675/
   - https://www.flickr.com/photos/kake_pugh/13325211444/
-summary: Part of a small chain with half a dozen other London locations. Some dishes available in half-sized portions “suitable for 8-12 year old children”, separate menu for younger children, free vegetable puree for babies. A small sprinkling of vegetarian options on the main menu. Separate gluten free and dairy free menu available, though this also includes meat and fish.
-access: 
+summary: Part of a small chain with half a dozen other London locations. Some dishes available in half-sized portions “suitable for 8-12 year old children”, separate menu for younger children, free vegetable puree for babies.  Three or four highchairs, and a pull-down baby change in the accessible toilet.  A small sprinkling of vegetarian options on the main menu. Separate gluten free and dairy free menus available.
+access: Steps at entrance, but there's a lift.  Accessible toilet.
 links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1385617-Reviews-Brasserie_Blanc_Tower_Hill-London_England.html
+surveyed: May 2014
+---
+name: Bodean's
+address: 16 Byward Street, Tower Hill, EC3R 5BA
+area: Bank/Tower Hill
+website: http://www.bodeansbbq.com/
+twitter: 
+phone: 020 7488 3883
+lat: 51.509704
+long: -0.078901738
+station:
+  - Tower Gateway
+  - Tower Hill
+type: restaurant
+cuisine: BBQ
+licensed: yes
+byob: 
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: 
+just-drink: 
+hours: "Mon-Sat: noon-11pm; Sun: noon-10:30pm"
+photo: 
+summary: "American BBQ restaurant, also offering cocktails, American whiskies, and craft beers.  “Family-style” platter meals available for groups.  Part of a small chain.  Children's menu available.  Vegetarian options are sparse."
+access: 
+links: 
 surveyed: 
 ---
 name: Hung, Drawn and Quartered
@@ -6344,17 +6470,46 @@ station:
 type: pub
 cuisine: British
 licensed: yes
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: 11am-11pm; Sun: noon-6pm. Food served Mon-Sat: noon-pm; Sun: noon-5pm"
+photo: http://www.flickr.com/photos/55935853@N00/2818765205/
+summary: Pub owned by well-known London brewery Fuller's, with five of their real ales on at all times including seasonals.  Traditional British pub food with a focus on pies.  Vegetarian options are sparse (1 salad, 1 pie).  Children's portions available.
+access: No step to get in.  Accessible toilet (sign on this states that the key is behind the bar, but it's usually left unlocked).
+links: http://london.randomness.org.uk/wiki.cgi?Hung_Drawn_And_Quartered,_EC3R_5AQ
+surveyed: May 2014
+---
+name: Assenheims 56
+address: 19-21 Great Tower Street, EC3R 5AR
+area: Bank/Tower Hill
+website: http://www.as56.co.uk/
+twitter: 
+phone: 020 7283 0032
+lat: 51.509792
+long: -0.081121668
+station:
+  - Tower Gateway
+  - Tower Hill
+type: takeaway
+cuisine:
+  - British
+  - South American
+licensed: 
 byob: 
 bookings: 
 eat-in: 
-takeaway: 
+takeaway: yes
 delivery: 
 just-drink: 
-hours: "Mon-Sat: 11am-11pm; Sun: noon-6pm. Food served Mon-Sat: noon-pm; Sun: noon-5pm"
-photo: http://www.flickr.com/photos/55935853@N00/2818765205/
-summary: 
-access: No steps to get in, and it's step-free to the bar, seating, and accessible toilet (which has a sign on it stating that the key is behind the bar — it's an ordinary lock, not a RADAR one). Other toilets are down a spiral staircase with a handrail on one side. About half of the seating is at high chairs and tables, but the rest is normal-height.
-links: http://london.randomness.org.uk/wiki.cgi?Hung_Drawn_And_Quartered,_EC3R_5AQ
+hours: 
+photo: 
+summary: Specialises in marinated grilled chicken.  Sandwiches and breakfast boxes based on traditional fried English breakfasts also available, as well as pastas and soups.
+access: 
+links: 
 surveyed: 
 ---
 name: Bavarian Beerhouse
@@ -6371,22 +6526,22 @@ station:
 type: restaurant
 cuisine: German
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon-Thu: noon-11pm; Fri-Sat: noon-1am; Sun: noon-11pm"
 photo:
   - https://www.flickr.com/photos/kake_pugh/13327602194/
   - https://www.flickr.com/photos/kake_pugh/13327409593/
   - https://www.flickr.com/photos/kake_pugh/13327614584/
   - https://www.flickr.com/photos/kake_pugh/13327254755/
-summary: German beer, schnapps, sausages, schnitzels, noodles, and other German food. Occasional vegetarian options.
-access: 
+summary: German-style bierkeller, with drinks served in steins and waitstaff in traditional costume.  German beer, schnapps, sausages, schnitzels, noodles, and other German food.  Occasional vegetarian options.  Children welcome until 9pm, but no highchairs, baby change, or children's menu.
+access: Step-free to get in, toilets on same level.  Ground-floor seating is on high stools or at long benches.
 links: http://london.randomness.org.uk/wiki.cgi?Bavarian_Beerhouse,_EC3N_2AU
-surveyed: 
+surveyed: May 2014
 ---
 name: The Chamberlain
 address: 130-135 Minories, City, EC3N 1NU
@@ -6404,18 +6559,18 @@ type:
   - restaurant
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Bar open Mon-Wed: 11am-11pm; Thu-Fri: 11am-midnight; Sat: noon-11pm; Sun: noon-10:30pm. Food served Mon-Fri: 10am-10pm; Sat-Sun: noon-10pm."
 photo: https://www.flickr.com/photos/kake_pugh/13327365003/
-summary: Pub, restaurant and hotel owned by well-known London brewery Fuller's. Nine handpumps for real ale, and food a little pricier but also more elaborate than usual for a pub. Separate children's menu.
-access: Two or three steps to get in, but then step-free to the bar, restaurant area, and some of the seating in the bar area.  Accessible toilet in the basement, accessed via a lift.
+summary: Pub, restaurant and hotel owned by well-known London brewery Fuller's.  Nine handpumps for real ale, and food a little pricier but also more elaborate than usual for a pub.  Highchairs and children's menu.  Occasional vegetarian options.  Gluten-free catered for with advance notice.
+access: Step-free access via a ramp with slightly tight turns at ends.  Accessible toilet in the basement, accessed via a lift; this toilet is usually locked in the evenings, with a bell next to it to summon a staff member with the key.
 links: http://london.randomness.org.uk/wiki.cgi?Chamberlain,_EC3N_1NU
-surveyed: 
+surveyed: May 2014
 ---
 name: Velo
 address: 104 Tooley Street, London Bridge, SE1 2TH
