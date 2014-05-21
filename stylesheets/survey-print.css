@@ -8,6 +8,11 @@ tr {
   margin: 0;
 }
 
+/* min-height doesn't work on table cells, so we need a div */
+div.accessibility {
+  min-height: 4em;
+}
+
 th {
   width: 15%;
 }

@@ -29,9 +29,9 @@
 <tr class="licenced"><th>Alcohol licence?</th><td></td></tr>
 <tr class="byob"><th>BYOB?</th><td></td></tr>
 <tr class="bookings"><th>Bookings?</th><td></td></tr>
-<tr class="accessibility"><th>Physical accessibility:</th><td>[% venue.access %]</td></tr>
 <tr class="children"><th>Facilities for children:</th><td></td></tr>
-<tr class="special-diets"><th>Special diets (vegetarian, vegan, gluten-free, allergies, etc):</th><td></td></tr>
+<tr class="special-diets"><th>Special diets (veg, vegan, gluten-free, allergies, etc):</th><td></td></tr>
+<tr class="accessibility"><th>Physical accessibility:</th><td><div class="accessibility">[% venue.access %]</div></td></tr>
 <tr class="summary"><th>Other information:</th><td>[% venue.summary %]</td></tr>
 </table>
 
