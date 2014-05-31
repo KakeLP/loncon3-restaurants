@@ -5170,18 +5170,18 @@ station: Surrey Quays
 type: restaurant
 cuisine: Chinese
 licensed: yes
-byob: 
+byob: yes (corkage £10/bottle)
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: no
 hours: "Mon-Sun: noon-3pm, 5pm-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/13112396703/
-summary: A dual menu offers Northern Chinese specialities as well as the usual standard Anglicised Chinese food. Much of the specialities menu is written in Chinese-only, but a fair selection of it is translated and illustrated, and staff are happy to help with recommendations from the rest. Hotpot (steamboat) is also available, with a wide range of ingredients. Decor and furnishings are fairly basic, but not uncomfortable.
+summary: A dual menu offers Northern Chinese specialities as well as the usual standard Anglicised Chinese food. Much of the specialities menu is written in Chinese-only, but a fair selection of it is translated and illustrated, and staff are happy to help with recommendations from the rest. Hotpot (steamboat) is also available, with a wide range of ingredients. Decor and furnishings are fairly basic, but not uncomfortable.  Highchairs for children, but no baby change.  Vegetarians catered for.
 access: A rudimentary ramp (really just a smoothed-over step) from the pavement to the area directly outside the door, and another shallow step to get in. It's all essentially on one level once you're in, though there is a slight change in level (not really enough to call it a step) on the way to the loos.
 links: http://london.randomness.org.uk/wiki.cgi?Royal_Palace,_SE16_2PP
-surveyed: 
+surveyed: May 2014
 ---
 name: Ma Po
 address: 176-178 Lower Road, Rotherhithe, SE16 2UN
@@ -5194,13 +5194,13 @@ long: -0.045653477
 station: Surrey Quays
 type: restaurant
 cuisine: Chinese
-licensed: 
-byob: 
-bookings: 
-eat-in: 
+licensed: yes
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: no
 hours: "Mon-Thu: noon-11pm; Fri-Sat: noon-11:30pm; Sun: noon-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13112396703/
@@ -5214,12 +5214,13 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/13112219023/
   - http://www.flickr.com/photos/kake_pugh/13112203043/
   - http://www.flickr.com/photos/kake_pugh/13112302823/
-summary: Sichuan specialities from a fully bilingual menu (English/Chinese). Hotpot (steamboat) too. Standard Anglicised Cantonese food also available.
-access: 
+summary: Sichuan specialities from a fully bilingual menu (English/Chinese). Hotpot (steamboat) too. Standard Anglicised Cantonese food also available.  Highchairs for children but no baby change.  Vegetarians catered for, and gluten-free possible with advance notice.  Vegan options limited to vegetables, rice, and tofu.
+access: A step to get in, but they have a portable ramp to put in place.  No steps to toilets, but access is quite narrow.
 links: http://www.yelp.co.uk/biz/ma-po-london
-surveyed: 
+surveyed: May 2014
 ---
 name: Oi, Why Not
+exclude: Closed, new signage up for an Italian deli as of May 2014.
 address: 158 Lower Road, Rotherhithe, SE16 2UG
 area: Surrey Quays
 website: 
@@ -5262,21 +5263,21 @@ station: Cutty Sark
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sat: noon-11pm; Sun: noon-10:30pm. Food served Mon-Sun: noon-9pm"
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: noon-11pm; Sun: noon-10:30pm. Food served Mon-Thu: noon-9pm, Fri-Sun: noon-10pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/13131562164/
   - http://www.flickr.com/photos/kake_pugh/13131401313/
   - http://www.flickr.com/photos/kake_pugh/13131297385/
-summary: Taylor Walker pub offering real ale and more-interesting-than-average pub food (albeit from a chain-wide menu).
-access: 
+summary: Taylor Walker pub offering real ale and more-interesting-than-average pub food from a chain-wide menu plus specials.  Live sports shown.  Vegetarian and gluten-free diets catered for, and staff are aware of cross-contamination issues (e.g. chips are cooked in a dedicated fryer).  NB check closer to the time as they may be closed for a refurb.
+access: No steps to get in, and there's an accessible toilet on the same level, but all the seating on this level is currently at high tables.  Normal-height seating is accessed via five steps.
 links: http://london.randomness.org.uk/wiki.cgi?Yacht,_SE10_9NP
-surveyed: 
+surveyed: May 2014
 ---
 name: Trafalgar Tavern
 address: 6 Park Row, Greenwich, SE10 9NW
@@ -5290,23 +5291,23 @@ station: Cutty Sark
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Food served noon-4pm and 6pm-10pm"
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Thu: noon-11pm; Fri-Sat: noon-midnight; Sun: noon-11pm.  Food served Mon-Sat: noon-10pm; Sun: noon-8pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/13131207825/
   - http://www.flickr.com/photos/kake_pugh/13131373853/
   - http://www.flickr.com/photos/kake_pugh/13131244115/
   - http://www.flickr.com/photos/kake_pugh/13131524914/
   - http://www.flickr.com/photos/kake_pugh/13131513404/
-summary: Pub with a large amount of outdoor riverside seating. Roast lunches on Sundays including a nut roast option (though vegetarian options in general are quite scarce). Children's menu based on a subset of the regular menu. Unusually for a pub, an (optional) 12.5% service charge is added to the bill.
-access: 
+summary: "Pub with a large amount of outdoor riverside seating and steps down to the Thames “beach” at low tide.  Roast lunches on Sundays including a nut roast option (though vegetarian options in general are quite scarce).  Unusually for a pub, an (optional) 12.5% service charge is added to the bill.  Children's menu based on a subset of the regular menu; highchairs available too.  Baby change is a pull-down table in the ladies' toilet only.  Real ales on handpump."
+access: No step in, just a small ridge at the threshold.  Another small ridge on the way to the toilets.  One large cubicle in each of ladies' and gents', but the door opens inwards.
 links: http://london.randomness.org.uk/wiki.cgi?Trafalgar_Tavern,_SE10_9NW
-surveyed: 
+surveyed: May 2014
 ---
 name: The Old Brewery
 address: Pepys Building, Old Royal Naval College, Greenwich, SE10 9LW
@@ -5322,20 +5323,23 @@ type:
   - restaurant
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sat: 10am-11pm; Sun: 10am-10:30pm. Food served in the bar and cafe during the day, and the bar and restaurant in the evening."
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: 10am-11pm; Sun: 10am-10:30pm. Food served Mon-Sun: noon-9pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/13131195315/
   - http://www.flickr.com/photos/kake_pugh/13131499554/
-summary: Restaurant, bar, and cafe owned by the local Meantime brewery. Modern British food served in the main restaurant, simpler food in the pub and cafe. Meantime's own beer is served at the bar and used in the cooking.
-access: 
+  - https://www.flickr.com/photos/kake_pugh/14095065557/
+  - https://www.flickr.com/photos/kake_pugh/14095407098/
+  - https://www.flickr.com/photos/kake_pugh/14280020872/
+summary: "Restaurant, bar, and cafe owned by the local Meantime brewery.  Focuses on fish and seafood, including a grilled “fish of the day”.  Meantime's own beer is served at the bar and used in the cooking, and staff are well-trained via regular tours of the main brewery.  Some beers brewed in the microbrewery on the premises.  Highchairs for children, a small children’s menu, and pull-down baby change tables in the accessible toilets.  Vegetarian options are sparse, and other special diets are catered for only in large parties with advance notice.  Plenty of outdoor seating in their patio garden."
+access: Step-free, and entrance door has an auto-open button.  Aisles are wide and kept uncluttered.  Accessible toilets both inside and in the garden.
 links: http://london.randomness.org.uk/wiki.cgi?Old_Brewery,_SE10_9LW
-surveyed: 
+surveyed: May 2014
 ---
 name: Black Vanilla
 address: 5 College Approach, Greenwich, SE10 9HY
@@ -5347,51 +5351,51 @@ lat: 51.481807
 long: -0.0096448213
 station: Cutty Sark
 type: restaurant
-cuisine: Italian
+cuisine: ice cream
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: no
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon: closed; Tue-Fri: noon-6pm; Sat-Sun: noon-7pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13131192995/
   - http://www.flickr.com/photos/kake_pugh/13131179705/
   - http://www.flickr.com/photos/kake_pugh/13131169435/
   - http://www.flickr.com/photos/kake_pugh/13131308433/
-summary: Gelato, gelato milkshakes and cocktails, affogato, and champagne cocktails.
-access: 
+summary: "Gelato and sorbet shop and cafe also offering waffles, panini, scones, and cocktails.  Patio garden.  All sorbets are dairy-free.  £5 minimum spend on cards."
+access: Small step to get in to serving point.  All interior seating is up a flight of stairs on the first floor, and toilets are another floor above this.  Steps to the garden seating too.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Papa Charlie
 address: 29-31 Greenwich Church Street, Greenwich, SE10 9BJ
 area: Greenwich
 website: 
 twitter: 
-phone: 
+phone: 020 8305 9670
 lat: 51.481226
 long: -0.010068610
 station: Cutty Sark
 type: restaurant
 cuisine: Mediterranean
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sun: 11:30am-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13145849515/
   - http://www.flickr.com/photos/kake_pugh/13146055785/
-summary: Turkish, Greek, Italian, and more.
-access: 
+summary: Mediterranean restaurant and bar offering dishes from Turkey, Greece, Italy, and more.  Several vegetarian options, one or two vegan.  Highchairs for children, and there's a baby change table in the accessible toilet.
+access: No step to get in, and there's an accessible toilet on the same level.
 links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d6407163-Reviews-Papa_Charlie-London_England.html
-surveyed: 
+surveyed: May 2014
 ---
 name: Peter De Wit's Cafe
 address: 21 Greenwich Church Street, Greenwich, SE10 9BJ
@@ -5405,23 +5409,23 @@ station: Cutty Sark
 type: restaurant
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: no
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon-Wed: closed; Thu-Fri: 11am-6pm; Sat-Sun: 9am-6pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13145842265/
   - http://www.flickr.com/photos/kake_pugh/13146032235/
   - http://www.flickr.com/photos/kake_pugh/13146331654/
-summary: All-day cooked breakfasts (including vegetarian option with vegetarian sausages), sandwiches, cakes and scones, hot and cold drinks and bottled beers. Pricier than your average British cafe. Courtyard garden. Cash only.
-access: 
+summary: All-day cooked breakfasts (including vegetarian option with vegetarian sausages), sandwiches, soups, quiches, cakes and scones, hot and cold drinks, and bottled beers.  Vegetarian quiche and soup always available.  Some gluten-free cakes.  A little pricier than your average British cafe.  Small courtyard garden.  Cash only, open Thursday to Sunday only.
+access: Step to get in, and door is narrow.  Two more steps to the toilet (which is accessed via the garden).  Staff very willing to help accommodate as far as possible given the limitations of the building.
 links:
   - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2082851-Reviews-Peter_de_Wit_s_Cafe-London_England.html
   - http://www.yelp.co.uk/biz/peter-de-wits-cafe-london
-surveyed: 
+surveyed: May 2014
 ---
 name: Mevali
 address: 17 Greenwich Church Street, Greenwich, SE10 9BJ
@@ -5434,28 +5438,29 @@ long: -0.0098938644
 station: Cutty Sark
 type: restaurant
 cuisine: Lebanese
-licensed: 
-byob: 
-bookings: 
-eat-in: 
+licensed: no
+byob: yes (corkage £2.50/person)
+bookings: yes
+eat-in: yes
 takeaway: yes
-delivery: yes
-just-drink: 
-hours: 
+delivery: yes (evenings only)
+just-drink: yes
+hours: "Mon-Sun: 11am-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13146120094/
   - http://www.flickr.com/photos/kake_pugh/13146313314/
   - http://www.flickr.com/photos/kake_pugh/13146136273/
   - http://www.flickr.com/photos/kake_pugh/13146126323/
-summary: Lebanese cafe and shisha bar. Cold and hot meze are mainly vegetarian; meat comes in the form of charcoal-grilled kebabs.
-access: 
+summary: Lebanese cafe with a shisha garden.  Cold and hot meze are mainly vegetarian; meat comes in the form of charcoal-grilled kebabs.  Some vegan options.
+access: Narrow corridor and three steps to mezzanine floor with limited seating.  Toilets and other seating up another full flight of stairs.
 links:
   - http://www.just-eat.co.uk/restaurants-mevali-se10/menu
   - http://www.yelp.co.uk/biz/mevali-shisha-bar-london-2
   - http://www.winkball.com/entries/2lHTZ-k2DwXd/mevali-shisha-bar
-surveyed: 
+surveyed: May 2014
 ---
 name: The Pier
+exclude: Staff unwilling to answer questions.
 address: 19 Greenwich Church Street, Greenwich, SE10 9BJ
 area: Greenwich
 website: 
@@ -5498,29 +5503,29 @@ station: Cutty Sark
 type: restaurant
 cuisine: Spanish
 licensed: yes
-byob: 
+byob: yes (corkage is charged)
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: 
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sun: noon-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13146052903/
   - http://www.flickr.com/photos/kake_pugh/13145860165/
   - http://www.flickr.com/photos/kake_pugh/13146181414/
   - http://www.flickr.com/photos/kake_pugh/13145872275/
   - http://www.flickr.com/photos/kake_pugh/13146170764/
-summary: Tapas bar and restaurant. Separate children's menu based on things-with-chips British food for under-11s only. Free tapas with drinks 5-7pm weekdays.
-access: 
+summary: Tapas bar and restaurant.  Separate children's menu based on British-things-with-chips for under-11s only.  Free tapas with drinks 5-7pm weekdays.  Serves cocktails.  Some vegetarian options.
+access: Small step to get in.  Toilets are down a flight of stairs in the basement, with handrail only part of the way down.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Mogul
 address: 10 Greenwich Church Street, Greenwich, SE10 9BJ
 area: Greenwich
 website: http://mogulindian.co.uk/
-twitter: 
+twitter: MogulIndian
 phone: 020 8858 6790
 lat: 51.480925
 long: -0.0093359650
@@ -5528,22 +5533,22 @@ station: Cutty Sark
 type: restaurant
 cuisine: Indian
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: no
 hours: "Mon-Fri: noon-3pm, 6pm-11:30pm; Sat-Sun: noon-11:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13146216024/
   - http://www.flickr.com/photos/kake_pugh/13146034763/
   - http://www.flickr.com/photos/kake_pugh/13145900255/
   - http://www.flickr.com/photos/kake_pugh/13146211594/
-summary: Fairly standard British curryhouse menu plus a few more interesting dishes. Plenty of vegetarian options.
-access: 
+summary: "Fairly standard British curryhouse menu plus a few more interesting dishes.  Plenty of vegetarian options, and vegetable oil is used instead of ghee so vegan is also possible.  Some gluten-free options.  Highchairs for children.  Baby change in ladies’ toilet only."
+access: Only a tiny step to get in, but limited seating on ground floor, and toilets are up a flight of stairs.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Pizza Express
 address: 4 Greenwich Church Street, Greenwich, SE10 9BG
@@ -5557,18 +5562,18 @@ station: Cutty Sark
 type: restaurant
 cuisine: Italian
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
 delivery: no
-just-drink: 
+just-drink: yes
 hours: "Mon-Thu: 11am-11pm; Fri-Sat: 11:30am-11:30pm; Sun: 11am-10pm"
 photo: http://www.flickr.com/photos/kake_pugh/13146048283/
-summary: Reliable chain pizzeria. Separate gluten-free menu including pizzas.
-access: 
+summary: Reliable chain pizzeria.  Vegetarian and vegan options.  All pizzas available on gluten-free bases.  Highchairs and children's menu; baby change table in accessible toilet.
+access: A tiny step to get in, and entrance doors are quite heavy.  Accessible toilet on same level, though access is a little narrow at one point.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Aji Ichiban
 address: 8 Nelson Road, Greenwich, SE10 9JB
@@ -5582,13 +5587,13 @@ station: Cutty Sark
 type: restaurant
 cuisine: Japanese
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Fri: noon-4pm, 5:30pm-11pm; Sat: noon-11pm; Sun: noon-10:30pm"
+eat-in: yes
+takeaway: yes
+delivery: yes
+just-drink: yes
+hours: "Mon-Fri: noon-3:30pm, 5pm-11pm; Sat: noon-11pm; Sun: noon-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13191485054/
   - http://www.flickr.com/photos/kake_pugh/13191473854/
@@ -5596,12 +5601,12 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/13191446914/
   - http://www.flickr.com/photos/kake_pugh/13191146405/
   - http://www.flickr.com/photos/kake_pugh/13191238483/
-summary: Sushi, sashimi, and noodles including ramen.
-access: 
+summary: "Japanese restaurant offering sushi, sashimi, and noodles including ramen.  Vegetarian, vegan, and gluten-free options (including gluten-free soy sauce).  High chairs and children's menu available.  Small “shelf” suitable for changing only small and not-very-wriggly babies in the unisex area of the toilets."
+access: Large step to get in.  Toilets are in the basement, down a flight of stairs with no handrail most of the way.
 links:
   - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d3519999-Reviews-Aji_Ichiban-London_England.html
   - http://www.yelp.co.uk/biz/ajiichiban-london
-surveyed: 
+surveyed: May 2014
 ---
 name: Goddards
 address: 22 King William Walk, Greenwich, SE10 9HU
@@ -5615,21 +5620,21 @@ station: Cutty Sark
 type: restaurant
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
-hours: "Mon-Thu: 10am-6:30pm; Fri-Sun: 10am-7:30pm"
+delivery: no
+just-drink: yes
+hours: "Mon-Thu: 10am-7pm; Fri-Sat: 10am-8pm; Sun: 10am-7:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13191190563/
   - http://www.flickr.com/photos/kake_pugh/13191207803/
   - http://www.flickr.com/photos/kake_pugh/13191223833/
-summary: Traditional London “pie and mash shop”, serving pies, mashed potato, stewed and jellied eels, and “liquor” (a thin parsley sauce, non-alcoholic despite the name). Vegetarian (soya-based) pies available. Bookable upstairs room seating up to 75.
-access: 
+summary: "Traditional London “pie and mash shop”, serving pies, mashed potato, stewed and jellied eels, and “liquor” (a thin parsley sauce, non-alcoholic despite the name).  Two vegetarian pie options, one of which is vegan.  Gluten-free option (meat-based shepherd's pie) with advance notice.  Bookable upstairs room seating up to 75.  Highchairs and children's menu available."
+access: No step to get in, but toilets are up a flight of stairs.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: Vietnam Oriental
 address: 17-18 King William Walk, Greenwich, SE10 9JH
@@ -5642,19 +5647,22 @@ long: -0.0080301315
 station: Cutty Sark
 type: restaurant
 cuisine: Chinese
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
+licensed: yes
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
 just-drink: 
-hours: 
-photo: http://www.flickr.com/photos/kake_pugh/13191070535/
-summary: Despite the name, this is a Chinese restaurant serving Cantonese food including dim sum. Not worth a special trip, but a good enough option if you're in Greenwich already.
+hours: "Mon-Sun: noon-11:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13191070535/
+  - https://www.flickr.com/photos/kake_pugh/9421952121/
+  - https://www.flickr.com/photos/kake_pugh/9424716878/
+summary: Despite the name, this is a Chinese restaurant serving Cantonese food including dim sum. Not worth a special trip, but a good enough option if you're in Greenwich already.  One highchair available, but no baby change facilities.  Some vegetarian options.
 access: A small step to get in, but step-free once you're in.
 links: http://london.randomness.org.uk/wiki.cgi?Vietnam_Oriental_Cuisine,_SE10_9JH
-surveyed: 
+surveyed: May 2014
 ---
 name: Jamie's Italian
 address: 17-19 Nelson Road, Greenwich, SE10 9JB
@@ -5670,23 +5678,24 @@ type:
   - restaurant
 cuisine: Italian
 licensed: yes
-byob: 
+byob: yes (corkage £50/bottle)
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Restaurant: Mon-Sat: noon-11pm; Sun: noon-10:30pm. Deli: Mon-Fri: 7:30am-10pm; Sat: 8am-10pm; Sun: 9am-9pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13191127263/
   - http://www.flickr.com/photos/kake_pugh/13191159983/
   - http://www.flickr.com/photos/kake_pugh/13191038405/
-summary: Chain Italian restaurant with a separate (but small) gluten-free menu. Also has a deli attached.
-access: 
+summary: Chain Italian restaurant with separate gluten-free, vegetarian, and vegan menus.  Also has a deli attached.  Highchairs, children's menu, and a pull-down baby change table in the accessible toilet.  Several different areas with different ambience, including conservatory seating at the back.
+access: A step at the entrance, but a portable ramp is kept on hand to overcome this.  Accessible toilet.
 links: 
-surveyed: 
+surveyed: May 2014
 ---
 name: The Mitre
+exclude: Being refurbished and rebranded, everything will change.
 address: 291 Greenwich High Road, Greenwich, SE10 8NA
 area: Greenwich
 website: http://www.themitregreenwich.co.uk/
@@ -5719,25 +5728,28 @@ address: 285 Greenwich High Road, Greenwich, SE10 8NB
 area: Greenwich
 website: 
 twitter: TheGreenCafee
-phone: 020 8293 5577
+phone: 020 8305 0799
 lat: 51.479657
 long: -0.0099425465
 station: Greenwich
 type: restaurant
 cuisine: British
-licensed: 
+licensed: yes
 byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: 
-photo: http://www.flickr.com/photos/kake_pugh/13190989015/
-summary: 
-access: 
+bookings: no (except large parties)
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Fri: 7am-5pm; Sat-Sun: 8am-5pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13190989015/
+  - https://www.flickr.com/photos/kake_pugh/14279596232/
+  - https://www.flickr.com/photos/kake_pugh/14281624275/
+summary: Small cafe specialising in breakfast.  Several vegetarian options including vegetable chilli, various omelettes, and filled jacket potatoes.  Build-your-own breakfast includes items such as halloumi, chorizo, kippers, and black pudding.  Gluten-free bread and cakes available.  Highchairs, children's menu, and a baby change table in the accessible toilet.
+access: A step to get in.  Accessible toilet, though access to this is a bit narrow.
 links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2479995-Reviews-The_Green_Cafe-London_England.html
-surveyed: 
+surveyed: May 2014
 ---
 name: Taperia
 address: 180 Greenwich High Road, Greenwich, SE10 8NN
@@ -5751,55 +5763,55 @@ station: Greenwich
 type: restaurant
 cuisine: Spanish
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Wed: 5pm-11pm; Thu-Sat: noon-11pm; Sun: noon-10:30pm"
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Sun: noon-10pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13191218654/
   - http://www.flickr.com/photos/kake_pugh/13191068643/
   - http://www.flickr.com/photos/kake_pugh/13191053053/
   - http://www.flickr.com/photos/kake_pugh/13191265094/
-summary: 
-access: 
+summary: "Small tapas bar with a fully glazed frontage and an open kitchen.  Attached to the Greenwich Picturehouse, but a separate business.  Some gluten-free options.  Separate vegetarian section on tapas menu.  Vegetarian paella possible with advance notice."
+access: No step to get in, but the entrance door is quite heavy.  RADAR-locked accessible toilet in the attached cinema, accessed via a lift.
 links:
   - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1989646-Reviews-Taperia_Greenwich-London_England.html
   - http://www.yelp.co.uk/biz/taperia-london
-surveyed: 
+surveyed: May 2014
 ---
 name: Plumtree Café
 address: 241 Greenwich High Road, Greenwich, SE10 8NB
 area: Greenwich
 website: 
 twitter: theplumtreecafe
-phone: 
+phone: 020 7998 8583
 lat: 51.479019
 long: -0.011063710
 station: Greenwich
 type: restaurant
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: no (except for popup restaurant)
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: yes
+just-drink: yes
 hours: "Mon-Sun: 7:30am-4:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13190913625/
   - http://www.flickr.com/photos/kake_pugh/13191175234/
   - http://www.flickr.com/photos/kake_pugh/13190873955/
   - http://www.flickr.com/photos/kake_pugh/13191188484/
-summary: Cafe with a small children's play area. Cooked breakfasts, porridge, soup, sandwiches, jacket potatoes, salads, smoothies, wine, beer, and hot drinks including “fresh hand roasted Redchurch blend coffee from Allpress Espresso”. Children's menu has pasta, things on toast, and a “nibble plate” with cheese, olives, apple, bread, ham, and fruit. Vegetarian options include cooked breakfast with vegetarian sausages. A couple of avocado-based vegan options.
-access: 
+summary: Cafe with a small children's play area. Cooked breakfasts, porridge, soup, sandwiches, jacket potatoes, salads, smoothies, wine, beer, and hot drinks including “fresh hand roasted Redchurch blend coffee from Allpress Espresso”. Children's menu has pasta, things on toast, and a “nibble plate” with cheese, olives, apple, bread, ham, and fruit. Vegetarian options include cooked breakfast with vegetarian sausages. A couple of avocado-based vegan options. Pull-down baby change table in toilet.  The space is used as a popup restaurant on Friday and Saturday evenings.
+access: Small step in, another step to the toilet.  Access to toilet is narrow and cluttered with chairs, tables, and spillover from children's play area.
 links:
   - http://uberfoods.wordpress.com/2013/06/04/restaurant-review-the-plumtree-cafe/
   - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d4358224-Reviews-Plumtree_Cafe-London_England.html
-surveyed: 
+surveyed: May 2014
 ---
 name: The Cheeseboard
 address: 26 Royal Hill, Greenwich, SE10 8RT
@@ -6033,22 +6045,22 @@ long: -0.012088314
 station: Greenwich
 type: restaurant
 cuisine: British
-licensed: 
+licensed: no
 byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
+bookings: no
+eat-in: yes
+takeaway: yes
+delivery: no
 just-drink: 
 hours: "Mon-Fri: 7am-4pm; Sat: 8am-4pm; Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13215576415/
   - http://www.flickr.com/photos/kake_pugh/13215709403/
   - http://www.flickr.com/photos/kake_pugh/13215697803/
-summary: Cooked breakfasts served all day.  Hot and cold sandwiches, omelettes, burgers, jacket potatoes, salads.
-access: 
+summary: Small cafe serving cooked breakfasts all day.  Hot and cold sandwiches, omelettes, burgers, jacket potatoes, salads.  Highchairs for children, but no baby change facilities.
+access: A step to get in, and toilets are down a flight of stairs in the basement.
 links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2390100-Reviews-Baba_s_Cafe-London_England.html
-surveyed: 
+surveyed: May 2014
 ---
 name: The Lost Hour
 address: 217-219 Greenwich High Road, Greenwich, SE10 8NB
@@ -6062,23 +6074,23 @@ station: Greenwich
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sat: 11am-11:30pm; Sun: 11am-11pm"
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: 11am-11:30pm; Sun: 11am-11pm.  Food served Mon-Sun: 11am-10pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/13215676663/
   - http://www.flickr.com/photos/kake_pugh/13215522235/
   - http://www.flickr.com/photos/kake_pugh/13215511755/
-summary: Part of the Stonegate Pub Company, serving food and real ale at relatively cheap prices. Cooked breakfasts served until noon.
-access: 
+summary: Part of the Stonegate Pub Company, serving food and (frequently rotating) real ale at relatively cheap prices.  Cooked breakfasts served until noon.  A couple of vegetarian options.  Some dishes can be amended to be gluten-free, but the staff can't guarantee there won't be any cross-contamination.  Highchairs, children's menu, and a pull-down baby change table in the accessible toilet.
+access: Tiny step at right-hand entrance.  Accessible toilet on same level.
 links:
   - http://www.yelp.co.uk/biz/the-lost-hour-london
   - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d3807627-Reviews-The_Lost_Hour-London_England.html
-surveyed: 
+surveyed: May 2014
 ---
 name: Café Marrone
 address: Shadwell Station, Watney Street, Shadwell, E1 2QD
