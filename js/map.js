@@ -38,6 +38,8 @@ $(
     var zoom = 13;
     map.setView( map_centre, zoom ).addLayer( tile_layer );
 
+    L.control.scale().addTo(map);
+
     add_markers();
   }
 );
@@ -65,6 +67,9 @@ function add_marker( i, thing ) {
   }
   if ( thing.access ) {
     content = content + '<br><b>Access:</b> ' + thing.access;
+  }
+  if ( thing.hours ) {
+    content = content + '<br><b>Hours:</b> ' + thing.hours;
   }
   marker.bindPopup( content );
 
