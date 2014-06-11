@@ -13,21 +13,25 @@ cuisine:
   - Indian
   - Italian
   - Spanish
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+licensed: yes
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: yes (after 5pm)
+just-drink: yes
 hours: "Mon-Sun: 7am-11pm"
-photo: http://www.flickr.com/photos/kake_pugh/12256496106/
-summary: 
-access: 
+photo:
+  - https://www.flickr.com/photos/kake_pugh/14357994525/
+  - https://www.flickr.com/photos/kake_pugh/14195987119/
+  - https://www.flickr.com/photos/kake_pugh/14402790493/
+summary: Small restaurant offering global food including pizzas, British cooked breakfasts, and Indian curries.  All meat aside from the bacon is halal.
+access: A step to get in, 2 more steps to toilets.
 links: http://hungryhouse.co.uk/gillani-s-restaurant-canning-town
-surveyed: 
+surveyed: June 2014
 ---
 name: Alenka
+exclude: Very small, doesn't do interesting booze any more.
 address: 63 Barking Road, Canning Town, E16 4HB
 area: Canning Town
 website: 
@@ -65,21 +69,27 @@ type: restaurant
 cuisine:
   - Brazilian
   - Portuguese
-licensed: 
+licensed: yes
 byob: 
 bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sun: 9am-11pm"
-photo: http://www.flickr.com/photos/kake_pugh/12256335144/
-summary: 
-access: 
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: 9am-11pm; Sun: 10am-11pm."
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12256335144/
+  - https://www.flickr.com/photos/kake_pugh/14334881526/
+  - https://www.flickr.com/photos/kake_pugh/14171506327/
+  - https://www.flickr.com/photos/kake_pugh/14354667211/
+  - https://www.flickr.com/photos/kake_pugh/14354665581/
+summary: Small cafe offering Brazilian and Portuguese food and drinks.  The menu is written up on chalkboards in Portuguese.
+access: Step-free, but an immediate 90-degree turn on entering.
 links: http://www.theguardian.com/travel/2012/apr/18/top-10-budget-restaurants-excel-east-london
-surveyed: 
+surveyed: June 2014
 ---
 name: Kings Continental Cuisine
+exclude: Very local ambience, doesn't seem to focus on food.
 address: 147 Barking Road, Canning Town, E16 4HQ
 area: Canning Town
 website: 
@@ -116,18 +126,18 @@ station: Canning Town
 type: restaurant
 cuisine: Ukrainian
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon: closed; Tue-Sun: 3pm-1:30am"
-photo: http://www.flickr.com/photos/kake_pugh/12255891665/
-summary: 
-access: 
+photo: https://www.flickr.com/photos/kake_pugh/14354663281/
+summary: Ukrainian restaurant and bar serving home-style soups, stews, dumplings, and other hot dishes as well as a selection of vodkas.  One highchair, but no baby change facilities.  Live music on Saturdays.
+access: Two steps down immediately inside the door (involving a 90-degree turn).  There's a wide aisle leading down to the bar and toilets.
 links: http://london.randomness.org.uk/wiki.cgi?Albina,_E13_8EQ
-surveyed: 
+surveyed: June 2014
 ---
 name: Albena Russian Delicatessen
 address: 253 Barking Road, Canning Town, E13 8EQ
@@ -149,10 +159,10 @@ delivery:
 just-drink: 
 hours: "Mon-Sun: 11am-9pm"
 photo: http://www.flickr.com/photos/kake_pugh/12256317624/
-summary: 
-access: 
+summary: Small Russian delicatessen and off licence with a wide range of interesting sprits.
+access: No steps, but it's quite small and cramped inside.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Nikki's Place
 address: 282 Barking Road, Canning Town, E13 8HR
@@ -164,22 +174,27 @@ lat: 51.520362
 long: 0.018786594
 station: Canning Town
 type: restaurant
-cuisine: African
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sun: noon-10pm"
-photo: http://www.flickr.com/photos/kake_pugh/12256043303/
-summary: 
-access: 
+cuisine: Nigerian
+licensed: yes
+byob: no
+bookings: no
+eat-in: yes
+takeaway: yes
+delivery: yes (they send it in a taxi)
+just-drink: yes
+hours: "Mon-Sat: 1pm-11pm; Sun: may be closed (call ahead to check)"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/14354659791/
+  - https://www.flickr.com/photos/kake_pugh/14171499767/
+  - https://www.flickr.com/photos/kake_pugh/14380256852/
+  - https://www.flickr.com/photos/kake_pugh/14195124490/
+summary: Tiny Nigerian restaurant, seating only 16 people at close-packed tables.  No vegetarian options.  Dishes include spicy giant snail, suya (grilled skewered meat), asaro (yam pottage), and bitter leaf soup.  Fully licensed; soft drinks such as Supermalt also available.
+access: Small step to get in.  Tables are very close together; there probably wouldn't be room for a wheelchair.  No steps to toilets, but access is down a cluttered corridor.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Bronze
+exclude: No staff members around on my June 2014 survey, can't confirm it's even open right now.
 address: 291-293 Barking Road, Canning Town, E13 8EQ
 area: Canning Town
 website: 
@@ -576,21 +591,21 @@ long: 0.041821808
 station: Royal Albert
 type: restaurant
 cuisine: Chinese
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon: noon-10pm; Tue-Sat: noon-10:30, Sundays in August already fully booked"
+licensed: yes
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: noon-11pm.  Sundays in August already fully booked."
 photo:
   - http://www.flickr.com/photos/kake_pugh/12440348573/
   - http://www.flickr.com/photos/kake_pugh/4873560820/
-summary: Cantonese restaurant with a view over the Royal Docks and London City Airport; good for dim sum in large groups, particularly with children who enjoy the views of the planes.
-access: Step-free to the building from Royal Albert DLR (via a lift at the DLR station), though there are a few rough cobbled patches along the way. Also step-free from the (large, free) car park. Restaurant is on an upper floor but there's a lift. Toilets on same level as restaurant, with no intervening steps (including an accessible one that doubles as a baby-change room).
-links: 
-surveyed: 
+summary: Cantonese restaurant with a view over the Royal Docks and London City Airport; good for dim sum in large groups, particularly with children who enjoy the views of the planes.  Highchairs available for children, and baby-changing facilities in the accessible toilet.  Vegetarian dim sum options are very limited.
+access: Step-free to the building from Royal Albert DLR (via a lift at the DLR station), though there are a few rough cobbled patches along the way. Also step-free from the (large, free) car park. Restaurant is on an upper floor but there's a lift.  Accessible toilet on same level as restaurant with no intervening steps.
+links: http://london.randomness.org.uk/wiki.cgi?Yi-Ban,_E16_2QT
+surveyed: June 2014
 ---
 name: Fox Connaught
 address: Lynx Way, Royal Docks, E16 1JR
@@ -603,13 +618,13 @@ long: 0.039488286
 station: Prince Regent
 type: pub
 cuisine: British
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+licensed: yes
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Food served Mon-Thu: 6am-11pm; Fri-Sat: 6am-midnight; Sun: 6am-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12440200325/
@@ -618,10 +633,10 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/9189052495/
   - http://www.flickr.com/photos/kake_pugh/9191846914/
   - http://www.flickr.com/photos/kake_pugh/9189045589/
-summary: Real ale and an extensive pub food/bistro menu, including traditional British Sunday lunches. Also open for breakfast. Hotel rooms upstairs.
+summary: Pub serving real ale and an extensive pub food/bistro menu, including traditional British Sunday lunches. Also open for breakfast. Hotel rooms upstairs.  Highchairs and children's menu available, as well as a pull-down baby change table in the accessible toilet (which has a RADAR lock, but there's a key behind the bar).  Only halal meat used.  A few vegetarian and vegan options.  Staff are willing to adapt dishes to suit special diets wherever possible.  There's another branch (Fox ExCeL) at the other end of the ExCeL Centre, and the menu is the same at both.
 access: Step-free to bar, seating area, and RADAR-locked accessible toilet.
-links: 
-surveyed: 
+links: http://london.randomness.org.uk/wiki.cgi?Fox_Connaught,_E16_1JR
+surveyed: June 2014
 ---
 name: Garden Community Cafe
 exclude: Not open during school holidays.
@@ -723,18 +738,19 @@ cuisine: Indian
 licensed: 
 byob: 
 bookings: 
-eat-in: 
+eat-in: no
 takeaway: yes
 delivery: no
 just-drink: 
 hours: "Mon-Sun: 11am-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/12518482764/
-summary: 
-access: 
+summary: Indian takeaway offering standard British curryhouse dishes plus a few unusual biryani options such as chicken wings biryani and lamb donner biryani.  Some vegetarian options.
+access: No step to get in, just a small ridge at the threshold.  No seating, even just for people waiting for takeaways.
 links: http://www.just-eat.co.uk/restaurants-leroyal-e16/menu
-surveyed: 
+surveyed: June 2014
 ---
 name: Pacific Fish Bar
+exclude: Staff unwilling to answer questions.
 address: 17-19 Freemasons Road, Custom House, E16 3AR
 area: ExCeL
 website: 
@@ -759,7 +775,7 @@ access:
 links: 
 surveyed: 
 ---
-name: ExCEL Cafe and Restaurant / Freemasons Cafe
+name: Freemasons Cafe
 address: 27 Freemasons Road, Custom House, E16 3AR
 area: ExCeL
 website: 
@@ -770,24 +786,25 @@ long: 0.025588676
 station: Custom House
 type: restaurant
 cuisine: British
-licensed: 
+licensed: yes
 byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: 
+bookings: no
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: 7:30am-3:30pm; Sun: closed."
 photo:
   - http://www.flickr.com/photos/kake_pugh/12518469424/
   - http://www.flickr.com/photos/kake_pugh/12518469424/
   - http://www.flickr.com/photos/kake_pugh/12518436284/
-summary: "Traditional British cafe serving fried breakfasts, sandwiches, jacket potatoes, grills, omelettes, and roast lunches.  NB: Phone number not working."
-access: 
+summary: "Traditional British cafe serving fried breakfasts, sandwiches, jacket potatoes, grills, omelettes, and roast lunches.  Vegetarian options are sparse.  Unusually for this type of cafe, it serves alcohol.  Two highchairs available for children."
+access: A small step to get in, and a fairly wide aisle between tables.  Seats and tables are fixed to the floor.  No further steps to the toilets, but access is fairly narrow and involves a 90-degree turn.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Nisa Local
+exclude: The branch on Western Gateway is very similar, and is more convenient to the ExCeL Centre.
 address: 53 Freemasons Road, Custom House, E16 3PJ
 area: ExCeL
 website: http://www.nisalocally.co.uk/
@@ -824,20 +841,20 @@ station: Custom House
 type:
   - takeaway
   - grocery shop
-cuisine: 
+cuisine: British
 licensed: 
 byob: 
 bookings: 
-eat-in: 
-takeaway: 
-delivery: 
+eat-in: no
+takeaway: yes
+delivery: no
 just-drink: 
-hours: "Possibly Mon-Fri: 7am-4:30pm; Sat: 7am-2:30pm; Sun: closed"
+hours: "Mon-Fri: 7:30am-4:30pm; Sat: 7:30am-2pm; Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/12518105803/
-summary: "Fresh bread, cakes, sandwiches, and hot savoury pastries.  NB: Phone number possibly wrong (no answer on several occasions)."
-access: 
+summary: "Bakery offering fresh bread, cakes, sandwiches, and hot savoury pastries.  Vegetarian options are limited.  No eat-in space."
+access: No steps to get in.  No seating.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: La Barrique
 address: Unit R5, Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
@@ -861,8 +878,8 @@ hours: "Mon-Thu: 7am-10pm; Fri-Sun: 7am-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12560527075/
   - http://www.flickr.com/photos/kake_pugh/12560527075/
-summary: Pizza, sandwiches, sharing platters, wine, and coffee.
-access: 
+summary: Pizza, sandwiches, sharing platters, wine, and coffee.  Local beers on tap from the Meantime brewery (based in Greenwich).
+access: A ramp with two 90-degree turns to get in, and narrow access just at the doorway due to a (possibly movable) barrel.  Much of the seating is at high tables.
 links: 
 surveyed: 
 ---
@@ -879,20 +896,20 @@ type: pub
 cuisine: British
 licensed: yes
 byob: no
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sun: noon-11pm (also possibility of opening for breakfast)"
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "9am-midnight during main convention dates (14-18 August).  Otherwise Mon-Sun: noon-11pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/12560978644/
   - http://www.flickr.com/photos/kake_pugh/12560602033/
   - http://www.flickr.com/photos/kake_pugh/12560952814/
-summary: 
-access: 
+summary: Pub serving real ale and an extensive pub food/bistro menu, including traditional British Sunday lunches.  A few vegetarian and vegan options.  Highchairs and children's menu available, as well as a pull-down baby change table in the accessible toilet.  There's another branch (Fox Connaught) at the other end of the ExCeL Centre, and the menu is the same at both.
+access: Level access to top floor from ExCeL upper walkway, and to ground floor from the street.  Much of the seating on the ground floor is at high tables.   Walk-through lift from top floor to mezzanine (where an accessible toilet with baby change is located).  Another accessible toilet on ground floor (RADAR lock, no baby change facilities).  There are steps (with handrail) between the ground floor and mezzanine, so step-free access from ground floor to baby change (or from ground floor to top floor) requires leaving the building and taking a circuitous route involving ramps up to the main ExCeL entrance then going across the walkway.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: 07 Zero Sette
 address: Unit R3, Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
@@ -906,20 +923,20 @@ station: Custom House
 type: restaurant
 cuisine: Italian
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon-Sun: noon-3pm, 6pm-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12560577363/
   - http://www.flickr.com/photos/kake_pugh/12560577363/
-summary: 
-access: 
+summary: "Italian restaurant with tables for relatively large groups (10-11 people).  Highchairs and half-portions for children, and a pull-down baby change table in the accessible toilet.  Vegetarian options and gluten-free pasta available, and the kitchen are happy to adapt dishes where possible."
+access: "Tiny ramp (more of a smoothed-over step) to get in.  Step-free access to accessible toilet."
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Bollywood Grill
 address: Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
@@ -960,18 +977,18 @@ station: Custom House
 type: restaurant
 cuisine: Chinese
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: yes (corkage £20/bottle)
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: yes (evenings only, from 5pm)
+just-drink: no
 hours: "Mon-Thu: noon-11pm; Fri-Sat: noon-11:30pm; Sun: 11am-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/12560423855/
-summary: Large Chinese restaurant right next to ExCeL, serving dim sum in the day and a long menu of Cantonese food in the evening.
-access: 
-links: 
-surveyed: 
+summary: Large Chinese restaurant right next to ExCeL, serving dim sum in the day and a long menu of Cantonese food in the evening.  Highchairs for children, but no baby change facilities.  Booking recommended for large parties.  Private function room with karaoke facilities.  Vegetarian and gluten-free options are limited.
+access: No steps to get in, but entrance door is heavy.  Toilets are in the basement; there is a lift, but there are four more steps after that.
+links: http://london.randomness.org.uk/wiki.cgi?China_Palace,_E16_1DR
+surveyed: June 2014
 ---
 name: Elite Dining
 address: 3 Western Gateway, Royal Victoria Dock, E16 1BD
@@ -985,22 +1002,22 @@ station: Custom House
 type: restaurant
 cuisine: Indian
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: yes
+bookings: yes
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: no
+just-drink: yes
 hours: "Mon-Sun: noon-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12569004245/
   - http://www.flickr.com/photos/kake_pugh/12569446804/
   - http://www.flickr.com/photos/kake_pugh/12569295774/
   - http://www.flickr.com/photos/kake_pugh/12569292894/
-summary: 700-seater Indian restaurant in a converted warehouse, just opposite the western entrance to ExCeL.
-access: 
+summary: Indian restaurant in a converted warehouse, just opposite the western entrance to ExCeL.  Plenty of vegetarian options.  Half-portions for children, and a pull-down baby change table in a room at the back.  Highchairs of a sort also available, but these have no straps and are suitable for age 2+ rather than smaller toddlers or babies.  Large back room seating a couple of hundred people; a buffet can be arranged for this room if required.  Outdoor seating if the weather is good, on wooden jetties with a view of the preserved Stothert & Pitt cranes alongside the Royal Victoria Dock.
+access: No steps to get in, and there's an accessible toilet.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Airline Cafe and Diner
 address: 14 Western Gateway, Royal Victoria Dock, E16 1FD
@@ -1058,12 +1075,13 @@ delivery:
 just-drink: 
 hours: "Mon-Sun: 7am-1am"
 photo: http://www.flickr.com/photos/kake_pugh/12596839875/
-summary: 
-access: 
+summary: Grocery shop offering bread, cakes, cereals, deli items, and storecupboard groceries.  Pre-made and made-to-order sandwiches also available.
+access: No step to get in, but an immediate 90-degree turn leading to a short ramp.  Quite small inside, with relatively narrow aisles.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Royal Docks Pizza
+exclude: Include this under the Reem Al Wadi listing.
 address: Unit G8, ExCeL Marina, 8 Western Gateway, E16 1AT
 area: ExCeL
 website: http://www.royaldockpizza.com/
@@ -1088,10 +1106,10 @@ access:
 links: 
 surveyed: 
 ---
-name: Reem Al Bawadi
-address: 8 ExCeL Marina, Western Gateway, E16 1DR
+name: Reem Al Wadi
+address: Unit G8, ExCeL Marina, Western Gateway, E16 1DR
 area: ExCeL
-website: http://reem-albawadi.com/
+website: 
 twitter: 
 phone: 020 7511 8046
 lat: 51.507894
@@ -1099,51 +1117,56 @@ long: 0.020643085
 station: Royal Victoria
 type: restaurant
 cuisine: Lebanese
-licensed: 
-byob: 
-bookings: 
-eat-in: 
+licensed: no
+byob: yes
+bookings: yes
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: no
 hours: "Mon-Sun: noon-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12597205544/
   - http://www.flickr.com/photos/kake_pugh/12596916173/
   - http://www.flickr.com/photos/kake_pugh/12596899713/
-summary: 
-access: 
-links: 
-surveyed: 
+summary: Lebanese restaurant with a charcoal grill.  Several vegetarian options, and some gluten-free.  No alcohol licence, but BYOB permitted.  Two highchairs for children, but no baby change facilities.  Previously known as Reem Al Bawadi.  Also offers takeaway/delivery pizza under the name Royal Docks Pizza.
+access: Only a tiny step in, but the entrance door is quite heavy, and there are eight steps (with handrail) to the toilets.
+links:
+  - http://www.just-eat.co.uk/restaurants-reemalbawadi-e16/menu
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d4096850-Reviews-Reem_Al_Bawadi-London_England.html
+  - http://www.yelp.co.uk/biz/reem-al-bawadi-london
+surveyed: June 2014
 ---
 name: Café Bonnane
-address: ExCeL Marina, Western Gateway, E16 1DR
+address: Unit G8, ExCeL Marina, Western Gateway, E16 1DR
 area: ExCeL
 website: 
 twitter: 
-phone: 020 7474 4975
+phone: 020 7511 3533
 lat: 51.507828
 long: 0.020669907
 station: Royal Victoria
 type: restaurant
 cuisine: 
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Possibly 8am-5pm, not sure which days"
+licensed: no (NB check closer to the time - they're seeking a licence to serve wine and beer)
+byob: yes
+bookings: no
+eat-in: yes
+takeaway: yes
+delivery: yes
+just-drink: yes
+hours: "Mon-Sun: 8am-6pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12596862213/
+  - https://www.flickr.com/photos/kake_pugh/14351007556/
   - http://www.flickr.com/photos/kake_pugh/12596739635/
-summary: "NB: Phone number not working."
-access: 
+summary: Cafe offering cooked breakfasts, sandwiches, jacket potatoes, and pasta dishes.  Highchairs and half-portions for children.  Soya milk available.  Some vegetarian options, mostly involving things like falafel, hummus, cheeses (halloumi, mozzarella, brie), and vegetarian sausages.
+access: No steps, but the entryway is narrow and cluttered, and access to the toilet requires a tight turn.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Caribbean Scene
+exclude: Closed down.
 address: Unit G7, ExCeL Marina, 17 Western Gateway, E16 1AQ
 area: ExCeL
 website: http://www.caribbeanscene.co.uk/
@@ -1176,7 +1199,7 @@ name: Docklands Bar And Grill
 address: Victoria Dock Road, Western Gateway, Royal Victoria Dock, E16 1AL
 area: ExCeL
 website: http://www.docklandsbarandgrill.co.uk/
-twitter: 
+twitter: Docklands_Bar
 phone: 020 7055 2119
 lat: 51.508195
 long: 0.020034224
@@ -1184,20 +1207,22 @@ station: Royal Victoria
 type:
   - restaurant
   - pub
-cuisine: British
+cuisine:
+  - British
+  - Mediterranean
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Bar open Mon-Sun: 11am-11pm. Food served Mon-Fri: 6am-10:30am, noon-3pm, 6pm-10:30pm; Sat-Sun: 7am-10:30am, noon-3pm, 6pm-10:30pm."
 photo: http://www.flickr.com/photos/kake_pugh/12596786053/
-summary: Part of the Crowne Plaza hotel.
-access: 
+summary: Bar and restaurant in the Crowne Plaza hotel, serving British and Mediterranean food including breakfast from 6am on weekdays and 7am on weekends.  Fully licensed, but also plenty of non-alcoholic drinks including smoothies, non-alcoholic cocktails, and a range of black and green teas.  Vegetarian, vegan, and gluten-free options.  Highchairs and children's menu available, and baby changing facilities in the accessible toilet (accessed via the hotel lobby).  Outdoor seating under cover with a partial view of the dock.
+access: Step-free entrance with button-push automatic doors via hotel reception.  Accessible toilet also accessed via hotel reception (which is right next to the bar/restaurant).
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Tesco Express
 address: Unit B, The Oxygen, Royal Victoria Dock, E16 1BL
@@ -1219,10 +1244,10 @@ delivery:
 just-drink: 
 hours: "Mon-Sun: 7am-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/12597094584/
-summary: Also has a free 24-hour cashpoint.
-access: 
+summary: Chain grocery shop selling fresh fruit and vegetables, fresh meat, frozen foods, deli items, ready meals, cup noodles, and so on.  Also has a free 24-hour cashpoint.
+access: No steps, but aisles are sometimes cluttered with stock trolleys.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Caffè Fratelli
 address: Unit 1, Western Gateway, E16 1AS
@@ -1235,27 +1260,27 @@ long: 0.018832594
 station: Royal Victoria
 type: restaurant
 cuisine: Italian
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Fri: 7am-7pm; Sat: 8am-6pm; Sun: 9am-6pm"
+licensed: no
+byob: yes (though at the manager's discretion)
+bookings: yes (though at the manager's discretion)
+eat-in: yes
+takeaway: yes
+delivery: no (except for large orders booked in advance)
+just-drink: yes
+hours: "Mon-Fri: 7am-7pm; Sat: 8am-8pm; Sun: 9am-8pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12597062074/
   - http://www.flickr.com/photos/kake_pugh/12596752443/
-summary: Small chain.
-access: 
+summary: Italian cafe, part of a small franchise.  Pasta dishes, salads, toasties, cakes, pastries, and coffee.  Some vegetarian options, little or nothing gluten-free.
+access: No steps, and there's an accessible toilet.  It's quite small inside, and crowded with furniture.  A couple of tables outside provide more space.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Crystal Café
 address: 1 Siemens Brothers Way, Royal Victoria Dock, E16 1GB
 area: ExCeL
 website: http://www.thecrystal.org/
-twitter: 
+twitter: TheCrystalOrg
 phone: 020 7055 6400
 lat: 51.507287
 long: 0.016579539
@@ -1269,43 +1294,43 @@ eat-in:
 takeaway: 
 delivery: 
 just-drink: 
-hours: "Mon-Fri: 8:30am-5pm; Sat-Sun: 10am-7pm"
+hours: "Mon-Fri: 8:30am-5pm; Sat-Sun: 10am-7pm.  Food served Mon-Fri: 8:30am-10:30am, 11:30am-3:30pm; Sat-Sun: 11:30am-3:30pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/12596940004/
   - http://www.flickr.com/photos/kake_pugh/12596607725/
-summary: 
-access: 
+summary: Cafe in the Crystal, a Siemens initiative exploring urban sustainability.  The menu is small but changes every day, with dishes such as burgers and Mediterranean vegetable pasta.  Soups, salads, and cakes always available.  Everything (except some of the cakes) is made in-house.  At least one vegetarian option is always available, and the chef is happy to amend dishes to suit special diets wherever possible.  Ingredients are sourced mainly within a 20-mile radius, and all food waste is composted for use in the gardens outside.  Four highchairs, and a pull-down baby change facility in each toilet (men, women, accessible).  Children's portions available whenever the menu allows (e.g. small portions of pasta are possible, small portions of burgers are not).
+access: No steps, and there's a button-press automatic door at the entrance.  Accessible toilet.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Oiler Bar
 address: Royal Victoria Dock
 area: ExCeL
 website: http://www.wakeupdocklands.com/the-oiler-bar
 twitter: oilerbar
-phone: 07599 905526
+phone: 07979 434157
 lat: 51.506492
 long: 0.017378837
 station: Royal Victoria
 type: pub
-cuisine: 
+cuisine: BBQ
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon: noon-10:30pm; Tue-Sat: noon-11pm; Sun: noon-10:30pm"
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon: noon-10:30pm; Tue-Sat: noon-11pm (noon-2am on Sat 16 Aug); Sun: noon-10:30pm.  Food served 1pm-close on sunny days only."
 photo:
   - http://www.flickr.com/photos/kake_pugh/12596534055/
   - http://www.flickr.com/photos/kake_pugh/12596662193/
   - http://www.flickr.com/photos/kake_pugh/12597009364/
   - http://www.flickr.com/photos/kake_pugh/12596700893/
-summary: 
-access: 
+summary: A bar on a boat moored in the Royal Victoria Dock.  Food is limited to BBQ (including a vegetarian option) on sunny days only.  Interior seating, plus plenty more on the deck.  Children are permitted until 8pm.
+access: Uneven surface directly outside, and a narrow gangplank.  All seating on this level is outside.  Toilets and interior seating are down a steep set of steps with a handrail on one side.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Nakhon Thai
 address: Waterfront Studios, 1 Dock Road, Royal Victoria Dock, E16 1AH
@@ -3049,6 +3074,34 @@ access:
 links: 
 surveyed: 
 ---
+name: Bathak
+address: 322 Burdett Road, Limehouse, E14 7DL
+area: Limehouse
+website: 
+twitter: 
+phone: 020 7093 3552
+lat: 51.512500
+long: -0.028007224
+station: Westferry
+type: restaurant
+cuisine: Pakistani
+licensed: 
+byob: 
+bookings: 
+eat-in: 
+takeaway: 
+delivery: 
+just-drink: 
+hours: 
+photo: https://www.flickr.com/photos/kake_pugh/14184901439/
+summary: Lamb and chicken curries both on and off the bone, meat and vegetable biryanis, plus slow-cooked stews such as nihari (lamb shanks) and paya (lamb trotters).
+access: 
+links:
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d3664144-Reviews-Bathak-London_England.html
+  - http://www.zabihah.com/biz/30sk0GACXi
+  - http://hungryhouse.co.uk/bathak-limehouse
+surveyed: 
+---
 name: MK Cafe
 address: 819 Commercial Road, Limehouse, E14 7HG
 area: Limehouse
@@ -3272,7 +3325,7 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12992487844/
   - http://www.flickr.com/photos/kake_pugh/12992200813/
   - http://www.flickr.com/photos/kake_pugh/12992063115/
-summary: Restaurant offering Moroccan and Lebanese food including vegetarian and vegan options.  Shisha (hookah) menu and heated garden terrace.  Highchairs available for children.
+summary: Restaurant offering Moroccan and Lebanese food including vegetarian and vegan options.  Shisha (hookah) menu and heated garden terrace.  One highchair available for children.
 access: Step to get in.  Toilets down a flight of stairs.  More steps to some of the seating and to the shisha garden.
 links: 
 surveyed: April 2014
@@ -3996,8 +4049,14 @@ takeaway:
 delivery: 
 just-drink: 
 hours: "Mon-Sat: 7am-4:30pm; Sun: closed"
-photo: http://www.flickr.com/photos/kake_pugh/13028102025/
-summary: Traditional British “greasy spoon” cafe just across the road from Limehouse Station.
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13028102025/
+  - https://www.flickr.com/photos/kake_pugh/14371533885/
+  - https://www.flickr.com/photos/kake_pugh/14184897219/
+  - https://www.flickr.com/photos/kake_pugh/14184920478/
+  - https://www.flickr.com/photos/kake_pugh/14348438196/
+  - https://www.flickr.com/photos/kake_pugh/14185075727/
+summary: Traditional British cafe just across the road from Limehouse Station.  Coffee and tea, cooked breakfasts, sandwiches and baguettes, omelettes, jacket potatoes, and hot meals including a roast of the day, shepherd's pie, and pork chops with chips and peas.  Vegetarian choices are sparse, but they do offer vegetarian cooked breakfasts with options including vegetarian sausages.
 access: 
 links: 
 surveyed: 
@@ -4198,8 +4257,11 @@ takeaway:
 delivery: 
 just-drink: 
 hours: "Mon-Sat: 11:30am-11pm; Sun: noon-8pm"
-photo: http://www.flickr.com/photos/kake_pugh/13030764795/
-summary: 
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13030764795/
+  - https://www.flickr.com/photos/kake_pugh/14184882449/
+  - https://www.flickr.com/photos/kake_pugh/14391697533/
+summary: Caribbean restaurant with live entertainment on Thursday evenings.  Limited vegetarian options.  Specialises in jerk chicken, but other dishes include ackee and saltfish, oxtail and butter beans, and various soups.
 access: 
 links: 
 surveyed: 
@@ -4328,6 +4390,33 @@ just-drink:
 hours: "Mon-Fri: 9am-9pm; Sat: 9:30am-9pm; Sun: 10am-9pm"
 photo: http://www.flickr.com/photos/kake_pugh/13055600004/
 summary: Asian groceries and fresh vegetables.
+access: 
+links: 
+surveyed: 
+---
+name: East London Food Centre
+address: 485-489 Commercial Road, Shadwell, E1 0HA
+area: Limehouse
+website: 
+twitter: 
+phone: 020 7423 9400
+lat: 51.513640
+long: -0.048810035
+station:
+  - Limehouse
+  - Shadwell
+type: grocery shop
+cuisine: 
+licensed: 
+byob: 
+bookings: 
+eat-in: 
+takeaway: 
+delivery: 
+just-drink: 
+hours: 
+photo: https://www.flickr.com/photos/kake_pugh/14184874619/
+summary: Grocery shop offering fresh fruit and vegetables, Asian groceries, and a halal butcher.
 access: 
 links: 
 surveyed: 
@@ -4542,7 +4631,7 @@ delivery: no
 just-drink: 
 hours: "Mon-Sun: noon-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13057186703/
-summary: Curries and grilled meats with daily specials including haleem and nihari.  Plenty of vegetarian options.  Highchairs for children, and a pull-down baby change table in the ladies' toilet.
+summary: Curries and grilled meats with daily specials including (a slow-cooked dish of pounded lamb and lentils), and nihari (a slow-cooked lamb shank stew).  Plenty of vegetarian options.  Highchairs for children, and a pull-down baby change table in the ladies' toilet.
 access: Three steps to get in.
 links: 
 surveyed: May 2014
@@ -6130,10 +6219,10 @@ long: -0.011774495
 station: All Saints
 type: restaurant
 cuisine: Chinese
-licensed: 
+licensed: yes
 byob: 
-bookings: 
-eat-in: 
+bookings: yes
+eat-in: yes
 takeaway: yes
 delivery: 
 just-drink: 
@@ -6146,9 +6235,11 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/13270546063/
   - http://www.flickr.com/photos/kake_pugh/13270717404/
   - http://www.flickr.com/photos/kake_pugh/13270522713/
-summary: Sichuan specialities from a fully bilingual menu (English/Chinese). Hotpot (steamboat) also available.
-access: 
-links: http://chowhound.chow.com/topics/865723
+summary: Sichuan specialities from a fully bilingual menu (English/Chinese).  Hotpot (steamboat) also available.
+access: No steps to get in, but most of the seating is down two steps, and the toilets are down a flight of stairs with a handrail on one side most (but not all) of the way down.
+links:
+  - http://london.randomness.org.uk/wiki.cgi?Sichuan_Kitchen,_E14_0ED
+  - http://chowhound.chow.com/topics/865723
 surveyed: 
 ---
 name: Super Three
@@ -7464,6 +7555,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Red_Lion,_E11_3AA
 surveyed: 
 ---
 name: Nutrilicious 4 Life
+exclude: Will be closing at end of July 2014.
 address: The Place, 2 Silvertown Way, Canning Town, E16 1ED
 area: Canning Town
 website: 
@@ -7488,10 +7580,10 @@ access:
 links: http://www.theguardian.com/travel/2012/apr/18/top-10-budget-restaurants-excel-east-london
 surveyed: 
 ---
-name: Makiyaki
+name: Mino
 address: Unit G2, ExCeL Marina, E16 1AS
 area: ExCeL
-website: http://makiyakiuk.com/
+website: 
 twitter: 
 phone: 020 7473 5333
 lat: 51.507515
@@ -7499,16 +7591,49 @@ long: 0.021761311
 station: Royal Victoria
 type: restaurant
 cuisine: Japanese
+licensed: yes
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: yes
+just-drink: yes
+hours: "Mon: noon-3:30pm, 5:30pm-11pm; Tue: closed; Wed-Sat: noon-3:30pm, 5:30pm-11pm; Sun: noon-3:#0pm, 5:30pm-10pm"
+photo: 
+  - https://www.flickr.com/photos/kake_pugh/14195199307/
+  - https://www.flickr.com/photos/kake_pugh/14358540306/
+summary: Japanese restaurant specialising in novelty maki.  Sashimi, nigiri, and hot dishes also available, plus a small selection of Korean dishes such as kimchi soup, bibimbap, and bulgogi.  Alcohol served including sake.  Sushi bar seating plus regular chairs and tables.  Some vegetarian options.  Gluten-free options including gluten-free soy sauce.
+access: No steps, but access to the toilets requires two tight 90-degree turns.
+links:
+  - http://hungryhouse.co.uk/mino-japanese-restaurant
+  - http://www.just-eat.co.uk/restaurants-minojapaneserestaurant-e16/menu
+surveyed: June 2014
+---
+name: Cafe Marina
+address: Unit 4a, ExCeL Marina, E16 1AT
+area: ExCeL
+website: 
+twitter: 
+phone: 020 7476 4085
+lat: 51.507477
+long: 0.021045417
+station: Royal Victoria
+type: restaurant
+cuisine: 
 licensed: 
 byob: 
 bookings: 
-eat-in: yes
+eat-in: 
 takeaway: 
 delivery: 
 just-drink: 
-hours: "Mon: 6pm-10:30pm; Tue-Sun: noon-3pm, 6pm-11pm"
-photo: 
-summary: "Japanese restaurant specialising in novelty maki.  Sashimi, nigiri, and hot dishes also available."
+hours: 
+photo:
+  - https://www.flickr.com/photos/kake_pugh/14356452732/
+  - https://www.flickr.com/photos/kake_pugh/14171332379/
+  - https://www.flickr.com/photos/kake_pugh/14171330889/
+  - https://www.flickr.com/photos/kake_pugh/14171329609/
+summary: 
 access: 
 links: 
 surveyed: 
@@ -7782,7 +7907,7 @@ address: 6 Beckton Road, Canning Town, E16 1EW
 area: Canning Town
 website: http://www.squiresuk.com/
 twitter: SquiresAfrican
-phone: 020 7222 1234
+phone: 020 7476 5591
 lat: 51.517723
 long: 0.013599202
 station: Canning Town
@@ -7790,17 +7915,17 @@ type: restaurant
 cuisine: Nigerian
 licensed: yes
 byob: 
-bookings: 
+bookings: no
 eat-in: yes
-takeaway: 
-delivery: 
+takeaway: yes
+delivery: no
 just-drink: 
-hours: 
-photo: 
-summary: "Nigerian dishes including efo egusi (a stew based on spinach and ground melon seeds), pounded yam (a mashed-potato-like carbohydrate dish eaten with one's hand), yam porridge, pepper soup, and jollof rice."
-access: 
-links: 
-surveyed: 
+hours: "Mon-Thu: 11am-11:30pm; Fri-Sat: 11am-midnight; Sun: 11am-10pm"
+photo: https://www.flickr.com/photos/kake_pugh/14171355338/
+summary: "Small cafe offering Nigerian dishes including efo egusi (a stew based on spinach and ground melon seeds), pounded yam (a mashed-potato-like carbohydrate dish eaten with one's hand), yam pottage, pepper soup, and jollof rice."
+access: No steps to get in, but there's a step and narrow access to the toilet.
+links: http://kayakintemi.blogspot.co.uk/2010/02/african-cuisine-and-our-restaurants-in_17.html
+surveyed: June 2014
 ---
 name: Basilico
 address: 653 Commercial Road, Limehouse, E14 7LW
