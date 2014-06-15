@@ -2937,7 +2937,7 @@ name: Noodle Street
 address: 15-17 Pennyfields, Poplar, E14 8HP
 area: Limehouse
 website: http://www.noodlestreet.co.uk/
-twitter: 
+twitter: NoodleStreet1
 phone: 020 7987 8688
 lat: 51.509604
 long: -0.024262860
@@ -2945,20 +2945,20 @@ station: Westferry
 type: restaurant
 cuisine: Chinese
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: yes
 hours: "Mon-Sun: 11:30am-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12861630904/
   - http://www.flickr.com/photos/kake_pugh/12861233355/
-summary: Chinese food including dim sum, plus a few Japanese, Thai, and Vietnamese dishes.  Drinks include bubble tea.
-access: 
+summary: Modern-style cafe with booth seating, offering Chinese food including dim sum (made in-house, not bought frozen), plus a few Japanese, Thai, and Vietnamese dishes.  Drinks include bubble tea.  Gluten-free and vegetarian options; chef will amend dishes for vegans where possible.  Highchairs for children, and a pull-down baby change table in the accessible toilet.
+access: A small shallow ramp to get in, and step-free to the accessible toilet.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Bengal Classic
 address: 11 Pennyfields, Poplar, E14 8HP
@@ -2970,24 +2970,26 @@ lat: 51.509634
 long: -0.024571314
 station: Westferry
 type: restaurant
-cuisine: Indian
+cuisine:
+  - Bangladeshi
+  - Indian
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: no
 hours: "Mon-Thu: noon-2:30pm, 6pm-11:30pm; Fri-Sat: noon-2:30pm, 6pm-midnight; Sun: noon-2:30pm, 6pm-11:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12861273553/
   - http://www.flickr.com/photos/kake_pugh/12861147085/
   - http://www.flickr.com/photos/kake_pugh/12861566514/
   - http://www.flickr.com/photos/kake_pugh/12861562434/
-summary: Representative example of the standard British curryhouse.
-access: 
+summary: A representative example of the standard British curryhouse.  Plenty of vegetarian options, and vegan possible with advance notice.
+access: A small step to get in, then a tight 90-degree turn followed immediately by another door.  No steps to toilets, but access is a bit narrow.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: The Tale of India
 address: 53 West India Dock Road, Poplar, London E14 8HP
@@ -2999,26 +3001,30 @@ lat: 51.509739
 long: -0.025150672
 station: Westferry
 type: restaurant
-cuisine: Indian
+cuisine:
+  - Assamese
+  - Bangladeshi
+  - Indian
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: yes
+just-drink: no
 hours: "Mon-Wed: noon-2:30pm, 5:30pm-11:30pm; Thu-Sat: noon-2:30pm, 5:30pm-midnight; Sun: noon-2:30pm, 5:30pm-11:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12861555104/
   - http://www.flickr.com/photos/kake_pugh/12861258393/
   - http://www.flickr.com/photos/kake_pugh/12861588654/
   - http://www.flickr.com/photos/kake_pugh/12861166705/
-summary: Standard British curryhouse fare, plus a few regional Indian specialties.
-access: 
+summary: Standard British curryhouse fare, plus a few regional Indian specialties.  Plenty of vegetarian options, and vegan possible with advance notice.
+access: A step to get in, then two 90-degree turns.  Toilets accessed via a heavy door and a narrow corridor.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Westferry Arms
+exclude: Doesn't do food.
 address: 43 West India Dock Road, Poplar, E14 8EZ
 area: Limehouse
 website: http://westferryarms.com/
@@ -3058,21 +3064,21 @@ station: Westferry
 type: restaurant
 cuisine: Indian
 licensed: yes
-byob: 
+byob: yes
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: yes
+just-drink: no
 hours: "Mon-Sun: noon-2:30pm, 5:30pm-11:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12988521404/
   - http://www.flickr.com/photos/kake_pugh/12988240363/
   - http://www.flickr.com/photos/kake_pugh/12988504424/
-summary: 
-access: 
+summary: Indian restaurant just behind Westferry Station.  Plenty of vegetarian options.  Highchairs available for children.
+access: A ramp to get in, and step-free to toilets.  Limited seating on the ground floor; most of it is up a flight of stairs.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Bathak
 address: 322 Burdett Road, Limehouse, E14 7DL
@@ -3113,26 +3119,26 @@ long: -0.028183848
 station: Westferry
 type: restaurant
 cuisine: British
-licensed: 
+licensed: no
 byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+bookings: no
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon-Sat: 6:30am-4pm; Sun: 7am-2pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12988223083/
   - http://www.flickr.com/photos/kake_pugh/12988202203/
-summary: Traditional British “greasy spoon” cafe.
-access: 
+summary: Traditional British cafe offering cooked breakfasts, burgers, jacket potatoes, sandwiches, and hot meals such as liver and onion, shepherd's pie, and lamb chops.  Some vegetarian options, including cooked breakfasts with vegetarian sausages.
+access: A small step to get in.  Narrow access and a very tight turn to the toilets.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Royal Spice
 address: 815 Commercial Road, Limehouse, E14 7HG
 area: Limehouse
-website: http://www.royalspice.uk.com/
+website: http://www.royalspicee14.com/
 twitter: 
 phone: 020 7536 9902
 lat: 51.512088
@@ -3141,21 +3147,21 @@ station: Westferry
 type: restaurant
 cuisine: Indian
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: no
 hours: "Mon-Sun: noon-2:15pm, 5pm-midnight"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12988087555/
   - http://www.flickr.com/photos/kake_pugh/12988462924/
   - http://www.flickr.com/photos/kake_pugh/12988452754/
-summary: Standard British curryhouse fare with a few specialities including grilled items.
-access: 
+summary: 150-seater Indian restaurant spread over two floors.  Standard British curryhouse fare with a few extra specialities including charcoal-grilled meat.  Highchairs available for children.  Plenty of vegetarian options but vegans would struggle.
+access: A large step in.  Another step to the ground-floor toilet (which is marked as “men's” but women who can't manage multiple steps are also welcome to use it).
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Basiliano
 address: 795 Commercial Road, Limehouse, E14 7HG
@@ -3177,10 +3183,10 @@ delivery: yes
 just-drink: 
 hours: "Mon-Thu: 11am-1:30pm; Fri-Sun: 11am-2am"
 photo: http://www.flickr.com/photos/kake_pugh/12988046195/
-summary: Takeaway pizzas from a wood-fired oven. Pasta dishes too.
-access: 
+summary: Takeaway pasta dishes plus pizzas from a wood-fired oven.
+access: A step to get in.  Seating provided for those waiting for a takeaway.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Indiana
 address: 129 Salmon Lane, Limehouse, E14 7PG
@@ -3214,7 +3220,7 @@ address: 106 Salmon Lane, Limehouse, E14 7PQ
 area: Limehouse
 website: http://www.saporeitaliano.co.uk/
 twitter: sapore_italiano
-phone: 020 7531 7492
+phone: 020 7531 7492 / 07907 832479
 lat: 51.513974
 long: -0.033859804
 station:
@@ -3222,53 +3228,50 @@ station:
   - Westferry
 type: takeaway
 cuisine: Italian
-licensed: 
-byob: 
-bookings: 
-eat-in: 
+licensed: no
+byob: no
+bookings: no
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
-hours: "Possibly Mon-Fri: 11am-11pm; Sat: 1pm-11pm; Sun: noon-10:30pm"
+just-drink: no
+hours: "Mon-Wed: 11am-11pm; Thu-Fri: 11am (or sometimes 2pm)-11pm; Sat: 1pm-11pm; Sun: noon-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12988406924/
   - http://www.flickr.com/photos/kake_pugh/12988143653/
-summary: "NB: Phone number not working."
-access: 
+summary: "Takeaway pasta dishes and pizzas; small eat-in area too (three small tables).  Some vegetarian options."
+access: A step to get in.  No customer toilets.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Departure
 address: 649-651 Commercial Road, Limehouse, E14 7LW
 area: Limehouse
 website: http://www.departure.org.uk/
-twitter: 
+twitter: DepartureCafe
 phone: 020 7702 8802
 lat: 51.512814
 long: -0.038364574
 station: Limehouse
 type: restaurant
-cuisine:
-  - British
-  - Indian
-  - West Indian
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+cuisine: global
+licensed: no
+byob: no
+bookings: no (except catered room hire)
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon: closed; Tue: 11am-5pm; Wed-Fri: 11am-9pm; Sat: 10am-5pm; Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12988365314/
   - http://www.flickr.com/photos/kake_pugh/12988388354/
   - http://www.flickr.com/photos/kake_pugh/12988102743/
   - http://www.flickr.com/photos/kake_pugh/12988380804/
-summary: Community arts cafe with events and classes. Regularly changing hot specials including vegetarian options. All halal.
-access: 
+summary: Community arts cafe with a roof terrace.  A small menu with regularly changing hot specials such as black bean soup, vegetable curry with rice and naan, and jerk chicken — always including a vegetarian option.  Gluten-free snacks always available.  The chef is willing to amend meals for special diets wherever possible.  All food is halal.  Highchairs and a games corner provided for children; pull-down baby change in the accessible toilet.  Also puts on events and classes, and has a wide selection of second-hand books for sale.  NB CHECK AGAIN before going to print — they may be having a refurb.
+access: A shallow ramp to get in through the wide button-press automatic door.  Step-free on ground floor.  Wide aisle to accessible toilet.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: The Fish And Chicken Shop
 address: 139 Watney Street, Shadwell, E1 2QE
@@ -3281,21 +3284,21 @@ long: -0.056655899
 station: Shadwell
 type: restaurant
 cuisine: British
-licensed: 
-byob: 
-bookings: 
-eat-in: 
+licensed: no
+byob: no
+bookings: no
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: no (except large orders)
+just-drink: yes
 hours: "Possibly Mon-Sun: 11am-10pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12987957285/
   - http://www.flickr.com/photos/kake_pugh/13028569874/
-summary: "Small restaurant very close to Shadwell Station. All halal. NB: Phone number possibly wrong (no answer on four occasions)."
-access: A step to get in.
+summary: "Small restaurant very close to Shadwell Station.  All food is halal.  A few vegetarian options, including vegetarian burger, vegetarian pancake roll, and cheese and onion pie."
+access: Two steps to get in.  A tiny step and a heavy door to access the toilets.  Seating is at tables and benches fixed to the floor, but there's room for a wheelchair at the ends of many of the tables.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Dar Marrakech
 address: 403 Stratford High Street, E15 4QZ
@@ -4005,15 +4008,16 @@ long: -0.056484237
 station: Shadwell
 type: restaurant
 cuisine:
+  - Bangladeshi
   - British
   - Indian
-licensed: 
+licensed: no
 byob: 
 bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 8am-8pm; Sat-Sun: 9am-6pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13028578214/
@@ -4025,10 +4029,10 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/13028290563/
   - http://www.flickr.com/photos/kake_pugh/13028290563/
   - https://www.flickr.com/photos/kake_pugh/13328946544/
-summary: Small cafe on the short route between Shadwell's two stations (DLR and London Overground), handy for picking up a quick snack while interchanging. Halal. Toast-based breakfasts, sandwiches, British cafe lunches such as shepherd's pie, and South Asian dishes including chat pati, samosas, and kebab rolls. Soya milk available for coffees.
-access: 
+summary: Small cafe on the short route between Shadwell's two stations (DLR and London Overground), handy for picking up a quick snack while interchanging. All food is halal, and the menu is divided between British food and Bengali food.  British options include things on toast for breakfast, sandwiches, and traditional British cafe lunches such as pasta bake or shepherd's pie.  Bengali options include chatpata chana (sweet-and-sour chickpeas), samosas, kebab rolls, and a daily hot special such as fish curry with rice, or chicken biryani.  Soya milk available for coffees.
+access: A step to get in.  No steps to toilets, but access is narrow.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Frank's Cafe
 address: 641 Commercial Road, Limehouse, E14 7NT
@@ -4040,14 +4044,16 @@ lat: 51.512854
 long: -0.039441481
 station: Limehouse
 type: restaurant
-cuisine: British
-licensed: 
+cuisine:
+  - British
+  - Italian
+licensed: no
 byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+bookings: no (except for large groups outside peak times)
+eat-in: yes
+takeaway: yes
+delivery: no (except within walking distance)
+just-drink: yes
 hours: "Mon-Sat: 7am-4:30pm; Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13028102025/
@@ -4056,10 +4062,10 @@ photo:
   - https://www.flickr.com/photos/kake_pugh/14184920478/
   - https://www.flickr.com/photos/kake_pugh/14348438196/
   - https://www.flickr.com/photos/kake_pugh/14185075727/
-summary: Traditional British cafe just across the road from Limehouse Station.  Coffee and tea, cooked breakfasts, sandwiches and baguettes, omelettes, jacket potatoes, and hot meals including a roast of the day, shepherd's pie, and pork chops with chips and peas.  Vegetarian choices are sparse, but they do offer vegetarian cooked breakfasts with options including vegetarian sausages.
-access: 
-links: 
-surveyed: 
+summary: Traditional British/Italian cafe just across the road from Limehouse Station.  Coffee and tea, cooked breakfasts, sandwiches and baguettes, omelettes, jacket potatoes, and hot meals including a roast of the day, shepherd's pie, and pork chops with chips and peas.  Some Italian dishes too, such as lasagne or spaghetti.  Vegetarian choices are sparse, but they do offer vegetarian cooked breakfasts with options including vegetarian sausages.
+access: Two fairly large steps to get in, and toilets are down a narrow staircase with a bend in the middle and a handrail only part of the way down.
+links: http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aO83M8lhZRb0
+surveyed: June 2014
 ---
 name: Rajboy
 address: 564 Commercial Road, Limehouse, E14 7JD
@@ -4071,20 +4077,23 @@ lat: 51.512674
 long: -0.040624335
 station: Limehouse
 type: restaurant
-cuisine: Indian
+cuisine:
+  - Bangladeshi
+  - Indian
+  - Pakistani
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
 delivery: yes
-just-drink: 
+just-drink: no
 hours: "Mon-Sun: 11:30am-2:30pm, 5:30pm-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13028081735/
-summary: British curryhouse staples with a couple of more unusual dishes.
-access: 
+summary: British curryhouse staples plus a couple of more unusual dishes.  Plenty of vegetarian options, and vegan possible with advance notice.
+access: A large step to get in.  No steps to the toilets, but access involves a tight turn.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Shan Shui Jian
 address: 562 Commercial Road, Limehouse, E14 7JD
@@ -4097,19 +4106,19 @@ long: -0.040702119
 station: Limehouse
 type: restaurant
 cuisine: Chinese
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+licensed: yes
+byob: yes (corkage £5/bottle)
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: yes
+just-drink: yes
 hours: "Mon-Sun: 11am-11pm"
 photo: 
-summary: Previously New Thai Garden (http://www.flickr.com/photos/kake_pugh/13028072055/)
-access: 
+summary: Northern Chinese restaurant specialising in hotpot (steamboat) made with lamb neck broth.  This is the first British outpost of a small chain with a dozen branches in China, opened in early 2014 by the son of the owner of the original restaurants.  Non-hotpot dishes include tiger salad (cucumber and coriander with chilli oil), braised pig trotter, stewed pork belly with pickled vegetables, dry-fried fish, and water spinach with fermented bean curd.  Several vegetarian options, clearly marked on the menu.
+access: A large step to get in.  Toilets are up a narrow flight of stairs with a handrail most of the way.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Limehouse Fried Chicken And Spice
 address: 540 Commercial Road, Shadwell, E1 0HY
@@ -4122,21 +4131,22 @@ long: -0.041911796
 station: Limehouse
 type: restaurant
 cuisine: Indian
-licensed: 
+licensed: no
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: yes
 delivery: yes
 just-drink: 
 hours: "Mon-Sun: 11am-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/13028062855/
-summary: Cafe/takeaway with a small eat-in space. Curries, kebabs, and fried chicken. The menu goes beyond the usual British curryhouse favourites.
-access: 
+summary: Small Indian cafe and takeaway offering curries, kebabs, and fried chicken. The menu goes beyond the usual British curryhouse favourites.  Vegetarian options available.
+access: A step to get in.  No steps to toilets, but access is narrow.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Hung Tou
+exclude: Doesn't look very interesting, and there's now a proper Chinese restaurant a few doors down.
 address: 538 Commercial Road, Shadwell, E1 0HY
 area: Limehouse
 website: 
@@ -4172,19 +4182,19 @@ long: -0.042091504
 station: Limehouse
 type: restaurant
 cuisine: British
-licensed: 
+licensed: no
 byob: 
 bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sat; closed Sun"
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: 6am-4pm; Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/13030945843/
-summary: 
-access: 
+summary: Traditional British cafe offering cooked breakfasts, roast lunches, and other dishes including jacket potatoes and sandwiches.
+access: Three steps to get in, and another step to the counter.  Toilets accessed from behind counter, with a very narrow space to get through.  Chairs and tables are fixed to the floor.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Sainsbury's Local
 address: 516-520 Commercial Road, Shadwell, E1 0HY
@@ -4206,10 +4216,10 @@ delivery:
 just-drink: 
 hours: "Mon-Sun: 7am-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/13031169504/
-summary: Branch of one of the UK's big supermarket chains.
-access: 
+summary: Convenience store run by one of the UK's big supermarket chains.
+access: Step-free, but some aisles are a little narrow.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Sylvia's Corner
 address: 583 Commercial Road, Shadwell, E1 0HJ
@@ -4223,20 +4233,20 @@ station: Limehouse
 type: restaurant
 cuisine:
   - British
-  - Italian
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+  - Mediterranean
+licensed: yes
+byob: no
+bookings: yes (Monday-Friday only)
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 8am-7pm; Sat: 9am-6pm; Sun: 9:30am-4pm"
 photo: http://www.flickr.com/photos/kake_pugh/13030775905/
-summary: Breakfasts, sandwiches, burgers, salads, and hot pasta dishes.
-access: 
+summary: Small cafe offering British and Mediterranean food including breakfasts, sandwiches, burgers, salads, hot pasta dishes, and cakes made in-house.  Own-blend coffee, roasted to their specifications and freshly ground in-house.  Plenty of vegetarian options and a fair number of vegan.  One highchair, but no baby change facilities.
+access: A step to get in, and toilets are down a flight of stairs.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: The Maroons
 address: 514 Commercial Road, Shadwell, London E1 0HY
@@ -4250,23 +4260,24 @@ station: Limehouse
 type: restaurant
 cuisine: Caribbean
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: yes
+just-drink: no
 hours: "Mon-Sat: 11:30am-11pm; Sun: noon-8pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13030764795/
   - https://www.flickr.com/photos/kake_pugh/14184882449/
   - https://www.flickr.com/photos/kake_pugh/14391697533/
-summary: Caribbean restaurant with live entertainment on Thursday evenings.  Limited vegetarian options.  Specialises in jerk chicken, but other dishes include ackee and saltfish, oxtail and butter beans, and various soups.
-access: 
+summary: Caribbean restaurant with live entertainment on Thursday evenings.  Limited vegetarian options, mainly soups and vegetarian curry.  Specialises in jerk chicken, but other dishes include ackee and saltfish, oxtail and butter beans, and various soups.  One highchair, but no baby change facilities.
+access: A small step to get in.  No steps to toilets, but access is fairly narrow.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Perfect Fried Chicken / Taj Mahal Tandoori
+exclude: Only really does fried chicken now.
 address: 512 Commercial Road, Shadwell, E1 0HY
 area: Limehouse
 website: 
@@ -4292,6 +4303,7 @@ links:
 surveyed: 
 ---
 name: Sid Cafe
+exclude: Owner doesn't want to be listed.
 address: 510 Commercial Road, Shadwell, E1 0HY
 area: Limehouse
 website: 
@@ -4326,22 +4338,23 @@ lat: 51.513066
 long: -0.043454066
 station: Limehouse
 type: takeaway
-cuisine: 
+cuisine: fish and chips
 licensed: 
 byob: 
 bookings: 
-eat-in: 
+eat-in: no
 takeaway: yes
-delivery: 
+delivery: no
 just-drink: 
-hours: "Mon-Sun: 10am-1 or 2 (closing time changes, call again)"
+hours: "Mon-Thu: 11:30am-midnight; Fri-Sat: 11:30am-1am; Sun: 1pm-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13030732535/
-summary: 
-access: 
+summary: Traditional British fish and chip shop.  Some vegetarian options, including falafel wrap, pitta with hummous, and vegetarian burgers.
+access: No steps to get in.  No seating.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Chung's
+exclude: Doesn't look very interesting, and there's now a proper Chinese restaurant a short walk away.
 address: 504 Commercial Road, Shadwell, E1 0HY
 area: Limehouse
 website: 
@@ -4370,6 +4383,7 @@ links:
 surveyed: 
 ---
 name: Bismillah Cash And Carry
+exclude: Mostly frozen/catering/household goods.
 address: 3-5 Westport Street, Shadwell, E1 0RA
 area: Limehouse
 website: 
@@ -4476,6 +4490,7 @@ links:
 surveyed: 
 ---
 name: Spice King
+exclude: Nothing special, not an unusually useful location.
 address: 363 Commercial Road, Shadwell, E1 2PS
 area: Whitechapel
 website: 
@@ -7945,12 +7960,15 @@ eat-in: no
 takeaway: yes
 delivery: yes
 just-drink: no
-hours: "Mon-Sun: 11am-late"
+hours: "Mon-Thu: 11am-11pm; Fri-Sat: 11am-midnight; Sun: 11am-11pm"
 photo: 
-summary: "Wood-fired pizza takeaway and delivery from a small chain with several London branches."
-access: 
+  - https://www.flickr.com/photos/kake_pugh/14085624262/
+  - https://www.flickr.com/photos/kake_pugh/14108810383/
+  - https://www.flickr.com/photos/kake_pugh/13902129010/
+summary: "Wood-fired pizza takeaway and delivery from a small chain with several London branches.  Also salads, smoothies, freshly-squeezed juices, antipasti, ice cream, and wine.  A few vegetarian options.  Gluten-free pizza bases available in 12-inch size only."
+access: A small step to get in.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Basilico
 address: 103 Tower Bridge Road, Bermondsey, SE1 4TW
