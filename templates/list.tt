@@ -136,7 +136,7 @@ surveyed</a>.</p>
       [% IF venue.stations %]
         <span class="stations">Public transport: [% venue.stations %].</span>
       [% END %]
-      [% IF venue.hours %][% venue.hours %][% END %]
+      [% IF venue.hours %][% venue.hours %][% UNLESS venue.hours.match('\.$') %].[% END %][% END %]
     </li>
   [% END %]
   </ul>
