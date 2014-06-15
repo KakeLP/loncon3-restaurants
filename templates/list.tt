@@ -44,6 +44,16 @@ won't be already in use by other diners — so if you're making an
 advance booking, it's best to let the restaurant know how many
 highchairs you'll require.</p>
 
+<h3>Key to symbols</h3>
+
+<ul>
+<li>&#127860; — eat-in facilities</li>
+<li>&#128092; — takeaway available</li>
+<li>&#128665; — delivery available</li>
+<li>&#128214; — bookings taken</li>
+<li>&#127863; — licensed to serve alcohol</li>
+</ul>
+
 <h2>The List</h2>
 
 <p>Note: inclusion on this list does not imply inclusion in the final guide.  This is just a shortlist.  <span class="surveyed">Highlighted entries</span>
@@ -89,6 +99,11 @@ have been fully surveyed.</p>
       [% IF venue.access %]
         <span class="access">[% venue.access %]</span>
       [% END %]
+      [% IF venue.item("eat-in") == "yes" %]&#127860;[% END %]
+      [% IF venue.takeaway == "yes" %]&#128092;[% END %]
+      [% IF venue.delivery == "yes" %]&#128665;[% END %]
+      [% IF venue.bookings == "yes" %]&#128214;[% END %]
+      [% IF venue.licensed == "yes" %]&#127863;[% END %]
       [% IF venue.stations %]
         <span class="stations">Public transport: [% venue.stations %].</span>
       [% END %]
