@@ -19,8 +19,8 @@ h3.area_name {
   margin-left: -2.5em;
 }
 
-.surveyed {
-  background-color: #cbdba8;
+.not_surveyed_highlight {
+  background-color: #eeaeae;
 }
 
 .venues_by_area li .name {
