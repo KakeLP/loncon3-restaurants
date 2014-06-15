@@ -5260,7 +5260,7 @@ surveyed:
 ---
 name: The Yellow House
 address: 126 Lower Road, Rotherhithe, SE16 2UE
-area: Surrey Quays
+area: East London Line
 website: http://www.theyellowhouse.eu/
 twitter: TheYellowHouse_
 phone: 020 7231 8777
@@ -5289,7 +5289,7 @@ surveyed:
 ---
 name: Royal Palace
 address: 1b Rotherhithe Old Road, SE16 2PP
-area: Surrey Quays
+area: East London Line
 website: 
 twitter: 
 phone: 020 7232 1323
@@ -5314,7 +5314,7 @@ surveyed: May 2014
 ---
 name: Ma Po
 address: 176-178 Lower Road, Rotherhithe, SE16 2UN
-area: Surrey Quays
+area: East London Line
 website: http://www.mapolondon.com/
 twitter: 
 phone: 020 7231 0623
@@ -5378,6 +5378,156 @@ links:
   - https://www.facebook.com/OiWhyNot
   - https://foursquare.com/v/oi-why-not-tea-house/51521395e4b0e80395cf1e87
   - http://www.tripadvisor.co.uk/ShowUserReviews-g186338-d5433023-r187055302-Oi_Why_Not-London_England.html
+surveyed: 
+---
+name: Town of Ramsgate
+address: 62 Wapping High Street, Wapping, E1W 2PN
+area: East London Line
+website: http://www.townoframsgate.co.uk/
+twitter: 
+phone: 020 7481 8000
+lat: 51.503494
+long: -0.062096760
+station: Wapping
+type: pub
+cuisine: British
+licensed: yes
+byob: 
+bookings: 
+eat-in: yes
+takeaway: 
+delivery: 
+just-drink: yes
+hours: 
+photo: http://www.flickr.com/photos/55935853@N00/4716893154/
+summary: Riverside pub in a Grade II listed building dating back to the 18th century.  Beer garden overlooking the Thames.  Real ales and traditional British pub food.
+access: 
+links: http://en.wikipedia.org/wiki/Town_of_Ramsgate
+surveyed: 
+---
+name: Simplicity
+address: 1 Tunnel Road, Rotherhithe, SE16 4JJ
+area: East London Line
+website: http://www.simplicityrestaurants.com/
+twitter: 
+phone: 020 7232 5174
+lat: 51.501310
+long: -0.053165942
+station: Rotherhithe
+type: restaurant
+cuisine: British
+licensed: yes
+byob: 
+bookings: 
+eat-in: yes
+takeaway: 
+delivery: 
+just-drink: 
+hours: "Mon-Fri: 6:30pm-10:30pm; Sat-Sun: 10am-3pm, 6:30pm-10:30pm"
+photo: 
+summary: Small British cafe and restaurant focusing on local produce.  Brunch served on weekends.
+access: 
+links: http://london.randomness.org.uk/wiki.cgi?Simplicity,_SE16_4JJ
+surveyed: 
+---
+name: Mayflower
+address: 117 Rotherhithe Street, Rotherhithe, SE16 4NF
+area: East London Line
+website: 
+twitter: 
+phone: 020 7237 4088
+lat: 51.501724
+long: -0.053556606
+station: Rotherhithe
+type: pub
+cuisine: British
+licensed: yes
+byob: 
+bookings: 
+eat-in: yes
+takeaway: 
+delivery: 
+just-drink: yes
+hours: 
+photo: 
+summary: Riverside pub with a beer garden on an enclosed wooden jetty over the Thames.  Real ales from Greene King, and British pub food.  Separate upstairs restaurant.
+access: 
+links: http://london.randomness.org.uk/wiki.cgi?Mayflower,_SE16_4NF
+surveyed: 
+---
+name: Beagle
+address: 397-400 Geffrye Street, Hoxton, E2 8HZ
+area: East London Line
+website: http://www.beaglelondon.co.uk/
+twitter: BeagleLondon
+phone: 020 7613 2967
+lat: 51.530389
+long: 0.073993
+station: Hoxton
+type: restaurant
+cuisine: British
+licensed: yes
+byob: 
+bookings: yes
+eat-in: yes
+takeaway: 
+delivery: 
+just-drink: 
+hours: "Mon-Fri: 7am-midnight; Sat: 8am-midnight; Sun: 5pm-10:30pm.  Food served Mon-Tue: 6pm-10:30pm; Wed-Fri: noon-3pm, 6pm-10:30pm; Sat: 11am-3pm; 6pm-10:30pm; Sun: 11am-5pm."
+photo: 
+summary: Bar, restaurant, and coffee shop in a pair of railway arches next to Hoxton Station, serving craft beers, cocktails, and seasonal British food.  Brunch served on weekends.  Some outside seating, on a pedestrianised road.
+access: Step-free throughout.  Quite noisy inside when even only partly full.  The outside tables are quite close together.
+links: http://london.randomness.org.uk/wiki.cgi?Beagle,_E2_8HZ
+surveyed: 
+---
+name: Sông Quê Café
+address: 134 Kingsland Road, Hoxton, E2 8DY
+area: East London Line
+website: 
+twitter: 
+phone: 020 7613 3222
+lat: 51.530780
+long: -0.076965183
+station: Hoxton
+type: restaurant
+cuisine: Vietnamese
+licensed: 
+byob: 
+bookings: 
+eat-in: yes
+takeaway: 
+delivery: 
+just-drink: 
+hours: "Mon-Fri: noon-3pm, 5:30pm-11pm; Sat: noon-11pm; Sun: noon-10:30pm"
+photo: 
+summary: Canteen-style Vietnamese restaurant specialising in phở (rice noodle soup with a beef broth base).
+access: 
+links: http://london.randomness.org.uk/wiki.cgi?Song_Que,_E2_8DY
+surveyed: 
+---
+name: Miền Tây
+address: 122 Kingsland Road, Hoxton, E2 8DP
+area: East London Line
+website: http://mientay.co.uk/shoreditch/
+twitter: 
+phone: 020 7729 3074
+lat: 51.530423
+long: -0.077034920
+station: Hoxton
+type: restaurant
+cuisine: Vietnamese
+licensed: 
+byob: 
+bookings: 
+eat-in: 
+takeaway: 
+delivery: 
+just-drink: 
+hours: "Mon-Sat: noon-3pm, 5pm-11pm; Sun: noon-10pm"
+photo: 
+summary: Small Vietnamese restaurant specialising in dishes from the Mekong Delta region of Southern Vietnam.  Meat dishes include more unusual meats such as frog, eel, quail, and goat.  Seafood hotpot (lẩu) available with advance notice.  A good selection of vegetarian options, all clearly marked on the menu.
+access: 
+links: http://london.randomness.org.uk/wiki.cgi?Mien_Tay,_E2_8DP
 surveyed: 
 ---
 name: The Yacht
