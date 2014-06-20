@@ -531,7 +531,7 @@ cuisine: Lithuanian
 licensed: 
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
@@ -548,7 +548,7 @@ photo:
 summary: Lithuanian supermarket, restaurant, and bookshop.
 access: Supermarket on ground floor. Restaurant up a flight of stairs with a sturdy handrail; no lift.
 links: 
-surveyed: 
+surveyed: info from first survey
 ---
 name: Asian Mega Mart
 exclude: Seems to have closed down.
@@ -3215,6 +3215,7 @@ links:
 surveyed: June 2014
 ---
 name: Indiana
+exclude: Running short of time for a visit, haven’t confirmed it’s open or interesting.
 address: 129 Salmon Lane, Limehouse, E14 7PG
 area: Limehouse
 website: http://indiana.uk.com/
@@ -4462,6 +4463,7 @@ links:
 surveyed: 
 ---
 name: Michael’s Chinese Restaurant
+exclude: Running short of time for a visit, haven’t confirmed it’s open or interesting.
 address: 378 Commercial Road, Shadwell, E1 0LB
 area: Limehouse
 website: 
@@ -4542,6 +4544,7 @@ links:
 surveyed: 
 ---
 name: Angora
+exclude: Running short of time for a visit, haven’t confirmed it’s open or interesting.
 address: 337 Commercial Road, Shadwell, E1 2PS
 area: Whitechapel
 website: 
@@ -5199,6 +5202,7 @@ links:
 surveyed: 
 ---
 name: Poppies Diner
+exclude: Staff unwilling to answer questions, no time to return and try again.
 address: 8 Cable Street, Whitechapel, E1 8JG
 area: Whitechapel
 website: 
@@ -5245,7 +5249,7 @@ cuisine: Filipino
 licensed: yes
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: yes
 delivery: 
 just-drink: 
@@ -5254,10 +5258,10 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/13063894635/
   - http://www.flickr.com/photos/kake_pugh/13064190104/
   - http://www.flickr.com/photos/kake_pugh/13063970723/
-summary: Filipino dishes plus pan-Asian extras. Halal. Vegetarian options are sparse.
-access: 
+summary: Small cafe-style restaurant offering Filipino dishes such as adobo (a savoury and slightly sour pork stew) plus pan-Asian extras.  Try the halo-halo for a cooling dessert on a hot day.  Vegetarian options are sparse, but include pancit guisado (wok-fried rice vermicelli with vegetables).  All food is halal.
+access: Step-free to get in. Tiny step to toilets. Ladies’ cubicle door opens outwards, men’s opens inwards and is a bit of a squeeze.
 links: http://london.randomness.org.uk/wiki.cgi?Cirilo,_E1_8JG
-surveyed: 
+surveyed: info from personal visits
 ---
 name: The Yellow House
 address: 126 Lower Road, Rotherhithe, SE16 2UE
@@ -5479,7 +5483,7 @@ photo:
 summary: Bar, restaurant, and coffee shop in a pair of railway arches next to Hoxton Station, serving craft beers, cocktails, and seasonal British food.  Brunch served on weekends.  Some outside seating, on a pedestrianised road.
 access: Step-free throughout.  Quite noisy inside when even only partly full.  The outside tables are quite close together.
 links: http://london.randomness.org.uk/wiki.cgi?Beagle,_E2_8HZ
-surveyed: 
+surveyed: info from personal visits
 ---
 name: Sông Quê Café
 address: 134 Kingsland Road, Hoxton, E2 8DY
@@ -6431,7 +6435,7 @@ access: No steps to get in, but most of the seating is down two steps, and the t
 links:
   - http://london.randomness.org.uk/wiki.cgi?Sichuan_Kitchen,_E14_0ED
   - http://chowhound.chow.com/topics/865723
-surveyed: 
+surveyed: info from personal visits
 ---
 name: Super Three
 address: 207 East India Dock Road, Poplar, E14 0ED
@@ -7678,10 +7682,10 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12661582083/
   - http://www.flickr.com/photos/kake_pugh/11222513865/
   - http://www.flickr.com/photos/kake_pugh/11222515874/
-summary: Small Ghanaian bar and restaurant just across the road from Barking Station.  Dishes include pepper soup, kelewele (spiced fried plantain), fufu (a mashed-potato-like carbohydrate dish eaten with one’s hand), and joloff rice.  Drinks include Guinness (Irish, Ghanaian, and Nigerian variants) and milk stout.  Very limited wine list.  Closed Mondays.  Late-night opening on weekends.
-access: One step (or a somewhat awkward sideways ramp) to get in, door a little heavy.  A reasonable amount of space between tables, and a wide aisle in the middle.  Step-free to toilet once you’re in.
+summary: Small Ghanaian bar and restaurant just across the road from Barking Station.  Dishes include pepper soup, kelewele (spiced fried plantain), fufu (a mashed-potato-like carbohydrate dish eaten with one’s hand), and joloff rice.  Drinks include Guinness (Irish, Ghanaian, and Nigerian variants) and milk stout.  Very limited wine list.  Closed Mondays.
+access: One step (or a somewhat awkward sideways ramp) to get in, door a little heavy.  A reasonable amount of space between tables, and a wide aisle in the middle.  Step-free once you’re in.
 links: http://london.randomness.org.uk/wiki.cgi?Bongo_East,_IG11_8RW
-surveyed: 
+surveyed: info from personal visits
 ---
 name: Cristina’s
 address: 8-10 North Street, Barking, IG11 8AW
@@ -7715,10 +7719,10 @@ photo:
   - https://www.flickr.com/photos/kake_pugh/13932930234/
   - https://www.flickr.com/photos/kake_pugh/13932535393/
   - https://www.flickr.com/photos/kake_pugh/13932490205/
-summary: "Small, independent steak restaurant looking out onto the Barking Abbey open space.  Separate menu of Romanian specialties (not offered by default - you have to ask).  Children welcome, though there are no babychange facilities.  Highchair available (of a size more suitable for toddlers than for smaller babies).  Closed Mondays."
+summary: "Small, independent steak restaurant looking out onto the Barking Abbey open space.  Separate menu of Romanian specialties (not offered by default - you have to ask).  Children welcome, though there are no babychange facilities.  Highchair available (of a size more suitable for toddlers than for smaller babies)."
 access: No steps in (just a small ridge).  Completely step-free once you’re in.
 links: http://london.randomness.org.uk/wiki.cgi?Cristina%27s,_IG11_8AW
-surveyed: 
+surveyed: info from personal visits
 ---
 name: Red Lion
 address: 640 Leytonstone High Road, Leytonstone, E11 3AA
