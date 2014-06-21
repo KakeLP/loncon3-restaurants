@@ -338,42 +338,45 @@ delivery:
 just-drink: 
 hours: "Mon-Sun: 10am-9pm"
 photo: http://www.flickr.com/photos/kake_pugh/12267140824/
-summary: Small but well-stocked Chinese supermarket.
+summary: Small but well-stocked Chinese supermarket.  Storecupboard groceries include cup noodles, pickled vegetables, chilli sauces, and Chinese sweets and snacks.  Frozen options include fish, seafood, steamed buns, and dim sum items.  A small fridge at the front hold fresh seafood such as prawns, squid, and razor clams, as well as fresh greens and fresh and fried tofu.
 access: Only a very small step to get in, manageable on wheels, but there isn’t much space to manoeuvre inside and it would be very tricky to get a wheelchair or pram in.
-links: 
-surveyed: 
+links: http://london.randomness.org.uk/wiki.cgi?Hua_Run,_E15_1EN
+surveyed: June 2014
 ---
 name: Londek
-address: 198 The Grove, Stratford, E15 1NS
+address: 196-198 The Grove, Stratford, E15 1NS
 area: Stratford
 website: http://londekrestaurant.co.uk/
 twitter: 
-phone: 020 8270 0063
+phone: 020 8270 0063 (restaurant) / 020 7998 9815
 lat: 51.545343
 long: 0.0043992251
 station:
   - Stratford
   - Maryland
-type: restaurant
+type:
+  - grocery shop
+  - restaurant
 cuisine: Polish
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sun: 10am-10pm"
+licensed: no
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Restaurant: Mon-Sun: 10am-10pm / Shop: Mon-Sat: 8am-10pm; Sun: 10am-10pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12266693015/
   - http://www.flickr.com/photos/kake_pugh/12267835576/
   - http://www.flickr.com/photos/kake_pugh/12267701804/
-summary: 
-access: 
+summary: "Polish cafe/restaurant and grocery shop.  The restaurant is small (seating 32) but not cramped.  At least one highchair is available for children.  The shop is also quite small, but well-stocked with breads, cheeses, cooked meats, pickled vegetables, and sweet and savoury snacks — try the spreadable “sandwich lard”, sold by weight from a wooden tub in the chill counter.  The shop also stocks several types of vodka, including varieties flavoured with honey, cherry, raspberry, and so on, from brands including Old Krupnik, Soplika, and Nalewka Babuni."
+access: "Restaurant: A small step to get in.  No further steps to toilet, but access is narrow with tight turns.  Shop: A step to get in."
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Zirnis
+exclude: Quite small, stock basically covered by Londek shop.
 address: 168 The Grove, Stratford, E15 1NS
 area: Stratford
 website: 
@@ -700,7 +703,7 @@ links:
 surveyed: 
 ---
 name: Golden Sands
-exclude: Running out of time, can't confirm open/interesting.
+exclude: Running out of time, can’t confirm open/interesting.
 address: 1 Freemasons Road, Custom House, E16 3AR
 area: ExCeL
 website: 
@@ -3267,6 +3270,8 @@ hours: "Mon-Wed: 11am-11pm; Thu-Fri: 11am (or sometimes 2pm)-11pm; Sat: 1pm-11pm
 photo:
   - http://www.flickr.com/photos/kake_pugh/12988406924/
   - http://www.flickr.com/photos/kake_pugh/12988143653/
+  - https://www.flickr.com/photos/kake_pugh/14471670025/
+  - https://www.flickr.com/photos/kake_pugh/14491812693/
 summary: "Takeaway pasta dishes and pizzas; small eat-in area too (three small tables).  Some vegetarian options."
 access: A step to get in.  No customer toilets.
 links: 
@@ -3726,6 +3731,7 @@ links: http://www.just-eat.co.uk/restaurants-tiffingrill-e15/menu
 surveyed: April 2014
 ---
 name: VIP Cafe
+exclude: Staff unwilling to answer questions.
 address: 75 Vicarage Lane, Stratford, E15 4HG
 area: Stratford
 website: 
@@ -3755,27 +3761,28 @@ address: 85 Vicarage Lane, Stratford, E15 4HG
 area: Stratford
 website: 
 twitter: 
-phone: 
+phone: 07983 102301
 lat: 51.539878
 long: 0.010989413
 station: Stratford
 type: restaurant
-cuisine: 
-licensed: 
-byob: 
+cuisine: Albanian
+licensed: no
+byob: no
 bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: 
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Sun: 7am-10pm"
 photo: http://www.flickr.com/photos/kake_pugh/13005365473/
-summary: 
-access: 
+summary: "Small cafe (seats 20) with a short menu of Albanian food such as goulash.  Call ahead to make sure they’re doing food on the day of your visit."
+access: A step to get in.  No further steps to toilets.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Patisserie And Venoiserie
+exclude: Hardly any seating, doesn’t look all that interesting.
 address: 24 Vicarage Lane, Stratford, E15 4ES
 area: Stratford
 website: 
@@ -3811,19 +3818,19 @@ long: 0.010101601
 station: Stratford
 type: restaurant
 cuisine: Caribbean
-licensed: 
-byob: 
-bookings: 
-eat-in: 
+licensed: yes
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
-delivery: yes
-just-drink: 
+delivery: yes (after 5pm)
+just-drink: yes
 hours: "Mon-Fri: 10am-10pm; Sat-Sun: 10am-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/13005207045/
-summary: 
-access: 
-links: 
-surveyed: 
+summary: "Small Caribbean restaurant serving dishes such as jerk chicken, curry mutton, stew chicken, oxtail, fried fish, and rice &amp; peas.  Vegetarian options are sparse, but include vegetable curry, steamed vegetables, and macaroni cheese.  A couple of highchairs for children, but no baby change facilities (aside from the floor of the accessible toilet)."
+access: A tiny step to get in.  Accessible toilet reached through two somewhat heavy doors.
+links: http://www.yelp.co.uk/biz/calabash-london
+surveyed: June 2014
 ---
 name: Cafe Now
 address: 35 Leytonstone Road, Stratford, E15 1JA
@@ -4167,7 +4174,10 @@ takeaway: yes
 delivery: yes
 just-drink: 
 hours: "Mon-Sun: 11am-11pm"
-photo: http://www.flickr.com/photos/kake_pugh/13028062855/
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13028062855/
+  - https://www.flickr.com/photos/kake_pugh/14471674375/
+  - https://www.flickr.com/photos/kake_pugh/14491818153/
 summary: Small Indian cafe and takeaway offering curries, kebabs, and fried chicken. The menu goes beyond the usual British curryhouse favourites, with dishes such as chickpeas with soy sauce, yogurt, and dried mango powder; spiced catfish in mustard oil; and quail bhuna.  Vegetarian options available.
 access: A step to get in.  No steps to toilets, but access is narrow.
 links: 
@@ -5467,8 +5477,8 @@ area: East London Line
 website: http://www.beaglelondon.co.uk/
 twitter: BeagleLondon
 phone: 020 7613 2967
-lat: 51.530389
-long: 0.073993
+lat: 51.531090
+long: -0.075766236
 station: Hoxton
 type: restaurant
 cuisine: British
@@ -7846,43 +7856,50 @@ station: Plaistow
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
+byob: no
+bookings: no
 eat-in: yes
-takeaway: 
-delivery: 
+takeaway: yes
+delivery: no
 just-drink: yes
 hours: "Mon-Sat: 11am-11pm; Sun: noon-10:30pm.  Food served Mon-Fri: noon-2:30pm, 5pm-7:30pm."
 photo: 
-summary: "Traditional British pub in Plaistow, with several real ales on handpump.  Pub food served on weekdays (lunchtimes and early evening) including dishes such as ham, egg, and chips; jacket potatoes; steak and ale pie; and sandwiches."
-access: "The pub is on a number of different levels with steps between.  There is one small seating area that has level access from the street and to the toilets, but there are three steps from here to access the bar."
+  - http://www.flickr.com/photos/kake_pugh/2746359001/
+  - https://www.flickr.com/photos/kake_pugh/14470374582/
+  - https://www.flickr.com/photos/kake_pugh/14284866049/
+summary: "Traditional British pub in Plaistow, with several real ales on handpump.  Pub food served on weekdays (lunchtimes and early evening) including dishes such as ham, egg, and chips; jacket potatoes; steak and ale pie; and sandwiches.  Sometimes there’s a seafood stall in the car park too.  Vegetarian options are limited, but include jacket potatoes and omelettes.  Children are welcome, but there are no highchairs and no baby change facilities."
+access: "The pub is on a number of different levels with steps between.  There is one small seating area that has level access from the street and to the toilets, but there are three steps from here to access the bar.  The pub has its own car park to the side."
 links: http://london.randomness.org.uk/wiki.cgi?Black_Lion,_E13_0AD
-surveyed: 
+surveyed: June 2014
 ---
 name: Thattukada
-address:  229 High Street North, East Ham, E6 1JG
+address: 229 High Street North, East Ham, E6 1JG
 area: East Ham
 website: 
 twitter: 
-phone: 
-lat: 51.539370
-long: 0.052437
+phone: 020 8548 8239
+lat: 51.539881
+long: 0.050822899
 station: East Ham
 type: restaurant
 cuisine: Indian
-licensed: 
-byob: 
-bookings: 
+licensed: no
+byob: no
+bookings: yes
 eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
-hours: 
-photo: https://www.flickr.com/photos/kake_pugh/9970824664/
-summary: "Keralan restaurant near East Ham Station."
-access: 
+delivery: yes
+just-drink: yes
+hours: "Mon-Sun: noon-11pm"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/9970824664/
+  - https://www.flickr.com/photos/kake_pugh/14285066859/
+  - https://www.flickr.com/photos/kake_pugh/14470512274/
+  - https://www.flickr.com/photos/kake_pugh/14285099848/
+summary: "Halal, alcohol-free Keralan restaurant.  Dishes include cashew nut pakora (spicy fritters), netholi fry (deep-fried marinated anchovies), and mutton kothu roti (finely-chopped flatbread stirfried with egg and mutton).  Decor is casual but clean and neat, with jugs of tap water and boxes of tissues already out on the tables.  One highchair (with tray), suitable for toddlers but not smaller babies."
+access: "A step to get in.  One more step to the toilets and half of the seating."
 links: http://london.randomness.org.uk/wiki.cgi?Thattukada,_E6_1JG
-surveyed: 
+surveyed: June 2014
 ---
 name: Saravanaa Bhavan
 address: 300 High Street North, East Ham, E12 6SA
@@ -7890,28 +7907,28 @@ area: East Ham
 website: http://www.saravanabhavan.co.uk/
 twitter: 
 phone: 020 8552 4677
-lat: 51.541919
-long: 0.052177
+lat: 51.542408
+long: 0.050350830
 station: East Ham
 type: restaurant
 cuisine: Indian
-licensed: 
-byob: 
-bookings: 
+licensed: no
+byob: no
+bookings: yes
 eat-in: yes
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Thu: 9am-11pm; Fri-Sun: 9am-11pm"
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Sun: 9am-11pm"
 photo:
-  - http://www.flickr.com/photos/kake_pugh/9705559873/
+  - https://www.flickr.com/photos/kake_pugh/14448401756/
   - https://www.flickr.com/photos/55935853@N00/3766490911/
   - https://www.flickr.com/photos/55935853@N00/3767297038/
   - https://www.flickr.com/photos/55935853@N00/3767299854/
-summary: "Completely vegetarian South Indian restaurant, part of a chain originating in Chennai and now with branches worldwide.  Dishes include gobi 65 (deep-fried spiced cauliflower), curd vada (lentil-flour doughnut soaked in a yoghurt sauce), dosas (thin, crisp pancakes with a potato-based stuffing and spiced sauces on the side), and Indian-Chinese fusion such as paneer fried rice and vegetable Manchurian."
-access: Small step to get in — it’s not very high, but the pavement here is somewhat uneven, making it trickier to negotiate.  Step-free once you’re in, and there’s a proper accessible toilet.
+summary: "Completely vegetarian (and alcohol-free) South Indian restaurant, part of a chain originating in Chennai and now with branches worldwide.  Dishes include gobi 65 (deep-fried spiced cauliflower), curd vada (lentil-flour doughnut soaked in a yoghurt sauce), dosas (thin, crisp pancakes with a potato-based stuffing and spiced sauces on the side), and Indian-Chinese fusion such as paneer fried rice and vegetable Manchurian.  Vegan options are available on request.  They have at least four highchairs, there’s an area to park prams and pushchairs at the front, and there’s a pull-down baby change table in the accessible toilet."
+access: A ramp to get in.  Step-free to seating and accessible toilet, though the route to the latter is a little tight in places.
 links: http://london.randomness.org.uk/wiki.cgi?Saravanaa_Bhavan,_E12_6SA
-surveyed: 
+surveyed: June 2014
 ---
 name: Hyderabadi Spice
 address: 309 High Street North, East Ham, E12 6SL
@@ -7924,21 +7941,23 @@ long: 0.049900219
 station: East Ham
 type: restaurant
 cuisine: Indian
-licensed: 
-byob: 
-bookings: 
+licensed: no
+byob: no
+bookings: no
 eat-in: yes
-takeaway: 
-delivery: 
-just-drink: 
+takeaway: no
+delivery: no
+just-drink: yes
 hours: "Mon-Thu: noon-11pm; Fri: 2pm-11pm; Sat-Sun: noon-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/3697857616/
   - http://www.flickr.com/photos/kake_pugh/3544821501/
-summary: "Small restaurant specialising in Hyderabadi food such as biryani, haleem (a slow-cooked dish of pounded lamb and lentils), and nihari (a slow-cooked lamb shank stew). Although the focus is on meat, they also have a few vegetarian options."
-access: 
+  - https://www.flickr.com/photos/kake_pugh/14491827463/
+  - https://www.flickr.com/photos/kake_pugh/14491825413/
+summary: "Small restaurant specialising in Hyderabadi food such as biryani and haleem (a slow-cooked dish of pounded lamb and lentils).  Although the focus is on meat, they also have a few vegetarian options.  All food is halal, and alcohol is not permitted.  Four highchairs for children, but no baby change facilities."
+access: Two steps to get in.  No further steps to toilets, but access is quite tight.
 links: http://london.randomness.org.uk/wiki.cgi?Hyderabadi_Spice,_E12_6SL
-surveyed: 
+surveyed: June 2014
 ---
 name: Kabayan
 address: 12 Walton Road, East Ham, E13 9BP
@@ -7951,19 +7970,25 @@ long: 0.036054656
 station: Upton Park
 type: restaurant
 cuisine: Filipino
-licensed: 
-byob: 
-bookings: 
+licensed: no
+byob: no
+bookings: yes
 eat-in: yes
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon: closed; Tue-Sun: 12:30pm-7:30pm"
-photo: 
-summary: "One of the rare non-Indian restaurants in the area."
-access: 
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon: closed; Tue-Sun: 10am-9pm"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/14448396256/
+  - https://www.flickr.com/photos/kake_pugh/14470322944/
+  - https://www.flickr.com/photos/kake_pugh/14471491225/
+  - https://www.flickr.com/photos/kake_pugh/14284905268/
+  - https://www.flickr.com/photos/kake_pugh/14468311421/
+  - https://www.flickr.com/photos/kake_pugh/14285055079/
+summary: "Small cafe/restaurant offering Filipino food including breakfast dishes such as daingsilog (fish, garlic-fried rice, and fried egg), main courses such as dinuguang (a rich, savoury stew of pork belly, liver, and pig’s blood), and desserts such as cassava cake.  Cooked English breakfasts also available.  Vegetarian options are scarce.  One highchair, but no baby change facilities.  One of the rare non-Indian restaurants in the area, and somewhat out of the way.  Turn right out of Upton Park Station (instead of left as you would to explore Green Street) and walk down past West Ham United’s Boleyn Ground, then turn right along Walton Road."
+access: A large step to get in.  One more step to the toilets (and tight turns).
 links: http://chowhound.chow.com/topics/880866
-surveyed: 
+surveyed: June 2014
 ---
 name: Chennai Dosa
 address: 339 High Street North, East Ham, E12 6PQ
@@ -7976,19 +8001,19 @@ long: 0.049720511
 station: East Ham
 type: restaurant
 cuisine: Indian
-licensed: 
-byob: 
-bookings: 
+licensed: no
+byob: no
+bookings: no
 eat-in: yes
-takeaway: 
-delivery: 
-just-drink: 
-hours: 
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sun: 9:30am-10:30pm"
 photo: https://www.flickr.com/photos/kake_pugh/3698134582
-summary: "Completely vegetarian South Indian and Sri Lankan food from a small chain of casual restaurants.  Additional nearby branches at numbers 353 (?) and 177 (closer to East Ham Station) offer non-vegetarian options as well."
-access: 
+summary: "Completely vegetarian South Indian and Sri Lankan food from a small chain of casual restaurants (another branch at number 177, further down the road just past East Ham Station, offers non-vegetarian options as well.  No alcohol is permitted.  Three highchairs for children, but no baby change facilities.  A buffet is available at times.  Decor is quite basic.  Cash only."
+access: Step-free throughout.
 links: http://london.randomness.org.uk/wiki.cgi?Chennai_Dosa,_E6_1JB
-surveyed: 
+surveyed: June 2014
 ---
 name: Blacksmith’s Arms
 address: 257 Rotherhithe Street, Rotherhithe, SE16 5EJ
