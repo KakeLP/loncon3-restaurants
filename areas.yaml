@@ -1,10 +1,12 @@
 name: Bank/Tower Hill
 description: Convenient for those staying in the Novotel Tower Bridge, but also
-  easily accessible via the DLR (Bank Station, Tower Gateway Station), the
+  easily reachable via the DLR (Bank Station, Tower Gateway Station), the
   Central Line (Bank Station), and the District Line (Monument Station, Tower
   Hill Station).  South across the river is the area we’ve labelled as
-  “London Bridge”, which can be accessed by walking across Tower Bridge or
+  “London Bridge”, which can be reached by walking across Tower Bridge or
   London Bridge.  Whitechapel is to the east.
+access: Bank Station and Tower Gateway Station are step-free accessible from
+  the DLR only.  Other stations in this area all have mandatory steps.
 ---
 name: Canary Wharf
 description: The northern part of the Isle of Dogs, developed in the late
@@ -17,6 +19,7 @@ description: The northern part of the Isle of Dogs, developed in the late
   reachable via the DLR (stations including Blackwall, Canary Wharf,
   Crossharbour, Heron Quays, South Quay, Westferry, and West India Quay) or
   the Jubilee Line (Canary Wharf Station).
+access: Canary Wharf Station and all DLR stations are step-free accessible.
 ---
 name: Canning Town
 description: Focused around Canning Town Station, which is a significant
@@ -27,60 +30,93 @@ description: Focused around Canning Town Station, which is a significant
   bus concourse, cross road all the way across, turn left and walk under the
   flyover — don’t follow the blue cycle lane, just keep going forwards, and
   Barking Road then leads off to your right).
+access: Canning Town Station is step-free accessible from both the Jubilee
+  Line and the DLR.
 ---
 name: Central Line
 description: Venues which aren’t in any of the main areas we list here, but
-  which are easily reached via Central Line stations such as Stratford.
+  which are easily reached via the Central Line from Stratford Station.
+access: Unfortunately, the only step-free accessible station in our area of
+  interest is Stratford Station.
 ---
 name: District Line
 description: Venues which aren’t in any of the main areas we list here, but
-  which are easily reached via District Line stations such as Mile End (also
-  on the Central Line), Tower Hill, and West Ham (also on the DLR and Jubilee
-  Line).
+  which are easily reached via the District Line.  Get on the District Line
+  at Tower Hill Station, or change (cross-platform) from the Central Line
+  at Mile End Station, or change (step-free via lifts) from the DLR or
+  Jubilee Line at West Ham Station.  See also our “East Ham” section.
+  Note that the Hammersmith &amp; City Line shares a route (and usually
+  platforms) with the District Line between Aldgate East and Barking,
+  so unless you need Tower Hill Station you can use either line.
+access: The only step-free accessible way to get onto the District Line
+  from our area of interest is via West Ham Station; a manual ramp may
+  be required to get on and off District Line trains here.
+  Both East Ham Station and Barking Station are step-free accessible via
+  lifts, though again a manual ramp may be required
+  and/or the gap between the platform and train may be large.  The lift at
+  Barking Station is on platform 1 underneath the
+  staircase, and is operated by railway staff — press the button on the
+  communication system to contact staff.  Access to platform 1 is
+  cross-platform from platform 2 (left-hand side of eastbound District
+  Line trains) and via a subway at the far end from all other platforms.
+  Plaistow Station and Upton Park Station are not step-free accessible.
 ---
 name: DLR
 description: Venues which aren’t in any of the main areas we list here, but
   which are easily reached via the DLR network.
+access: All DLR stations are step-free accessible.
 ---
 name: East Ham
 description: A large area of East London served by Upton Park and East Ham
-  stations on the District Line.  Direct trains from Tower Hill Station, or
-  change (cross-platform) from the Central Line at Mile End Station, or
-  change (step-free via lifts) from the DLR or Jubilee Line at West Ham
-  Station.  A wealth of small independent cafes and
-  restaurants serve South Indian food at excellent prices — far too many to
-  list them all here, so the adventurous are encouraged to explore along
-  Green Street (turn left out of Upton Park Station — not step-free) and East
-  Ham High Street (turn right out of East Ham Station — step-free access via
-  lifts).  Facilities can be somewhat basic, but almost everywhere will have
-  a good selection of vegetarian options, and several places are completely
-  vegetarian.
+  stations on the District Line (see also “District Line” section).
+  A wealth of small independent cafes and restaurants serve South
+  Indian food at excellent prices — far too many to list them all here, so
+  the adventurous are encouraged to explore along Green Street (turn left
+  out of Upton Park Station) and East Ham High Street (turn right out of
+  East Ham Station).  Facilities can be somewhat basic, but almost
+  everywhere will have a good selection of vegetarian options, and several
+  places are completely vegetarian.
+access: "See the “District Line” section for accessibility information."
 ---
 name: East London Line
 description: Venues which aren’t in any of the main areas we list here, but
   which are easily reached via the East London Line on London Overground.
-  Change to London Overground from the DLR at Shadwell Station or from the
-  Jubilee Line at Canada Water Station.  Hoxton, Rotherhithe, Surrey Quays,
+  Change to London Overground from the DLR at Shadwell Station (involves
+  several steps) or from the Jubilee Line at Canada Water Station (step-free).
+  Hoxton, Rotherhithe, Surrey Quays,
   and Wapping stations are all just a few stops from these interchanges, and
   all have nearby options worth the journey.  In particular, Kingsland Road,
   reached via Hoxton Station, is home to around two dozen Vietnamese
-  restaurants (a representative sampling of which is included here).
+  restaurants, a representative sampling of which is included here.
+  (Note that London Overground has multiple lines — the one from Stratford
+  is <em>not</em> the East London Line, but taking this line to Dalston
+  Kingsland Station allows a change to the East London Line at Dalston
+  Junction Station which may be more convenient if heading for Hoxton
+  Station.)
+access: Hoxton Station is step-free accessible via lifts.  Venues near
+  Rotherhithe Station and Surrey Quays Station are walking distance from
+  Canada Water Station (which is step-free accessible).
 ---
 name: ExCeL
 description: Venues around ExCeL itself.  DLR stations are Custom House, Prince
   Regent, and Royal Victoria.
+access: All DLR stations are step-free accessible.
 ---
 name: Greenwich
 description: Home of the National Maritime Museum, the Royal Observatory,
   Greenwich Park, and more.  Served by the Lewisham branch of the DLR (Cutty
   Sark Station, Greenwich Station) and trains from London Bridge (Greenwich
   Station).
+access: All DLR stations are step-free accessible.  Greenwich Station is also
+  step-free accessible from the London Bridge platforms, though a manual ramp
+  may be required to get on and off the trains.
 ---
 name: Limehouse
 description: A sprawling area of East London, served by Limehouse Station and
   Westferry Station on the DLR.  Many of the venues here will likely mainly be
   of interest to those staying in the Marlin Limehouse serviced apartments,
   though some (including the Narrow and the Grapes) are worth travelling for.
+access: All DLR stations are step-free accessible.
 ---
 name: London Bridge
 description: Just south of the Thames, the area between London Bridge Station
@@ -90,6 +126,9 @@ description: Just south of the Thames, the area between London Bridge Station
   The eastern side is also close to Bermondsey Station, which is useful for
   those travelling in on the Jubilee Line from the east and wishing to avoid
   paying Zone 1 fares.
+access: London Bridge Station has step-free access to the Jubilee Line and
+  most of the overground railway platforms, though a manual ramp may be
+  required to get on and off the overground trains.
 ---
 name: O2
 description: The Millennium Dome is an architectural ode to the future created
@@ -100,8 +139,11 @@ description: The Millennium Dome is an architectural ode to the future created
   the days running up to and after Loncon3. All restaurants are chains. Free
   O2 wifi throughout the O2. It’s on the Jubilee line (North Greenwich Station)
   and the jolly fun Emirates Air Line gondola lift that runs from Royal Docks to
-  the Greenwich peninsula. The building and every restaurant in it is wheelchair
-  accessible.
+  the Greenwich peninsula.
+access: North Greenwich Station has step-free access to the Jubilee Line.  The
+  Emirates Air Line also has step-free access at both ends, though larger
+  wheelchairs/scooters may need to reverse into or out of the cabins.  The
+  Millennium Dome and every restaurant in it is wheelchair accessible.
 ---
 name: Stratford
 description: A recently regenerated area, with the Westfield shopping centre
@@ -112,6 +154,9 @@ description: A recently regenerated area, with the Westfield shopping centre
   an overground train for 2 minutes to Maryland Station itself.  Several
   independent cafes and restaurants make it well worth looking beyond the
   chains of Westfield.
+access: All DLR stations are step-free accessible.  Stratford Station is
+  also step-free accessible from the Jubilee Line.  Maryland Station has
+  mandatory steps.
 ---
 name: Whitechapel
 description: London’s original “East End”, a large area served by the DLR
@@ -119,4 +164,5 @@ description: London’s original “East End”, a large area served by the DLR
   East Station and Whitechapel Station), and the Circle Line and Metropolitan
   Line (Aldgate Station).  The western part of it is also walkable from the area
   we’ve designated as “Bank/Tower Hill”.
-
+access: Shadwell Station is step-free accessible from the DLR.  Other stations
+  in the area have mandatory steps.

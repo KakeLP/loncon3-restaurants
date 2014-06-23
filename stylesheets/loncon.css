@@ -8,9 +8,13 @@ h3.area_name {
   padding-top: 1em;
 }
 
-.area_overview {
+.area_overview, .area_access {
   font-size: 90%;
   padding: 0 1em;
+}
+
+.area_access {
+  font-style: italic;
 }
 
 .venues_by_area li {

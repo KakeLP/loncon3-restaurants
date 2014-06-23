@@ -7,7 +7,7 @@ use File::Slurp qw( :edit );
 use Template;
 use YAML::Any qw( LoadFile );
 
-my $laptop = 0;
+my $laptop = 1;
 
 my $datadir = "/Users/kake/Documents/Geo stuff/Loncon";
 my $filename = $ARGV[0] || "$datadir/food-guide.yaml";
@@ -28,6 +28,9 @@ my @venues = LoadFile( $filename );
 my $total = scalar @venues;
 
 @venues = grep { !$_->{exclude} } @venues;
+if ( $laptop ) {
+#  @venues = grep { !$_->{surveyed} } @venues;
+}
 my $todo = scalar @venues;
 my $exclude = $total - $todo;
 
@@ -120,10 +123,12 @@ close $output_fh;
 # Read in and process the area overviews.
 my @areainfo = LoadFile( $areafile );
 my %overviews;
+my %area_access;
 foreach my $datum ( @areainfo ) {
   next unless $datum->{name}; # skip empty data
   my $name = canonicalise_area( $datum->{name} );
   $overviews{$name} = $datum->{description};
+  $area_access{$name} = $datum->{access};
 }
 
 # Write the list.
@@ -131,7 +136,11 @@ my @areas;
 foreach my $area ( sort { lc( $a ) cmp lc( $b ) } keys %areahash ) {
   my $anchor = lc( $area );
   $anchor =~ s/[\/\s]+/_/g;
-  push @areas, { name => $area, anchor => $anchor, overview => $overviews{$area} || "", venues => [ sort namesort @{$areahash{$area}} ] };
+  push @areas, {
+    name => $area, anchor => $anchor, overview => $overviews{$area} || "",
+    access => $area_access{$area},
+    venues => [ sort namesort @{$areahash{$area}} ]
+  };
 }
 
 $tt_vars = {

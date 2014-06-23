@@ -17,7 +17,7 @@ cause a problem for you.</p>
 <h3>Physical accessibility</h3>
 
 <p>We provide information on physical accessibility, where possible.
-This was gathered via an in-person survey by a non-disabled person
+This was gathered from restaurants via an in-person survey by a non-disabled person
 experienced in providing accessibility information, and it comes from
 personal observations rather than second-hand information from the
 restaurant staff.</p>
@@ -41,6 +41,13 @@ restaurants.  Not all accessible toilets will be RADAR-locked, but
 many are.  Many establishments with a RADAR-locked toilet will have
 their own key, but in our experience these are frequently lost or
 misplaced, so we strongly recommend that you acquire your own.</p>
+
+<p>When travelling, if you expect to need a manual ramp at your
+destination, please contact station staff before boarding a train, as
+most trains do not have on-board staff.  For additional information on
+step-free travel around London, see <a
+href="http://tfl.gov.uk/transport-accessibility/">the Transport
+Accessibility section of the Transport for London website</a>.</p>
 
 <h3>Child-friendliness</h3>
 
@@ -100,6 +107,9 @@ surveyed</a>.</p>
 
   [% IF area.overview %]
     <p class="area_overview">[% area.overview %]</p>
+  [% END %]
+  [% IF area.access %]
+    <p class="area_access">[% area.access %]</p>
   [% END %]
 
   <ul class="venues_by_area">
