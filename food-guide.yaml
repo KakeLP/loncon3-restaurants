@@ -8302,7 +8302,7 @@ type: restaurant
 cuisine: American
 licensed: 
 byob: 
-bookings: 
+bookings: no
 eat-in: yes
 takeaway: 
 delivery: 
@@ -8327,12 +8327,12 @@ type: restaurant
 cuisine: American
 licensed: 
 byob: 
-bookings: 
+bookings: no
 eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
-hours: "Sat-Sun: 4pm-10pm-ish or whenever crowds diminish, whichever is later."
+hours: "Mon-Sun: 4pm-10pm-ish or whenever crowds diminish, whichever is later."
 photo: 
 summary: "There are just three restaurants in this chain based in Brooklyn NY. It’s got everything you expect from a NY night place: American burgers, ten pin bowling, a party dance floor, unknown DJs mixing the sound, and live local unknown bands."
 access: Dance floor wheel friendly, bowling not.
@@ -8377,7 +8377,7 @@ type: restaurant
 cuisine: Tex-Mex
 licensed: 
 byob: 
-bookings: 
+bookings: no
 eat-in: yes
 takeaway: 
 delivery: 
@@ -8402,12 +8402,12 @@ type: restaurant
 cuisine: American
 licensed: 
 byob: 
-bookings: 
+bookings: no
 eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
-hours: "Sat-Sun: 9am-10:30pm & pm-10pm; concert night: noon-midnight"
+hours: "Mon-Sun: 9am-10:30pm & pm-10pm; concert nights: noon-midnight"
 photo: 
 summary: "Little Italy New York style food in the UK with loads of American foods reasonably priced."
 access: Wheel friendly right next to the bathrooms which are very crowded right before and right after a performance.
@@ -8429,7 +8429,7 @@ cuisine:
   - steak
 licensed: yes
 byob: 
-bookings: 
+bookings: no
 eat-in: yes
 takeaway: 
 delivery: 
@@ -8454,7 +8454,7 @@ type: restaurant
 cuisine: global
 licensed: 
 byob: 
-bookings: 
+bookings: no
 eat-in: yes
 takeaway: 
 delivery: 
@@ -8479,14 +8479,14 @@ type: restaurant
 cuisine: South American
 licensed: 
 byob: 
-bookings: 
+bookings: yes
 eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
-hours: "Sat-Sun: noon-9pm-ish; concert night later."
+hours: "Mon-Sun: noon-9pm-ish; concert nights later."
 photo: 
-summary: "Good Brazilian and Mexican serving many interesting South American dishes. There are also some lighter tapas options. Bookings only if 24 hours ahead."
+summary: "Good Brazilian and Mexican serving many interesting South American dishes. There are also some lighter tapas options.  For bookings, at least 24 hour advance notice required."
 access: Wheel friendly.
 links: 
 surveyed: June 2014
@@ -8504,7 +8504,7 @@ type: restaurant
 cuisine: South African
 licensed: 
 byob: 
-bookings: 
+bookings: no
 eat-in: yes
 takeaway: 
 delivery: 
@@ -8529,7 +8529,7 @@ type: restaurant
 cuisine: Brazilian
 licensed: 
 byob: 
-bookings: 
+bookings: no
 eat-in: yes
 takeaway: 
 delivery: 
@@ -8554,7 +8554,7 @@ type: restaurant
 cuisine: Japanese
 licensed: 
 byob: 
-bookings: 
+bookings: no
 eat-in: yes
 takeaway: 
 delivery: 
@@ -8584,7 +8584,7 @@ eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
-hours: "Sat-Sun: noon-9pm; concert night: noon-midnight."
+hours: "Mon-Sun: noon-9pm; concert nights: noon-midnight."
 photo: 
 summary: "A popular British chain of healthy Japanese to go, this is one of two sushi chains in Britain using the entertaining Japanese kaiten conveyor belts. If you see a Wasabi elsewhere, be forewarned:  Most Wasabi branches are just takeaway or takeaway and counter service."
 access: Wheel friendly.
@@ -8604,7 +8604,7 @@ type: restaurant
 cuisine: Italian
 licensed: 
 byob: 
-bookings: 
+bookings: no
 eat-in: yes
 takeaway: 
 delivery: 
