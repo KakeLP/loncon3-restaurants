@@ -1,6 +1,6 @@
 [% INCLUDE header.tt %]
 
-[% INCLUDE introduction.tt %]
+[% INCLUDE introduction.tt | replace( '\[BYO\]', 'BYO' ) %]
 
 <h2>The List</h2>
 
@@ -77,6 +77,7 @@ surveyed</a>.</p>
       [% IF venue.delivery == "yes" %]&#128665;[% END %]
       [% IF venue.bookings == "yes" %]&#128214;[% END %]
       [% IF venue.licensed == "yes" %]&#127863;[% END %]
+      [% IF venue.byob == "yes" %]<span class="byob">BYO</span>[% END %]
       [% IF venue.stations %]
         <span class="stations">Public transport: [% venue.stations %].</span>
       [% END %]

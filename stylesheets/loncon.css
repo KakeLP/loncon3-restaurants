@@ -47,3 +47,9 @@ h3.area_name {
 .venues_by_area li .access {
   font-style: italic;
 }
+
+.byob {
+  white-space: nowrap;
+  font-size: 80%;
+  font-weight: bold;
+}
