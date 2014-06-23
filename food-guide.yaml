@@ -117,7 +117,7 @@ surveyed:
 name: Albina
 address: 239 Barking Road, Canning Town, E13 8EQ
 area: Canning Town
-website: http://www.albinaltd.co.uk/
+website: http://albinaltd.co.uk/
 twitter: 
 phone: 020 7474 0244
 lat: 51.519779
@@ -434,7 +434,7 @@ surveyed: April 2014
 name: Yoe Bo
 address: Unit 1, Gerry Raffles Square, Stratford, E15 1BG
 area: Stratford
-website: http://www.yoebo.co.uk/
+website: http://yoebo.co.uk/
 twitter: 
 phone: 020 8519 2020
 lat: 51.542582
@@ -490,7 +490,7 @@ surveyed: April 2014
 name: Northern Imagination
 address: Stratford Circus, Theatre Square, Stratford, E15 1BX
 area: Stratford
-website: https://www.stratford-circus.com/
+website: http://stratford-circus.com/
 twitter: 
 phone: 020 8279 1022
 lat: 51.542835
@@ -521,7 +521,7 @@ surveyed: April 2014
 name: Lituanica
 address: Unit 4, Beckton Retail Park, Alpine Way, E6 6LA
 area: DLR
-website: http://www.lituanica.co.uk/
+website: http://lituanica.co.uk/store-beckton
 twitter: 
 phone: 020 7473 2619 
 lat: 51.516391
@@ -586,7 +586,7 @@ surveyed:
 name: Yi-Ban
 address: London Regatta Centre, Dockside Road, Royal Docks, E16 2QT
 area: ExCeL
-website: http://www.yi-ban.com/
+website: http://yi-ban.com/
 twitter: 
 phone: 020 7473 6699
 lat: 51.507704
@@ -613,7 +613,7 @@ surveyed: June 2014
 name: Fox Connaught
 address: Lynx Way, Royal Docks, E16 1JR
 area: ExCeL
-website: http://www.foxbars.com/
+website: http://foxbars.com/connaught
 twitter: 
 phone: 020 7476 6777
 lat: 51.508692
@@ -645,7 +645,7 @@ name: Garden Community Cafe
 exclude: Not open during school holidays.
 address: 7 Cundy Road, Custom House, E16 3DJ
 area: ExCeL
-website: http://www.gardencommunitycafe.org/
+website: http://gardencommunitycafe.org/
 twitter: 
 phone: 020 7474 5257
 lat: 51.510543
@@ -680,7 +680,7 @@ surveyed:
 name: Custom House Pub and Kitchen
 address: Custom House Hotel, 272-283 Victoria Dock Road, Custom House, E16 3BY
 area: ExCeL
-website: http://www.customhouse-hotel.co.uk/
+website: http://customhouse-hotel.co.uk/
 twitter: 
 phone: 020 7474 0011
 lat: 51.510028
@@ -811,7 +811,7 @@ name: Nisa Local
 exclude: The branch on Western Gateway is very similar, and is more convenient to the ExCeL Centre.
 address: 53 Freemasons Road, Custom House, E16 3PJ
 area: ExCeL
-website: http://www.nisalocally.co.uk/
+website: http://nisalocally.co.uk/
 twitter: NisaLocally
 phone: 020 7474 2349
 lat: 51.511699
@@ -863,7 +863,7 @@ surveyed: June 2014
 name: La Barrique
 address: Unit R5, Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
 area: ExCeL
-website: http://www.labarrique.co.uk/
+website: http://labarrique.co.uk/
 twitter: 
 phone: 020 7474 8042
 lat: 51.508886
@@ -890,7 +890,7 @@ surveyed:
 name: Fox ExCeL
 address: Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
 area: ExCeL
-website: http://www.foxbars.com/
+website: http://foxbars.com/excel
 twitter: 
 phone: 020 7473 2288
 lat: 51.508729
@@ -918,7 +918,7 @@ surveyed: June 2014
 name: 07 Zero Sette
 address: Unit R3, Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
 area: ExCeL
-website: http://www.zerosette.co.uk/
+website: http://zerosette.co.uk/
 twitter: 
 phone: 020 7476 6564
 lat: 51.508722
@@ -945,7 +945,7 @@ surveyed: June 2014
 name: Bollywood Grill
 address: Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
 area: ExCeL
-website: http://www.bollywoodbrasserie.co.uk/
+website: http://bollywoodbrasserie.co.uk/
 twitter: 
 phone: 020 7473 5004
 lat: 51.508719
@@ -972,7 +972,7 @@ surveyed:
 name: China Palace
 address: Unit R1 Warehouse, 2 Western Gateway, Royal Victoria Dock, E16 1DR
 area: ExCeL
-website: http://www.chinapalaceexcel.com/
+website: http://chinapalaceexcel.com/
 twitter: 
 phone: 020 7474 0808
 lat: 51.508709
@@ -997,7 +997,7 @@ surveyed: June 2014
 name: Elite Dining
 address: 3 Western Gateway, Royal Victoria Dock, E16 1BD
 area: ExCeL
-website: http://www.elite-dining.co.uk/
+website: http://elite-dining.co.uk/
 twitter: 
 phone: 020 7476 2852
 lat: 51.508372
@@ -1060,7 +1060,7 @@ surveyed:
 name: Nisa Local
 address: 14 Western Gateway, Royal Victoria Dock, E16 1BJ
 area: ExCeL
-website: http://www.nisalocally.co.uk/
+website: http://nisalocally.co.uk/
 twitter: NisaLocally
 phone: 020 7473 7886
 lat: 51.508158
@@ -1088,7 +1088,7 @@ name: Royal Docks Pizza
 exclude: Include this under the Reem Al Wadi listing.
 address: Unit G8, ExCeL Marina, 8 Western Gateway, E16 1AT
 area: ExCeL
-website: http://www.royaldockpizza.com/
+website: http://royaldockpizza.com/
 twitter: 
 phone: 020 7473 3620
 lat: 51.507944
@@ -1173,7 +1173,7 @@ name: Caribbean Scene
 exclude: Closed down.
 address: Unit G7, ExCeL Marina, 17 Western Gateway, E16 1AQ
 area: ExCeL
-website: http://www.caribbeanscene.co.uk/
+website: http://caribbeanscene.co.uk/
 twitter: CaribbeanScene
 phone: 020 7511 2023
 lat: 51.507574
@@ -1202,7 +1202,7 @@ surveyed:
 name: Docklands Bar And Grill
 address: Victoria Dock Road, Western Gateway, Royal Victoria Dock, E16 1AL
 area: ExCeL
-website: http://www.docklandsbarandgrill.co.uk/
+website: http://docklandsbarandgrill.co.uk/
 twitter: Docklands_Bar
 phone: 020 7055 2119
 lat: 51.508195
@@ -1231,7 +1231,7 @@ surveyed: June 2014
 name: Tesco Express
 address: Unit B, The Oxygen, Royal Victoria Dock, E16 1BL
 area: ExCeL
-website: http://www.tesco.com/
+website: http://tesco.com/
 twitter: tesco
 phone: 0345 6719545
 lat: 51.508245
@@ -1256,7 +1256,7 @@ surveyed: June 2014
 name: Caffè Fratelli
 address: Unit 1, Western Gateway, E16 1AS
 area: ExCeL
-website: http://www.caffefratelli.co.uk/
+website: http://caffefratelli.co.uk/
 twitter: CaffeFratelli
 phone: 020 7476 8239
 lat: 51.508242
@@ -1283,7 +1283,7 @@ surveyed: June 2014
 name: Crystal Café
 address: 1 Siemens Brothers Way, Royal Victoria Dock, E16 1GB
 area: ExCeL
-website: http://www.thecrystal.org/
+website: http://thecrystal.org/
 twitter: TheCrystalOrg
 phone: 020 7055 6400
 lat: 51.507287
@@ -1310,7 +1310,7 @@ surveyed: June 2014
 name: Oiler Bar
 address: Royal Victoria Dock
 area: ExCeL
-website: http://www.wakeupdocklands.com/the-oiler-bar
+website: http://wakeupdocklands.com/the-oiler-bar
 twitter: oilerbar
 phone: 07979 434157
 lat: 51.506492
@@ -1339,7 +1339,7 @@ surveyed: June 2014
 name: Nakhon Thai
 address: Waterfront Studios, 1 Dock Road, Royal Victoria Dock, E16 1AH
 area: ExCeL
-website: http://www.nakhonthai.co.uk/
+website: http://nakhonthai.co.uk/
 twitter: 
 phone: 020 7474 5510
 lat: 51.506158
@@ -1364,7 +1364,7 @@ surveyed:
 name: Ayanna’s
 address: 2 Yabsley Street, Blackwall, E14 9RG
 area: Canary Wharf
-website: http://www.ayannaslondon.com/
+website: http://ayannaslondon.com/
 twitter: AyannasLondon
 phone: 020 7515 8177
 lat: 51.505300
@@ -1389,7 +1389,7 @@ surveyed:
 name: The Gun
 address: 27 Coldharbour, Isle of Dogs, E14 9NS
 area: Canary Wharf
-website: http://www.thegundocklands.com/
+website: http://thegundocklands.com/
 twitter: thegundocklands
 phone: 020 7515 5222
 lat: 51.501787
@@ -1451,7 +1451,7 @@ surveyed:
 name: Firezza
 address: Unit 6b, Baltimore Wharf, Pepper Street, Isle of Dogs, E14 9RH
 area: Canary Wharf
-website: http://www.firezza.com/
+website: http://firezza.com/
 twitter: 
 phone: 020 7987 7722
 lat: 51.496210
@@ -1476,7 +1476,7 @@ surveyed:
 name: Manjal
 address: 3 Turnberry Quay, Isle of Dogs, E14 9RD
 area: Canary Wharf
-website: http://www.manjalrestaurant.com/
+website: http://manjalrestaurant.com/
 twitter: Manjal_London
 phone: 020 7538 1140
 lat: 51.496128
@@ -1501,7 +1501,7 @@ surveyed:
 name: Lotus
 address: 9 Oakland Quay, Isle of Dogs, E14 9EA
 area: Canary Wharf
-website: http://www.lotusfloating.co.uk/
+website: http://lotusfloating.co.uk/
 twitter: 
 phone: 020 7515 6445
 lat: 51.496960
@@ -1528,7 +1528,7 @@ surveyed:
 name: Pepper Saint Ontiod
 address: 21 Pepper Street, Isle of Dogs, E14 9RP
 area: Canary Wharf
-website: http://www.peppersaintontiod.com/
+website: http://peppersaintontiod.com/
 twitter: peppersaint
 phone: 020 7987 5205
 lat: 51.496209
@@ -1553,7 +1553,7 @@ surveyed:
 name: Byblos Harbour
 address: 41 Millharbour, Isle of Dogs, E14 9NB
 area: Canary Wharf
-website: http://www.byblos-harbour.com/
+website: http://byblos-harbour.com/
 twitter: 
 phone: 020 7538 4882
 lat: 51.497483
@@ -1582,7 +1582,7 @@ surveyed:
 name: Tompkins
 address: 4 Pan Peninsula Square, Isle of Dogs, E14 9HN
 area: Canary Wharf
-website: http://www.tompkins.uk.com/
+website: http://tompkins.uk.com/
 twitter: Tomptheattic
 phone: 020 8305 3080
 lat: 51.499812
@@ -1612,7 +1612,7 @@ surveyed:
 name: Lemongrass Kitchen
 address: Unit 5, South Quay Plaza, 185 Marsh Wall, Isle of Dogs, E14 9SH
 area: Canary Wharf
-website: http://www.lemongrasskitchen.co.uk/
+website: http://lemongrasskitchen.co.uk/
 twitter: LemongrassKtchn
 phone: 020 7537 9392
 lat: 51.500365
@@ -1637,7 +1637,7 @@ surveyed:
 name: Goodman
 address: 3 South Quay Square, Isle of Dogs, E14 9SH
 area: Canary Wharf
-website: http://www.goodmanrestaurants.com/
+website: http://goodmanrestaurants.com/
 twitter: Goodman_London
 phone: 020 7531 0300
 lat: 51.501570
@@ -1664,7 +1664,7 @@ surveyed:
 name: Hazev
 address: 2 South Quay Square, Isle of Dogs, E14 9RT
 area: Canary Wharf
-website: http://www.hazev.com/
+website: http://hazev.com/
 twitter: 
 phone: 020 7515 9467
 lat: 51.501607
@@ -1693,7 +1693,7 @@ surveyed:
 name: All Bar One
 address: 42 Mackenzie Walk, Canary Wharf, E14 5EH
 area: Canary Wharf
-website: http://www.allbarone.co.uk/
+website: http://allbarone.co.uk/
 twitter: YourAllBarOne
 phone: 020 7516 0191
 lat: 51.504078
@@ -1718,7 +1718,7 @@ surveyed: May 2014
 name: Slug and Lettuce
 address: 30 South Colonnade, Canary Wharf, E14 5EP
 area: Canary Wharf
-website: http://www.slugandlettuce.co.uk/
+website: http://www.slugandlettuce.co.uk/slug-canarywharf
 twitter: SlugLettuce
 phone: 020 7519 1612
 lat: 51.504262
@@ -1743,7 +1743,7 @@ surveyed: May 2014
 name: Smollensky’s
 address: 1 Reuters Plaza, Canary Wharf, E14 5AJ
 area: Canary Wharf
-website: http://smollenskys.com/
+website: http://smollenskys.com/canary-wharf
 twitter: SmollenskysInfo
 phone: 020 7719 0101
 lat: 51.504125
@@ -1768,7 +1768,7 @@ surveyed:
 name: Carluccio’s
 address: Reuters Plaza, Canary Wharf, E14 5AJ
 area: Canary Wharf
-website: http://www.carluccios.com/
+website: http://carluccios.com/
 twitter: 
 phone: 020 7719 1749
 lat: 51.504302
@@ -1795,7 +1795,7 @@ surveyed: May 2014
 name: Nicolas
 address: Unit 480, One Canada Square, Canary Wharf, E14 5AX
 area: Canary Wharf
-website: http://www.nicolas.com/
+website: http://nicolas.com/
 twitter: 
 phone: 020 7512 9283
 lat: 51.504682
@@ -1825,7 +1825,7 @@ surveyed:
 name: Birley Salt Beef
 address: Unit 23A, One Canada Square, Canary Wharf, E14 5AX
 area: Canary Wharf
-website: https://www.birleysandwiches.co.uk/
+website: https://birleysandwiches.co.uk/
 twitter: BirleySandwich
 phone: 020 7719 1163
 lat: 51.504749
@@ -1878,7 +1878,7 @@ surveyed:
 name: Jamie’s Italian
 address: Unit 17, 2 Churchill Place, Canary Wharf, E14 5RB
 area: Canary Wharf
-website: https://www.jamieoliver.com/italian/
+website: http://jamieoliver.com/italian/restaurants/canary-wharf
 twitter: JamiesItalianUK
 phone: 020 3002 5252
 lat: 51.504672
@@ -1906,7 +1906,7 @@ surveyed:
 name: Roka
 address: 1st Floor, 4 Park Pavilion, 40 Canada Square, Canary Wharf, E14 5FW
 area: Canary Wharf
-website: http://rokarestaurant.com/
+website: http://rokarestaurant.com/canary-wharf/en/home
 twitter: 
 phone: 020 7636 5228
 lat: 51.504966
@@ -1931,7 +1931,7 @@ surveyed:
 name: Wahaca
 address: Park Pavilion, 40 Canada Square, Canary Wharf, E14 5FW
 area: Canary Wharf
-website: http://www.wahaca.co.uk/
+website: http://wahaca.co.uk/locations/canary-wharf
 twitter: Wahaca
 phone: 020 7516 9145
 lat: 51.504826
@@ -1956,7 +1956,7 @@ surveyed:
 name: Canteen
 address: Park Pavilion, 40 Canada Square, Canary Wharf, E14 5FW
 area: Canary Wharf
-website: http://www.canteen.co.uk/
+website: http://canteen.co.uk/
 twitter: CanteenLondon
 phone: 08456 861122
 lat: 51.504676
@@ -1981,7 +1981,7 @@ surveyed: May 2014
 name: Taylor St Baristas
 address: 8 South Colonnade, Canary Wharf, E14 4PZ
 area: Canary Wharf
-website: http://www.taylor-st.com/
+website: http://www.taylor-st.com/locations/canary-wharf
 twitter: TSBCanaryWharf
 phone: 020 7519 6536
 lat: 51.504809
@@ -2006,7 +2006,7 @@ surveyed: May 2014
 name: Boisdale
 address: Cabot Place, Canary Wharf, E14 4QT
 area: Canary Wharf
-website: http://www.boisdale.co.uk/
+website: http://boisdale.co.uk/
 twitter: BoisdaleCW
 phone: 020 7715 5818
 lat: 51.505166
@@ -2031,7 +2031,7 @@ surveyed:
 name: Brera
 address: Unit 12, Cabot Place West, Canary Wharf, E14 4QT
 area: Canary Wharf
-website: http://www.cafebrera.com/
+website: http://cafebrera.com/
 twitter: 
 phone: 0207 512 9394
 lat: 51.505120
@@ -2056,7 +2056,7 @@ surveyed: May 2014
 name: Iberica
 address: 12 Cabot Square, Canary Wharf, E14 4QQ
 area: Canary Wharf
-website: http://www.ibericalondon.co.uk/
+website: http://ibericalondon.co.uk/
 twitter: IbericaLondon
 phone: 020 7636 8650
 lat: 51.505611
@@ -2081,7 +2081,7 @@ surveyed:
 name: Sri Nam
 address: 10 Cabot Square, Canary Wharf, E14 4EY
 area: Canary Wharf
-website: http://www.orientalrestaurantgroup.co.uk/
+website: http://orientalrestaurantgroup.co.uk/srinam.html
 twitter: 
 phone: 020 7715 9515
 lat: 51.505589
@@ -2106,7 +2106,7 @@ surveyed:
 name: Tom’s Kitchen
 address: 1 Westferry Circus, Canary Wharf, E14 4HD
 area: Canary Wharf
-website: http://www.tomskitchen.co.uk/
+website: http://tomskitchen.co.uk/canary-wharf
 twitter: TomsKitchens
 phone: 020 3011 1555
 lat: 51.506083
@@ -2160,7 +2160,7 @@ surveyed:
 name: Gaucho
 address: 29 Westferry Circus, Canary Wharf, E14 8RR
 area: Canary Wharf
-website: http://www.gauchorestaurants.co.uk/
+website: http://gauchorestaurants.co.uk/
 twitter: GauchoGroup
 phone: 020 7987 9494
 lat: 51.505409
@@ -2190,7 +2190,7 @@ name: Camino
 exclude: Closed down in April 2014.
 address: 28 Westferry Circus, Canary Wharf, E14 8RR
 area: Canary Wharf
-website: http://www.camino.uk.com/
+website: http://camino.uk.com/
 twitter: CaminoLondon
 phone: 020 7239 9077
 lat: 51.505237
@@ -2217,7 +2217,7 @@ surveyed:
 name: Le Secret Des Rôtisseurs
 address: 37 Westferry Circus, E14 8RP
 area: Canary Wharf
-website: http://www.eatlesecret.co.uk/
+website: http://eatlesecret.co.uk/
 twitter: LeSecretdesR
 phone: 020 7719 0950
 lat: 51.506606
@@ -2246,7 +2246,7 @@ surveyed:
 name: The Grapes
 address: 76 Narrow Street, Limehouse, E14 8BP
 area: Limehouse
-website: http://www.thegrapes.co.uk/
+website: http://thegrapes.co.uk/
 twitter: TheGrapesLondon
 phone: 0207 987 4396
 lat: 51.508933
@@ -2276,7 +2276,7 @@ surveyed:
 name: The Narrow
 address: 44 Narrow Street, Limehouse, E14 8DP
 area: Limehouse
-website: http://www.gordonramsay.com/thenarrow/
+website: http://gordonramsay.com/thenarrow/
 twitter: 
 phone: 0207 592 7950
 lat: 51.509746
@@ -2304,7 +2304,7 @@ surveyed:
 name: La Figa
 address: Unit 1, Ionian Building, 45 Narrow Street, Limehouse, E14 8DX
 area: Limehouse
-website: http://www.lafigarestaurant.co.uk/
+website: http://lafigarestaurant.co.uk/
 twitter: 
 phone: 020 7423 9829
 lat: 51.510140
@@ -2481,7 +2481,7 @@ surveyed:
 name: Lime
 address: 1 Manilla Street, Regatta Point, Isle of Dogs, E14 8JZ
 area: Canary Wharf
-website: http://www.limerestaurant.co.uk/
+website: http://limerestaurant.co.uk/
 twitter: 
 phone: 020 7515 4500
 lat: 51.501173
@@ -2508,7 +2508,7 @@ surveyed:
 name: Aniseed
 address: 25 Westferry Road, Isle of Dogs, E14 8JH
 area: Canary Wharf
-website: http://www.aniseed-docklands.co.uk/
+website: http://aniseed-docklands.co.uk/
 twitter: 
 phone: 020 7517 9233
 lat: 51.501520
@@ -2537,7 +2537,7 @@ surveyed:
 name: Tesco Express
 address: Landmark Tower, Westferry Road, Isle of Dogs, E14 9AB
 area: Canary Wharf
-website: http://www.tesco.com/
+website: http://tesco.com/
 twitter: tesco
 phone: 0345 6719592
 lat: 51.501742
@@ -2589,7 +2589,7 @@ surveyed: May 2014
 name: Quadrato
 address: Four Seasons Hotel, 46 Westferry Circus, Canary Wharf, E14 8RS
 area: Canary Wharf
-website: http://www.fourseasons.com/canarywharf/dining/
+website: http://fourseasons.com/canarywharf/dining/
 twitter: FSCanaryWharf
 phone: 020 7510 1858
 lat: 51.506652
@@ -2668,7 +2668,7 @@ surveyed: May 2014
 name: Rum and Sugar
 address: No 1 Warehouse, West India Quay, E14 4AL
 area: Canary Wharf
-website: http://www.rumandsugar.co.uk/
+website: http://rumandsugar.co.uk/
 twitter: RumAndSugar
 phone: 020 7538 2702
 lat: 51.507430
@@ -2697,7 +2697,7 @@ surveyed: May 2014
 name: La Tasca
 address: Unit E, 12 Hertsmere Road, West India Quay, E14 4AE
 area: Canary Wharf
-website: http://www.latasca.com/canary-wharf/
+website: http://latasca.com/canary-wharf/
 twitter: LaTasca
 phone: 020 7531 9990
 lat: 51.507404
@@ -2722,7 +2722,7 @@ surveyed: May 2014
 name: Strada
 address: Unit E, 12 Hertsmere Road, West India Quay, E14 4AE
 area: Canary Wharf
-website: http://www.strada.co.uk/italian-restaurant/west-india-quay
+website: http://strada.co.uk/italian-restaurant/west-india-quay
 twitter: 
 phone: 020 7538 9435
 lat: 51.507384
@@ -2747,7 +2747,7 @@ surveyed: May 2014
 name: Temple Lounge
 address: Unit D, Hertsmere Road, West India Quay, E14 4AF
 area: Canary Wharf
-website: http://www.temple-lounge.com/
+website: http://temple-lounge.com/
 twitter: temple_lounge
 phone: 020 7005 0862
 lat: 51.507360
@@ -2775,7 +2775,7 @@ name: Levante
 exclude: Closing down soon.
 address: 14 Hertsmere Road, West India Quay, E14 4AF
 area: Canary Wharf
-website: http://www.levantebar.com/
+website: http://levantebar.com/
 twitter: 
 phone: 020 3069 8981
 lat: 51.507340
@@ -2802,7 +2802,7 @@ surveyed:
 name: Henry’s
 address: Unit C, 16 Hertsmere Road, West India Quay, E14 4AX
 area: Canary Wharf
-website: http://www.henryscafebar.co.uk/henrys-west-india-quay/
+website: http://henryscafebar.co.uk/henrys-west-india-quay/
 twitter: HenrysWIQ
 phone: 020 7515 8361
 lat: 51.507323
@@ -2827,7 +2827,7 @@ surveyed: May 2014
 name: Via
 address: Unit B, 18 Hertsmere Road, West India Quay, E14 4AY
 area: Canary Wharf
-website: http://www.viabars.co.uk/
+website: http://viabars.co.uk/
 twitter: Via_CanaryWharf
 phone: 020 7515 8549
 lat: 51.507277
@@ -2859,7 +2859,7 @@ surveyed: May 2014
 name: Browns
 address: Unit A, 18 Hertsmere Road, West India Quay, E14 4AY
 area: Canary Wharf
-website: http://www.browns-restaurants.co.uk/locations/west-india-quay/
+website: http://browns-restaurants.co.uk/locations/west-india-quay/
 twitter: BrownsWIQ
 phone: 020 7987 9777
 lat: 51.507252
@@ -2913,7 +2913,7 @@ surveyed:
 name: Dockmaster’s House
 address: 1 Hertsmere Road, Poplar, E14 8JJ
 area: Canary Wharf
-website: http://www.dockmastershouse.com/
+website: http://dockmastershouse.com/
 twitter: DockmastersHous
 phone: 020 7345 0345
 lat: 51.508222
@@ -2941,7 +2941,7 @@ surveyed:
 name: Noodle Street
 address: 15-17 Pennyfields, Poplar, E14 8HP
 area: Limehouse
-website: http://www.noodlestreet.co.uk/
+website: http://noodlestreet.co.uk/
 twitter: NoodleStreet1
 phone: 020 7987 8688
 lat: 51.509604
@@ -2968,7 +2968,7 @@ surveyed: June 2014
 name: Bengal Classic
 address: 11 Pennyfields, Poplar, E14 8HP
 area: Limehouse
-website: http://www.bengal-classic.co.uk/
+website: http://bengal-classic.co.uk/
 twitter: 
 phone: 020 7517 9955
 lat: 51.509634
@@ -3060,7 +3060,7 @@ surveyed:
 name: Spice Merchants
 address: 38 Salter Street, Poplar, E14 8AA
 area: Limehouse
-website: http://www.spicemerchants.com/
+website: http://spicemerchants.com/
 twitter: 
 phone: 020 7987 8779
 lat: 51.509213
@@ -3168,7 +3168,7 @@ surveyed: June 2014
 name: Royal Spice
 address: 815 Commercial Road, Limehouse, E14 7HG
 area: Limehouse
-website: http://www.royalspicee14.com/
+website: http://royalspicee14.com/
 twitter: 
 phone: 020 7536 9902
 lat: 51.512088
@@ -3249,7 +3249,7 @@ surveyed:
 name: Sapore Italiano
 address: 106 Salmon Lane, Limehouse, E14 7PQ
 area: Limehouse
-website: http://www.saporeitaliano.co.uk/
+website: http://saporeitaliano.co.uk/
 twitter: sapore_italiano
 phone: 020 7531 7492 / 07907 832479
 lat: 51.513974
@@ -3280,7 +3280,7 @@ surveyed: June 2014
 name: Departure
 address: 649-651 Commercial Road, Limehouse, E14 7LW
 area: Limehouse
-website: http://www.departure.org.uk/
+website: http://departure.org.uk/
 twitter: DepartureCafe
 phone: 020 7702 8802
 lat: 51.512814
@@ -3336,7 +3336,7 @@ surveyed: June 2014
 name: Dar Marrakech
 address: 403 Stratford High Street, E15 4QZ
 area: Stratford
-website: http://www.darmarrakech.co.uk/
+website: http://darmarrakech.co.uk/
 twitter: 
 phone: 020 8221 0113
 lat: 51.539574
@@ -3453,7 +3453,7 @@ surveyed:
 name: The Langthorne
 address: 14 Broadway, Stratford, E15 4QS
 area: Stratford
-website: http://www.thelangthornestratford.co.uk/
+website: http://thelangthornestratford.co.uk/
 twitter: 
 phone: 020 8534 7840
 lat: 51.540230
@@ -3810,7 +3810,7 @@ surveyed:
 name: Calabash
 address: 22 Vicarage Lane, Stratford, E15 4ES
 area: Stratford
-website: http://www.calabashcuisine.com/
+website: http://calabashcuisine.com/
 twitter: 
 phone: 020 8503 1664
 lat: 51.541534
@@ -3862,7 +3862,7 @@ surveyed: April 2014
 name: Tasty
 address: 51a Leytonstone Road, Stratford, E15 1JA
 area: Stratford
-website: http://www.tastyafricanfood.com/
+website: http://tastyafricanfood.com/stratford
 twitter: TastysUK
 phone: 020 8522 4705
 lat: 51.546685
@@ -3954,7 +3954,7 @@ surveyed: April 2014
 name: D’Gaf
 address: 11 Leytonstone Road, Stratford, E15 1JA
 area: Stratford
-website: http://www.d-gaf.com/
+website: http://d-gaf.com/
 twitter: dgafuk
 phone: 020 7366 3666
 lat: 51.546100
@@ -3985,7 +3985,7 @@ surveyed: April 2014
 name: Railway Tavern
 address: 131 Angel Lane, Stratford, E15 1DB
 area: Stratford
-website: http://www.railwaytavernhotel.co.uk/
+website: http://railwaytavernhotel.co.uk/
 twitter: 
 phone: 020 8534 3123
 lat: 51.545102
@@ -4010,7 +4010,7 @@ surveyed: April 2014
 name: Pizza Express
 address: Theatre Square, Stratford, E15 1BX
 area: Stratford
-website: http://www.pizzaexpress.com/
+website: http://pizzaexpress.com/
 twitter: PizzaExpress
 phone: 020 8534 1700
 lat: 51.542847
@@ -4105,7 +4105,7 @@ surveyed: June 2014
 name: Rajboy
 address: 564 Commercial Road, Limehouse, E14 7JD
 area: Limehouse
-website: http://www.rajboy.com/
+website: http://rajboy.com/
 twitter: 
 phone: 020 7791 3535
 lat: 51.512674
@@ -4237,7 +4237,7 @@ surveyed: June 2014
 name: Sainsbury’s Local
 address: 516-520 Commercial Road, Shadwell, E1 0HY
 area: Limehouse
-website: http://www.sainsburys.co.uk/
+website: http://sainsburys.co.uk/
 twitter: sainsburys
 phone: 020 7423 9176
 lat: 51.512956
@@ -4262,7 +4262,7 @@ surveyed: June 2014
 name: Sylvia’s Corner
 address: 583 Commercial Road, Shadwell, E1 0HJ
 area: Limehouse
-website: http://www.sylviascorner.co.uk/
+website: http://sylviascorner.co.uk/
 twitter: 
 phone: 020 3509 8295
 lat: 51.513253
@@ -4289,7 +4289,7 @@ surveyed: June 2014
 name: The Maroons
 address: 514 Commercial Road, Shadwell, London E1 0HY
 area: Limehouse
-website: http://www.themaroonsrestaurant.co.uk/
+website: http://themaroonsrestaurant.co.uk/
 twitter: 
 phone: 020 7790 5132
 lat: 51.513014
@@ -4504,7 +4504,7 @@ surveyed:
 name: Lahore Two
 address: 367 Commercial Road, Shadwell, E1 2PS
 area: Whitechapel
-website: http://www.lahore-two.co.uk/
+website: http://lahore-two.co.uk/
 twitter: 
 phone: 020 7791 2376
 lat: 51.514351
@@ -4640,7 +4640,7 @@ surveyed: May 2014
 name: Sahara Grill
 address: 49-53 New Road, Whitechapel, E1 1HH
 area: Whitechapel
-website: http://www.saharagrill.co.uk/
+website: http://saharagrill.co.uk/
 twitter: 
 phone: 020 7247 7803
 lat: 51.516102
@@ -4667,7 +4667,7 @@ surveyed: May 2014
 name: Needoo Grill
 address: 85-87 New Road, Whitechapel, E1 1HH
 area: Whitechapel
-website: http://www.needoogrill.co.uk/
+website: http://needoogrill.co.uk/
 twitter: 
 phone: 020 7247 0648
 lat: 51.516995
@@ -4723,7 +4723,7 @@ surveyed: May 2014
 name: The Crêpe Shop
 address: 103 Fieldgate Street, Whitechapel, E1 1JU
 area: Whitechapel
-website: http://www.crepeshop.co.uk/
+website: http://crepeshop.co.uk/
 twitter: TheCrepeShop
 phone: 
 lat: 51.517272
@@ -4780,7 +4780,7 @@ surveyed:
 name: Tayyabs
 address: 81-83 Fieldgate Street, Whitechapel, E1 1JU
 area: Whitechapel
-website: http://www.tayyabs.co.uk/
+website: http://tayyabs.co.uk/
 twitter: 1tayyabs
 phone: 020 7247 9543
 lat: 51.517212
@@ -4805,7 +4805,7 @@ surveyed: May 2014
 name: Lahore Kebab House
 address: 2-10 Umberston Street, Whitechapel, E1 1PY
 area: Whitechapel
-website: http://www.lahore-kebabhouse.com/
+website: http://lahore-kebabhouse.com/
 twitter: LahoreKebabHous
 phone: 020 7481 9737
 lat: 51.514683
@@ -4834,7 +4834,7 @@ surveyed: May 2014
 name: misschu
 address: 91 Whitechapel High Street, E1 7RA
 area: Whitechapel
-website: http://www.misschu.co.uk/
+website: http://misschu.co.uk/
 twitter: misschutuckshop
 phone: 020 7650 0001
 lat: 51.515710
@@ -4947,7 +4947,7 @@ surveyed:
 name: White Swan
 address: 21 Alie Street, Whitechapel, E1 8DA
 area: Whitechapel
-website: http://www.shepherdneame.co.uk/pubs/aldgate-east/white-swan
+website: http://shepherdneame.co.uk/pubs/aldgate-east/white-swan
 twitter: 
 phone:  020 7702 0448
 lat: 51.513592
@@ -4974,7 +4974,7 @@ surveyed: May 2014
 name: Dispensary
 address: 19a Leman Street, Whitechapel, E1 8EN
 area: Whitechapel
-website: http://www.thedispensarylondon.co.uk/
+website: http://thedispensarylondon.co.uk/
 twitter: DispensaryPub
 phone: 020 7977 0486
 lat: 51.514051
@@ -5033,7 +5033,7 @@ surveyed: May 2014
 name: Cafe Spice Namaste
 address: 16 Prescot Street, Whitechapel, E1 8AZ
 area: Whitechapel
-website: http://www.cafespice.co.uk/
+website: http://cafespice.co.uk/
 twitter: CafeSpiceNamast
 phone: 020 7488 9242
 lat: 51.511619
@@ -5067,7 +5067,7 @@ surveyed: May 2014
 name: Princess Of Prussia
 address: 15 Prescot Street, Whitechapel, E1 8AZ
 area: Whitechapel
-website: http://www.shepherdneame.co.uk/pubs/london/princess-prussia
+website: http://shepherdneame.co.uk/pubs/london/princess-prussia
 twitter: 
 phone: 020 7702 0723
 lat: 51.511637
@@ -5128,7 +5128,7 @@ surveyed:
 name: Red Chilli
 address: 137 Leman Street, Whitechapel, E1 8EY
 area: Whitechapel
-website: http://www.redchillicurryclub.co.uk/
+website: http://redchillicurryclub.co.uk/
 twitter: 
 phone: 020 7481 3300
 lat: 51.511470
@@ -5277,7 +5277,7 @@ surveyed: info from personal visits
 name: The Yellow House
 address: 126 Lower Road, Rotherhithe, SE16 2UE
 area: East London Line
-website: http://www.theyellowhouse.eu/
+website: http://theyellowhouse.eu/
 twitter: TheYellowHouse_
 phone: 020 7231 8777
 lat: 51.493665
@@ -5399,7 +5399,7 @@ surveyed:
 name: Town of Ramsgate
 address: 62 Wapping High Street, Wapping, E1W 2PN
 area: East London Line
-website: http://www.townoframsgate.co.uk/
+website: http://townoframsgate.co.uk/
 twitter: 
 phone: 020 7481 8000
 lat: 51.503494
@@ -5424,7 +5424,7 @@ surveyed:
 name: Simplicity
 address: 1 Tunnel Road, Rotherhithe, SE16 4JJ
 area: East London Line
-website: http://www.simplicityrestaurants.com/
+website: http://simplicityrestaurants.com/
 twitter: 
 phone: 020 7232 5174
 lat: 51.501310
@@ -5474,7 +5474,7 @@ surveyed:
 name: Beagle
 address: 397-400 Geffrye Street, Hoxton, E2 8HZ
 area: East London Line
-website: http://www.beaglelondon.co.uk/
+website: http://beaglelondon.co.uk/
 twitter: BeagleLondon
 phone: 020 7613 2967
 lat: 51.531090
@@ -5549,7 +5549,7 @@ surveyed:
 name: The Yacht
 address: 5-7 Crane Street, Greenwich, SE10 9NP
 area: Greenwich
-website: http://www.taylor-walker.co.uk/pub/yacht-greenwich/c7591/
+website: http://taylor-walker.co.uk/pub/yacht-greenwich/c7591/
 twitter: TheYachtTW
 phone: 020 8858 0175
 lat: 51.484680
@@ -5577,7 +5577,7 @@ surveyed: May 2014
 name: Trafalgar Tavern
 address: 6 Park Row, Greenwich, SE10 9NW
 area: Greenwich
-website: http://www.trafalgartavern.co.uk/
+website: http://trafalgartavern.co.uk/
 twitter: 
 phone: 020 8858 2909
 lat: 51.484552
@@ -5607,7 +5607,7 @@ surveyed: May 2014
 name: The Old Brewery
 address: Pepys Building, Old Royal Naval College, Greenwich, SE10 9LW
 area: Greenwich
-website: http://www.oldbrewerygreenwich.com/
+website: http://oldbrewerygreenwich.com/
 twitter: OldBrewery
 phone: 020 3327 1280
 lat: 51.482940
@@ -5639,7 +5639,7 @@ surveyed: May 2014
 name: Black Vanilla
 address: 5 College Approach, Greenwich, SE10 9HY
 area: Greenwich
-website: http://www.black-vanilla.com/
+website: http://black-vanilla.com/home.php
 twitter: _BlackVanilla_
 phone: 020 8858 3283
 lat: 51.481807
@@ -5695,7 +5695,7 @@ surveyed: May 2014
 name: Peter De Wit’s Cafe
 address: 21 Greenwich Church Street, Greenwich, SE10 9BJ
 area: Greenwich
-website: http://www.peterdewitscafe.co.uk/
+website: http://peterdewitscafe.co.uk/
 twitter: 
 phone: 020 8305 0048
 lat: 51.481087
@@ -5848,7 +5848,7 @@ surveyed: May 2014
 name: Pizza Express
 address: 4 Greenwich Church Street, Greenwich, SE10 9BG
 area: Greenwich
-website: http://www.pizzaexpress.com/
+website: http://pizzaexpress.com/
 twitter: PizzaExpress
 phone: 020 8853 2770
 lat: 51.480573
@@ -5873,7 +5873,7 @@ surveyed: May 2014
 name: Aji Ichiban
 address: 8 Nelson Road, Greenwich, SE10 9JB
 area: Greenwich
-website: http://www.aji-ichiban.co.uk/
+website: http://aji-ichiban.co.uk/
 twitter: 
 phone: 020 8858 7808
 lat: 51.480984
@@ -5906,7 +5906,7 @@ surveyed: May 2014
 name: Goddards
 address: 22 King William Walk, Greenwich, SE10 9HU
 area: Greenwich
-website: http://www.goddardsatgreenwich.co.uk/
+website: http://goddardsatgreenwich.co.uk/
 twitter: 
 phone: 020 8305 9612
 lat: 51.481391
@@ -5934,7 +5934,7 @@ surveyed: May 2014
 name: Vietnam Oriental
 address: 17-18 King William Walk, Greenwich, SE10 9JH
 area: Greenwich
-website: http://www.vietnamoriental.co.uk/
+website: http://vietnamoriental.co.uk/
 twitter: 
 phone: 020 8858 5888
 lat: 51.480932
@@ -5962,7 +5962,7 @@ surveyed: May 2014
 name: Jamie’s Italian
 address: 17-19 Nelson Road, Greenwich, SE10 9JB
 area: Greenwich
-website: https://www.jamieoliver.com/italian/
+website: http://jamieoliver.com/italian/restaurants/greenwich
 twitter: JamiesItalianUK
 phone: 020 3667 7087
 lat: 51.480914
@@ -5993,7 +5993,7 @@ name: The Mitre
 exclude: Being refurbished and rebranded, everything will change.
 address: 291 Greenwich High Road, Greenwich, SE10 8NA
 area: Greenwich
-website: http://www.themitregreenwich.co.uk/
+website: http://themitregreenwich.co.uk/
 twitter: MitreGreenwich
 phone: 020 8293 0037
 lat: 51.480083
@@ -6049,7 +6049,7 @@ surveyed: May 2014
 name: Taperia
 address: 180 Greenwich High Road, Greenwich, SE10 8NN
 area: Greenwich
-website: http://www.taperia.co.uk/
+website: http://taperia.co.uk/
 twitter: 
 phone: 020 8269 0003
 lat: 51.479637
@@ -6111,7 +6111,7 @@ surveyed: May 2014
 name: The Cheeseboard
 address: 26 Royal Hill, Greenwich, SE10 8RT
 area: Greenwich
-website: http://www.cheese-board.co.uk/
+website: http://cheese-board.co.uk/
 twitter: CheeseboardUK
 phone: 020 8305 0401
 lat: 51.477342
@@ -6139,7 +6139,7 @@ surveyed:
 name: Richard I
 address: 52-54 Royal Hill, Greenwich, SE10 8RT
 area: Greenwich
-website: http://www.richardthefirst.co.uk/
+website: http://richardthefirst.co.uk/
 twitter: RichardFirstPub
 phone: 020 8692 2996
 lat: 51.476574
@@ -6194,7 +6194,7 @@ surveyed:
 name: The Prince Of Greenwich
 address: 72 Royal Hill, Greenwich, SE10 8RT
 area: Greenwich
-website: http://www.theprinceofgreenwich.com/
+website: http://theprinceofgreenwich.com/
 twitter: 
 phone: 020 8691 5369
 lat: 51.476181
@@ -6221,7 +6221,7 @@ surveyed:
 name: Royal Teas
 address: 76 Royal Hill, Greenwich, SE10 8RT
 area: Greenwich
-website: http://www.royalteascafe.co.uk/
+website: http://royalteascafe.co.uk/
 twitter: 
 phone: 020 8691 7240
 lat: 51.476106
@@ -6246,7 +6246,7 @@ surveyed:
 name: Buenos Aires
 address: 86 Royal Hill, Greenwich, SE10 8RT
 area: Greenwich
-website: http://www.buenosairesltd.com/
+website: http://buenosairesltd.com/
 twitter: 
 phone: 020 8488 6764
 lat: 51.475940
@@ -6271,7 +6271,7 @@ surveyed:
 name: The Hill
 address: 89 Royal Hill, Greenwich, SE10 8SE
 area: Greenwich
-website: http://www.thehillgreenwich.com/
+website: http://thehillgreenwich.com/
 twitter: 
 phone: 020 8691 3626
 lat: 51.475611
@@ -6302,7 +6302,7 @@ surveyed:
 name: Ashburnham Arms
 address: 25 Ashburnham Grove, Greenwich, SE10 8UH
 area: Greenwich
-website: http://ashburnhamarms.com/
+website: http://www.ashburnhamarms.com/
 twitter: 
 phone: 020 8692 2007
 lat: 51.475648
@@ -6417,7 +6417,7 @@ surveyed: May 2014
 name: Sichuan Kitchen
 address: 213 East India Dock Road, Poplar, E14 0ED
 area: DLR
-website: http://www.sichuankitchen.co.uk/
+website: http://sichuankitchen.co.uk/
 twitter: 
 phone: 020 7515 8866
 lat: 51.511383
@@ -6478,7 +6478,7 @@ surveyed:
 name: Paul A Young
 address: 20 Royal Exchange, Threadneedle Street, City, EC3V 3LP
 area: Bank/Tower Hill
-website: http://www.paulayoung.co.uk/
+website: http://paulayoung.co.uk/
 twitter: paul_a_young
 phone: 020 7929 7007
 lat: 51.513861
@@ -6570,7 +6570,7 @@ surveyed:
 name: Jamaica Wine House
 address: St Michael’s Alley, off Cornhill, City, EC3V 9DS
 area: Bank/Tower Hill
-website: http://www.shepherdneame.co.uk/pubs/london/jamaica-wine-house
+website: http://shepherdneame.co.uk/pubs/london/jamaica-wine-house
 twitter: 
 phone: 020 7929 6972
 lat: 51.512919
@@ -6597,7 +6597,7 @@ surveyed: May 2014
 name: The Wurst Club
 address: 56-57 Cornhill, City, EC3V 3PD
 area: Bank/Tower Hill
-website: http://www.the-wurst-club.co.uk/
+website: http://the-wurst-club.co.uk/
 twitter: 
 phone: 020 7283 8008
 lat: 51.513373
@@ -6631,7 +6631,7 @@ name: The Ship
 exclude: Will be closed for refurbishment in August.
 address: 11 Talbot Court, EC3V 0BP
 area: Bank/Tower Hill
-website: http://www.nicholsonspubs.co.uk/theshiptalbotcourtlondon/
+website: http://nicholsonspubs.co.uk/theshiptalbotcourtlondon/
 twitter: 
 phone: 020 7929 3903
 lat: 51.512286
@@ -6656,7 +6656,7 @@ surveyed:
 name: The Walrus and the Carpenter
 address: 45 Monument Street, City, EC3R 8BU
 area: Bank/Tower Hill
-website: http://www.nicholsonspubs.co.uk/thewalrusandthecarpentermonumentlondon/
+website: http://nicholsonspubs.co.uk/thewalrusandthecarpentermonumentlondon/
 twitter: The_Walrus45
 phone: 020 7621 1647
 lat: 51.509509
@@ -6683,7 +6683,7 @@ surveyed: May 2014
 name: Wagamama
 address: 2B Tower Place, Tower Hill, EC3N 4EE
 area: Bank/Tower Hill
-website: http://www.wagamama.com/
+website: http://wagamama.com/
 twitter: Wagamama_UK
 phone: 020 7283 5897
 lat: 51.508871
@@ -6710,7 +6710,7 @@ surveyed: May 2014
 name: Brasserie Blanc
 address: 14 Trinity Square, Tower Hill, EC3N 4AA
 area: Bank/Tower Hill
-website: http://www.brasserieblanc.com/
+website: http://brasserieblanc.com/
 twitter: BBlancTower
 phone: 020 7480 5500
 lat: 51.509752
@@ -6741,7 +6741,7 @@ surveyed: May 2014
 name: Bodean’s
 address: 16 Byward Street, Tower Hill, EC3R 5BA
 area: Bank/Tower Hill
-website: http://www.bodeansbbq.com/
+website: http://bodeansbbq.com/
 twitter: 
 phone: 020 7488 3883
 lat: 51.509704
@@ -6795,7 +6795,7 @@ surveyed: May 2014
 name: Assenheims 56
 address: 19-21 Great Tower Street, EC3R 5AR
 area: Bank/Tower Hill
-website: http://www.as56.co.uk/
+website: http://as56.co.uk/
 twitter: 
 phone: 020 7283 0032
 lat: 51.509792
@@ -6824,7 +6824,7 @@ surveyed:
 name: Bavarian Beerhouse
 address: The Arches, 9 Crutched Friars, City, EC3N 2AU
 area: Bank/Tower Hill
-website: http://www.bavarian-beerhouse.co.uk/
+website: http://bavarian-beerhouse.co.uk/
 twitter: BavarianBeerUK
 phone: 0844 330 2005
 lat: 51.511323
@@ -6855,7 +6855,7 @@ surveyed: May 2014
 name: The Chamberlain
 address: 130-135 Minories, City, EC3N 1NU
 area: Bank/Tower Hill
-website: http://www.thechamberlainhotel.co.uk/
+website: http://thechamberlainhotel.co.uk/
 twitter: 
 phone: 020 7680 1500
 lat: 51.512241
@@ -6884,7 +6884,7 @@ surveyed: May 2014
 name: Velo
 address: 104 Tooley Street, London Bridge, SE1 2TH
 area: London Bridge
-website: http://www.velorestaurant.com/
+website: http://velorestaurant.com/
 twitter: velorestaurant
 phone: 020 7407 9310
 lat: 51.504297
@@ -6942,7 +6942,7 @@ surveyed: April 2014
 name: Magdalen
 address: 152 Tooley Street, London Bridge, SE1 2TU
 area: London Bridge
-website: http://www.magdalenrestaurant.co.uk/
+website: http://magdalenrestaurant.co.uk/
 twitter: MagdalenSE1
 phone: 020 7403 1342
 lat: 51.503661
@@ -6970,7 +6970,7 @@ surveyed: April 2014
 name: Vivat Bacchus
 address: 4 Hays Lane, London Bridge, SE1 2HB
 area: London Bridge
-website: http://www.vivatbacchus.co.uk/
+website: http://vivatbacchus.co.uk/
 twitter: Vivat_Bacchus
 phone: 020 7234 0891
 lat: 51.505711
@@ -7028,7 +7028,7 @@ surveyed: April 2014
 name: Tito’s
 address: 4-6 London Bridge Street, London Bridge, SE1 9SG
 area: London Bridge
-website: http://www.titosperuvianrestaurant.com/
+website: http://titosperuvianrestaurant.com/
 twitter: 
 phone: 020 7407 7787
 lat: 51.505435
@@ -7061,7 +7061,7 @@ surveyed: April 2014
 name: Tapas Brindisa
 address: 18-20 Southwark Street, London Bridge, SE1 1TJ
 area: London Bridge
-website: http://www.brindisatapaskitchens.com/
+website: http://brindisatapaskitchens.com/
 twitter: Brindisa
 phone: 020 7357 8880
 lat: 51.504939
@@ -7088,7 +7088,7 @@ surveyed: April 2014
 name: Monmouth Coffee Company
 address: 2 Park Street, London Bridge, SE1 9AB
 area: London Bridge
-website: http://www.monmouthcoffee.co.uk/
+website: http://monmouthcoffee.co.uk/
 twitter: 
 phone: 020 7232 3010
 lat: 51.505490
@@ -7117,7 +7117,7 @@ surveyed: April 2014
 name: Wright Brothers
 address: 11 Stoney Street, London Bridge, SE1 9AD
 area: London Bridge
-website: http://www.thewrightbrothers.co.uk/
+website: http://thewrightbrothers.co.uk/
 twitter: WrightBrosLDN
 phone: 020 7403 9554
 lat: 51.505626
@@ -7169,7 +7169,7 @@ surveyed: April 2014
 name: The Market Porter
 address: 9 Stoney Street, Bermondsey, SE1 9AA
 area: London Bridge
-website: http://www.markettaverns.co.uk/
+website: http://markettaverns.co.uk/
 twitter: TheMarketPorter
 phone: 020 7407 2495
 lat: 51.505397
@@ -7197,7 +7197,7 @@ surveyed: April 2014
 name: Champor-Champor
 address: 62-64 Weston Street, London Bridge, SE1 3QJ
 area: London Bridge
-website: http://www.champor-champor.com/
+website: http://champor-champor.com/
 twitter: ChamporChampor
 phone: 020 7403 4600
 lat: 51.502450
@@ -7252,7 +7252,7 @@ surveyed: April 2014
 name: Casse-Croûte
 address: 109 Bermondsey Street, Bermondsey, SE1 3XB
 area: London Bridge
-website: http://www.cassecroute.co.uk/
+website: http://cassecroute.co.uk/
 twitter: CasseCroute109
 phone: 020 7407 2140
 lat: 51.500507
@@ -7307,7 +7307,7 @@ surveyed: April 2014
 name: Caphe House
 address: 114 Bermondsey Street, Bermondsey, SE1 3TX
 area: London Bridge
-website: http://www.caphehouse.com/
+website: http://caphehouse.com/
 twitter: 
 phone: 020 7403 3574
 lat: 51.500338
@@ -7332,7 +7332,7 @@ surveyed:
 name: Zucca
 address: 184 Bermondsey Street, Bermondsey, SE1 3TQ
 area: London Bridge
-website: http://www.zuccalondon.com/
+website: http://zuccalondon.com/
 twitter: ZuccaBermondsey
 phone: 020 7378 6809
 lat: 51.498687
@@ -7452,7 +7452,7 @@ surveyed: April 2014
 name: Constancia
 address: 52 Tanner Street, Bermondsey, SE1 3PH
 area: London Bridge
-website: http://www.constancia.co.uk/
+website: http://constancia.co.uk/
 twitter: ConstanciaGrill
 phone: 020 7234 0676
 lat: 51.500052
@@ -7485,7 +7485,7 @@ surveyed:
 name: The Draft House
 address: 206-208 Tower Bridge Road, Bermondsey, SE1 2UP
 area: London Bridge
-website: http://www.drafthouse.co.uk/
+website: http://drafthouse.co.uk/
 twitter: DraftHouseTB
 phone: 020 7378 9995
 lat: 51.502842
@@ -7516,7 +7516,7 @@ surveyed: April 2014
 name: Tentazioni Fine Food
 address: 19 The Circle, Queen Elizabeth Street, Bermondsey, SE1 2JE
 area: London Bridge
-website: http://www.tentazioni.co.uk/delicatessen/
+website: http://tentazioni.co.uk/delicatessen/
 twitter: TentazioniWorld
 phone: 020 7407 7529
 lat: 51.501370
@@ -7550,7 +7550,7 @@ surveyed: April 2014
 name: Tentazioni Restaurant
 address: Lloyds Wharf, 2 Mill Street, Bermondsey, SE1 2BD
 area: London Bridge
-website: http://www.tentazioni.co.uk/restaurant/
+website: http://tentazioni.co.uk/restaurant/
 twitter: TentazioniWorld
 phone: 020 7237 1100
 lat: 51.500807
@@ -7607,7 +7607,7 @@ surveyed: April 2014
 name: Teapod
 address: Cardamom Building, 31 Shad Thames, Bermondsey, SE1 2YR
 area: London Bridge
-website: http://www.teapodtea.co.uk/
+website: http://teapodtea.co.uk/
 twitter: TeapodLondon
 phone: 020 7407 0000
 lat: 51.503490
@@ -7738,7 +7738,7 @@ surveyed: info from personal visits
 name: Red Lion
 address: 640 Leytonstone High Road, Leytonstone, E11 3AA
 area: Central Line
-website: http://www.theredlionleytonstone.com/
+website: http://theredlionleytonstone.com/
 twitter: RedLionE11
 phone: 020 8988 2929
 lat: 51.567391
@@ -7847,7 +7847,7 @@ surveyed:
 name: Black Lion
 address: 59-61 High Street, Plaistow, E13 0AD
 area: District Line
-website: http://www.blacklionplaistow.co.uk/
+website: http://blacklionplaistow.co.uk/
 twitter: 
 phone: 020 8472 2351
 lat: 51.530171
@@ -7904,7 +7904,7 @@ surveyed: June 2014
 name: Saravanaa Bhavan
 address: 300 High Street North, East Ham, E12 6SA
 area: East Ham
-website: http://www.saravanabhavan.co.uk/
+website: http://saravanabhavan.co.uk/
 twitter: 
 phone: 020 8552 4677
 lat: 51.542408
@@ -7962,7 +7962,7 @@ surveyed: June 2014
 name: Kabayan
 address: 12 Walton Road, East Ham, E13 9BP
 area: East Ham
-website: http://www.filipinorestaurant.co/
+website: http://filipinorestaurant.co/
 twitter: 
 phone: 020 8470 1117
 lat: 51.532180
@@ -7993,7 +7993,7 @@ surveyed: June 2014
 name: Chennai Dosa
 address: 339 High Street North, East Ham, E12 6PQ
 area: East Ham
-website: http://www.chennaidosa.com/
+website: http://chennaidosa.com/
 twitter: 
 phone: 020 8470 6566
 lat: 51.543770
@@ -8045,7 +8045,7 @@ surveyed:
 name: Piccalilli Caff
 address: Surrey Docks City Farm, Rotherhithe Street, Rotherhithe, SE16 5ET
 area: Canary Wharf
-website: http://www.piccalillicaff.com/
+website: http://piccalillicaff.com/
 twitter: 
 phone: 020 7237 6892
 lat: 51.499849
@@ -8097,7 +8097,7 @@ surveyed:
 name: Moka East
 address: The Greenway, Marshgate Lane, Stratford, E15 2PJ
 area: Stratford
-website: http://www.theviewtube.co.uk/eat/
+website: http://theviewtube.co.uk/eat/
 twitter: MokaEast
 phone: 07506 870837
 lat: 51.535378
@@ -8151,7 +8151,7 @@ surveyed: June 2014
 name: Basilico
 address: 653 Commercial Road, Limehouse, E14 7LW
 area: Limehouse
-website: http://www.basilico.co.uk/
+website: http://basilico.co.uk/
 twitter: basilicopizzas
 phone: 020 3302 5959
 lat: 51.512777
@@ -8179,7 +8179,7 @@ surveyed: June 2014
 name: Basilico
 address: 103 Tower Bridge Road, Bermondsey, SE1 4TW
 area: London Bridge
-website: http://www.basilico.co.uk/
+website: http://basilico.co.uk/
 twitter: basilicopizzas
 phone: 020 3302 7070
 lat: 51.496638
@@ -8208,7 +8208,7 @@ surveyed: April 2014
 name: Moshi Moshi
 address: Unit 24, Liverpool Street Station, EC2M 7PY
 area: Central Line
-website: http://www.moshimoshi.co.uk/
+website: http://moshimoshi.co.uk/
 twitter: MoshiMoshiLDN
 phone: 020 7247 3227
 lat: 51.517766
@@ -8233,7 +8233,7 @@ surveyed:
 name: The Rooftop Cafe
 address: The Exchange, 28 London Bridge Street, London Bridge, SE1 9SG
 area: London Bridge
-website: http://www.theexchange.so/rooftop
+website: http://theexchange.so/rooftop
 twitter: ExchangeLDN
 phone: 020 3102 3770
 lat: 51.504951
@@ -8342,7 +8342,7 @@ surveyed: June 2014
 name: Byron
 address: Unit 3, The O2, Peninsula Square, SE10 0DX
 area: O2
-website: http://www.byronhamburgers.com/
+website: http://byronhamburgers.com/
 twitter: byronhamburgers
 phone: 020 8269 2273
 lat: 51.502617
@@ -8367,7 +8367,7 @@ surveyed: June 2014
 name: Chiquito
 address: Peninsula Square, SE10 0EN
 area: O2
-website: http://www.chiquito.co.uk/
+website: http://chiquito.co.uk/
 twitter: TheChiquito
 phone: 020 8269 4200
 lat: 51.501511
@@ -8392,7 +8392,7 @@ surveyed: June 2014
 name: Frankie & Benny’s
 address: Unit 17, The O2, Peninsula Square, SE10 0DX
 area: O2
-website: http://www.frankieandbennys.com/
+website: http://frankieandbennys.com/
 twitter: frankienbennys
 phone: 020 8293 6160
 lat: 51.502945
@@ -8417,7 +8417,7 @@ surveyed: June 2014
 name: Gaucho
 address: Unit 5, The O2, Peninsula Square, SE10 0DX
 area: O2
-website: http://www.gauchorestaurants.co.uk/
+website: http://gauchorestaurants.co.uk/
 twitter: gauchogroup
 phone: 020 8858 7711
 lat: 51.502140
@@ -8444,7 +8444,7 @@ surveyed: June 2014
 name: Jimmy’s World Grill & Bar
 address: The O2, Peninsula Square, SE10 0DX
 area: O2
-website: http://www.jimmysworldgrill.co.uk/
+website: http://jimmysworldgrill.co.uk/
 twitter: 
 phone: 020 8465 5511
 lat: 51.502750
@@ -8469,7 +8469,7 @@ surveyed: June 2014
 name: Las Iguanas
 address: Unit 3.03, The O2, Peninsula Square, SE10 0DX
 area: O2
-website: http://www.iguanas.co.uk/
+website: http://iguanas.co.uk/
 twitter: lasiguanas
 phone: 020 8312 8680
 lat: 51.503750
@@ -8494,7 +8494,7 @@ surveyed: June 2014
 name: Nando’s
 address: Unit 25, The O2, Peninsula Square, SE10 0DX
 area: O2
-website: http://www.nandos.co.uk/
+website: http://nandos.co.uk/
 twitter: NandosUK
 phone: 020 8269 2401
 lat: 51.503521
@@ -8519,7 +8519,7 @@ surveyed: June 2014
 name: Rodizio Rico
 address: Unit 15, The O2, Peninsula Square, SE10 0DX
 area: O2
-website: http://www.rodiziorico.com/
+website: http://rodiziorico.com/
 twitter: RodizioRico
 phone: 020 8858 6333
 lat: 51.502743
@@ -8544,7 +8544,7 @@ surveyed: June 2014
 name: Wagamama
 address: Peninsula Square, SE10 0ES
 area: O2
-website: http://www.wagamama.com/
+website: http://wagamama.com/
 twitter: wagamama_uk
 phone: 020 8269 1214
 lat: 51.500851
@@ -8569,7 +8569,7 @@ surveyed: June 2014
 name: Wasabi
 address: Unit 16, The O2, Peninsula Square, SE10 0DY
 area: O2
-website: http://www.wasabi.uk.com/branches/1316
+website: http://wasabi.uk.com/branches/1316
 twitter: 
 phone: 020 8269 2620
 lat: 51.502914
@@ -8594,7 +8594,7 @@ surveyed: June 2014
 name: Zizzi
 address: Unit 24, The O2, Peninsula Square, SE10 0DX
 area: O2
-website: http://www.zizzi.co.uk/
+website: http://zizzi.co.uk/
 twitter: WeAreZizzi
 phone: 020 8858 9097
 lat: 51.503368
