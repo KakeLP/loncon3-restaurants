@@ -1,0 +1,42 @@
+*** Loncon 3 Restaurant Guide ***
+
+[% INCLUDE introduction.tt | replace( '<\/?p>', '' ) | replace( '<\/?h2>', '**' ) | replace( '<\/?h3>', '*' )
+ | replace( '\n<ul>', '' ) | replace( '<\/ul>', '' ) | replace( '<\/?li>', '' )
+ | replace( '<a\s+href="[^"]*">RADAR key<\/a>', 'RADAR key (crm.disabilityrightsuk.org/radar-nks-key)' )
+ | replace( '<a\s+href="[^"]*">the Transport\s+Accessibility section of the Transport for London website<\/a>', 'the Transport Accessibility section
+of the Transport for London website (tfl.gov.uk/transport-accessibility/)' )
+ | replace( '&#127860;', '[E]' ) | replace( '&#128092;', '[T]' ) | replace( '&#128665;', '[D]' ) | replace( '&#128214;', '[B]' )
+ | replace( '&#127863;', '[A]' ) -%]
+
+**The List**
+
+The listings below are divided into the following areas:
+[% FOREACH area = areas %]
+- [% area.name %][% END %]
+
+[%- FOREACH area = areas -%]
+
+*[% area.name %]*
+
+[% IF area.overview %][% area.overview %][% END %]
+
+[% IF area.access %][% area.access %][% END %]
+
+[%- FOREACH venue = area.venues %]
+[% venue.name %], [% venue.address %].
+    [%- IF venue.website %] [% venue.website.display %][% IF venue.twitter OR venue.phone %] ·[% ELSE %] .[% END %][% END %]
+    [%- IF venue.twitter %] @[% venue.twitter %][% IF venue.phone %] ·[% ELSE %].[% END %][% END %]
+    [%- IF venue.phone %] [% venue.phone %].[% END %]
+    [%- IF venue.summary %] [% venue.summary | replace( '<\/?cite>', '_' ) %][% END %]
+    [%- IF venue.access %] *[% venue.access %]*[% END %]
+    [%- IF 1 or venue.icons %] [% END %]
+    [%- IF venue.item("eat-in") == "yes" %][E][% END %]
+    [%- IF venue.takeaway == "yes" %][T][% END %]
+    [%- IF venue.delivery == "yes" %][D][% END %]
+    [%- IF venue.bookings == "yes" %][B][% END %]
+    [%- IF venue.licensed == "yes" %][A][% END %]
+    [%- IF venue.stations %] Public transport: [% venue.stations %].[% END %]
+    [%- IF venue.hours %] [% venue.hours %][% UNLESS venue.hours.match('\.$') %].[% END %][% END %]
+  [% END %]
+
+[% END %]

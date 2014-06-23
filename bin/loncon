@@ -151,6 +151,12 @@ open( $output_fh, ">", "$webdir/list.html" ) or die $!;
 $tt->process( "list.tt", $tt_vars, $output_fh ) or die $tt->error;
 close $output_fh;
 
+# Write a plain-text version for Publications.
+open( $output_fh, ">", "$webdir/plain-text-for-publications.txt" ) or die $!;
+$tt->process( "plain-text-for-publications.tt", $tt_vars, $output_fh ) or die $tt->error;
+close $output_fh;
+
+# Deploy stylesheet, icons, and Javascript.
 copy( "$datadir/stylesheets/loncon.css", "$webdir/stylesheets" ) || die $!;
 copy( "$datadir/js/map.js", "$webdir/js" ) || die $!;
 if ( !$laptop ) {
