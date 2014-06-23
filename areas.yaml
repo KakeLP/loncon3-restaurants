@@ -160,9 +160,11 @@ access: All DLR stations are step-free accessible.  Stratford Station is
 ---
 name: Whitechapel
 description: London’s original “East End”, a large area served by the DLR
-  (Shadwell Station), the District Line and Hammersmith & City Line (Aldgate
+  (Shadwell Station for the eastern side, Tower Gateway Station for the
+  western side), the District Line and Hammersmith & City Line (Aldgate
   East Station and Whitechapel Station), and the Circle Line and Metropolitan
   Line (Aldgate Station).  The western part of it is also walkable from the area
   we’ve designated as “Bank/Tower Hill”.
-access: Shadwell Station is step-free accessible from the DLR.  Other stations
-  in the area have mandatory steps.
+access: Shadwell Station (DLR only; the London Overground part has steps) and
+  Tower Gateway Station are step-free accessible.  Other stations in the area
+  have mandatory steps.
