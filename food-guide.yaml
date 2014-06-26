@@ -8300,7 +8300,7 @@ long: 0.005289
 station: North Greenwich
 type: restaurant
 cuisine: American
-licensed: 
+licensed: yes
 byob: 
 bookings: no
 eat-in: yes
@@ -8325,7 +8325,7 @@ long: 0.002811
 station: North Greenwich
 type: restaurant
 cuisine: American
-licensed: 
+licensed: yes
 byob: 
 bookings: no
 eat-in: yes
@@ -8352,9 +8352,9 @@ type: restaurant
 cuisine: burgers
 licensed: yes
 byob: 
-bookings: no (except for parties of 8 or more)
+bookings: yes
 eat-in: yes
-takeaway: 
+takeaway: yes
 delivery: 
 just-drink: 
 hours: "Mon-Thu: 11:30am-10pm; Fri-Sat: 11:30am-11:30pm; Sun: 11:30am-10pm"
@@ -8375,7 +8375,7 @@ long: 0.005161
 station: North Greenwich
 type: restaurant
 cuisine: Tex-Mex
-licensed: 
+licensed: yes
 byob: 
 bookings: no
 eat-in: yes
@@ -8400,11 +8400,11 @@ long: 0.004662
 station: North Greenwich
 type: restaurant
 cuisine: American
-licensed: 
+licensed: yes
 byob: 
 bookings: no
 eat-in: yes
-takeaway: 
+takeaway: yes
 delivery: 
 just-drink: 
 hours: "Mon-Sun: 9am-10:30pm & pm-10pm; concert nights: noon-midnight"
@@ -8429,7 +8429,7 @@ cuisine:
   - steak
 licensed: yes
 byob: 
-bookings: no
+bookings: yes
 eat-in: yes
 takeaway: 
 delivery: 
@@ -8452,9 +8452,9 @@ long: 0.005214
 station: North Greenwich
 type: restaurant
 cuisine: global
-licensed: 
+licensed: yes
 byob: 
-bookings: no
+bookings: yes
 eat-in: yes
 takeaway: 
 delivery: 
@@ -8477,7 +8477,7 @@ long: 0.004721
 station: North Greenwich
 type: restaurant
 cuisine: South American
-licensed: 
+licensed: yes
 byob: 
 bookings: yes
 eat-in: yes
@@ -8502,7 +8502,7 @@ long: 0.004962
 station: North Greenwich
 type: restaurant
 cuisine: South African
-licensed: 
+licensed: yes
 byob: 
 bookings: no
 eat-in: yes
@@ -8527,7 +8527,7 @@ long: 0.004758
 station: North Greenwich
 type: restaurant
 cuisine: Brazilian
-licensed: 
+licensed: yes
 byob: 
 bookings: no
 eat-in: yes
@@ -8552,7 +8552,7 @@ long: 0.005729
 station: North Greenwich
 type: restaurant
 cuisine: Japanese
-licensed: 
+licensed: yes
 byob: 
 bookings: no
 eat-in: yes
@@ -8577,11 +8577,11 @@ long: 0.004807
 station: North Greenwich
 type: restaurant
 cuisine: Japanese
-licensed: 
+licensed: yes
 byob: 
-bookings: 
+bookings: yes
 eat-in: yes
-takeaway: 
+takeaway: yes
 delivery: 
 just-drink: 
 hours: "Mon-Sun: noon-9pm; concert nights: noon-midnight."
@@ -8602,7 +8602,7 @@ long: 0.005085
 station: North Greenwich
 type: restaurant
 cuisine: Italian
-licensed: 
+licensed: yes
 byob: 
 bookings: no
 eat-in: yes
