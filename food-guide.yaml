@@ -958,15 +958,15 @@ cuisine: Indian
 licensed: yes
 byob: 
 bookings: 
-eat-in: 
-takeaway: 
-delivery: 
+eat-in: yes
+takeaway: yes
+delivery: yes
 just-drink: 
 hours: "Mon-Sun: 11am-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12560916804/
   - http://www.flickr.com/photos/kake_pugh/12560423855/
-summary: Try the gol gappa for an interesting snack not found on all Indian menus in the UK.
+summary: Large Indian restaurant and bar with private function rooms.  Try the gol gappa for an interesting snack that’s found on far too few menus in the UK.
 access: 
 links: 
 surveyed: 
@@ -1041,8 +1041,8 @@ cuisine:
 licensed: yes
 byob: 
 bookings: 
-eat-in: 
-takeaway: 
+eat-in: yes
+takeaway: yes
 delivery: 
 just-drink: 
 hours: "Mon-Sun: 8am-10pm"
@@ -1054,7 +1054,7 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12569038083/
   - http://www.flickr.com/photos/kake_pugh/12569362654/
   - http://www.flickr.com/photos/kake_pugh/12568999113/
-summary: Burgers, traditional British fried breakfasts, hot meals, sandwiches, salads, and pizzas.
+summary: Small cafe serving burgers, traditional British fried breakfasts, hot meals, sandwiches, salads, and pizzas.  Wines, spirits, bottled beers including London Pride, and bottled ciders including Magners and Kopparberg.
 access: 
 links: 
 surveyed: 
@@ -1296,7 +1296,7 @@ cuisine:
 licensed: 
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
@@ -1407,17 +1407,17 @@ cuisine: British
 licensed: yes
 byob: 
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
-just-drink: 
+just-drink: yes
 hours: "Mon-Sat: 11am-midnight; Sun 11am-11pm (food hours differ)"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12637059783/
   - http://www.flickr.com/photos/kake_pugh/12637059783/
   - http://www.flickr.com/photos/kake_pugh/12637085623/
   - http://www.flickr.com/photos/kake_pugh/12637085623/
-summary: 
+summary: Gastropub serving real ales and modern British food including a monthly cheese selection.  Bar snacks as well as full meals.  Vegetarian options are sparse.
 access: Step-free aside from riverside terrace and some interior seating.
 links: http://london.randomness.org.uk/wiki.cgi?Gun,_E14_9NS
 surveyed: 
@@ -1865,16 +1865,16 @@ cuisine: Italian
 licensed: yes
 byob: 
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
-hours: "Food served Mon-Wed 11:30am-11pm, Thu-Sat 11:30am-midnight, closed Sun"
+hours: "Food served Mon-Wed 11:30am-11pm; Thu-Sat 11:30am-midnight; Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12751864263/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12751847783/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12751830823/in/photostream
-summary: Chain Italian restaurant.
+summary: Italian restaurant, part of a small chain.
 access: 
 links: 
 surveyed: 
@@ -1893,7 +1893,7 @@ cuisine: Italian
 licensed: yes
 byob: 
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
@@ -2021,13 +2021,13 @@ cuisine: British
 licensed: yes
 byob: 
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
 hours: "Mon-Tue: noon-11pm; Wed-Fri: noon-midnight; Sat: 6pm-midnight; Sun: noon-4pm"
 photo: http://www.flickr.com/photos/kake_pugh/12819546984/in/photostream
-summary: Oysters, caviar, steaks, whisky, cigars, and live jazz.
+summary: Bar and restaurant featuring oysters, caviar, steaks, whisky, cigars, and live jazz.
 access: 
 links: 
 surveyed: 
@@ -2071,18 +2071,19 @@ cuisine: Spanish
 licensed: yes
 byob: 
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
 delivery: 
 just-drink: 
 hours: "Mon-Sat: 11:30am-11pm; Sun: noon-4pm"
 photo: http://www.flickr.com/photos/kake_pugh/12819109735/in/photostream
-summary: Modern Spanish cuisine including tapas.
+summary: Spanish restaurant and bar offering cocktails and tapas.
 access: 
 links: 
 surveyed: 
 ---
 name: Sri Nam
+exclude: No time to survey, haven't visited recently enough to confirm it's anything unusual.
 address: 10 Cabot Square, Canary Wharf, E14 4EY
 area: Canary Wharf
 website: http://orientalrestaurantgroup.co.uk/srinam.html
@@ -2150,13 +2151,13 @@ cuisine: Chinese
 licensed: yes
 byob: 
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
 hours: "Mon-Thu: noon-10:30pm; Fri-Sat: noon-11pm; Sun: 11am-9:30pm"
-photo: http://www.flickr.com/photos/kake_pugh/12832502835/in/photostream
-summary: Cantonese food including dim sum.  Part of a small chain.
+photo: http://www.flickr.com/photos/kake_pugh/12832502835/
+summary: Waterfront restaurant serving Cantonese food including dim sum.  Part of a small chain.
 access: 
 links: 
 surveyed: 
@@ -2179,12 +2180,12 @@ cuisine:
 licensed: yes
 byob: 
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
 delivery: 
 just-drink: 
 hours: "Mon-Sun: noon-11pm"
-photo: http://www.flickr.com/photos/kake_pugh/12832914344/in/photostream
+photo: http://www.flickr.com/photos/kake_pugh/12832914344/
 summary: Argentine restaurant specialising in steak.  Part of a small chain.
 access: 
 links: 
@@ -2253,7 +2254,7 @@ address: 76 Narrow Street, Limehouse, E14 8BP
 area: Limehouse
 website: http://thegrapes.co.uk/
 twitter: TheGrapesLondon
-phone: 0207 987 4396
+phone: 020 7987 4396
 lat: 51.508933
 long: -0.033867449
 station: Westferry
@@ -2262,10 +2263,10 @@ cuisine: British
 licensed: yes
 byob: 
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
-just-drink: 
+just-drink: yes
 hours: "Mon-Wed: noon-3:30pm, 5:30pm-11:30pm; Thu-Sat: noon-11:30pm; Sun: noon-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12832874984/in/photostream
@@ -2273,7 +2274,7 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12832500793/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12832848514/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12832848514/in/photostream
-summary: Historic riverside pub with a restaurant upstairs.
+summary: Historic riverside pub with a restaurant upstairs.  Real ales and British food.
 access: 
 links: 
 surveyed: 
@@ -2283,7 +2284,7 @@ address: 44 Narrow Street, Limehouse, E14 8DP
 area: Limehouse
 website: http://gordonramsay.com/thenarrow/
 twitter: 
-phone: 0207 592 7950
+phone: 020 7592 7950
 lat: 51.509746
 long: -0.037732914
 station: Limehouse
@@ -2292,7 +2293,7 @@ cuisine: British
 licensed: yes
 byob: 
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
@@ -2921,6 +2922,7 @@ links:
 surveyed: 
 ---
 name: Dockmaster’s House
+exclude: Haven’t been able to confirm this is still open despite two visits during its alleged opening hours.
 address: 1 Hertsmere Road, Poplar, E14 8JJ
 area: Canary Wharf
 website: http://dockmastershouse.com/
@@ -3219,7 +3221,7 @@ cuisine: Italian
 licensed: 
 byob: 
 bookings: 
-eat-in: 
+eat-in: no
 takeaway: yes
 delivery: yes
 just-drink: 
@@ -4779,7 +4781,7 @@ cuisine:
 licensed: 
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
@@ -4947,10 +4949,10 @@ cuisine: British
 licensed: yes
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
-just-drink: 
+just-drink: yes
 hours: "Mon-Fri: 11am-11pm; Sat-Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/13062411344/
 summary: Small, traditional British pub serving real ale, sandwiches, and jacket potatoes.
@@ -5126,7 +5128,7 @@ cuisine:
 licensed: 
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
@@ -5306,10 +5308,10 @@ cuisine:
 licensed: yes
 byob: 
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
-just-drink: 
+just-drink: yes
 hours: "Mon: closed; Tue-Sat: from 5:30pm; Sun: from 11:30am"
 photo: http://www.flickr.com/photos/kake_pugh/13112589744/
 summary: Independent bar and restaurant with a wood-fired pizza oven. Breads, patisserie, and savouries also baked in-house. Lagers and ciders on tap, and it’s fine to visit for just a drink.
@@ -5549,7 +5551,7 @@ cuisine: Vietnamese
 licensed: 
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
@@ -6145,7 +6147,7 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/13190857835/
   - http://www.flickr.com/photos/kake_pugh/13195487275/
   - http://www.flickr.com/photos/kake_pugh/13195763094/
-summary: Bread, cheese, beer, and wine from local and international sources. Cheese suppliers include London-based Kappacasein; beer suppliers include London breweries such as Meantime, Kernel, and the Brockley Brewery.
+summary: Small shop stocking bread, cheese, beer, and wine from local and international sources. Cheese suppliers include London-based Kappacasein; beer suppliers include London breweries such as Meantime, Kernel, and the Brockley Brewery.
 access: 
 links: 
 surveyed: 
@@ -6164,16 +6166,16 @@ cuisine: British
 licensed: yes
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
-just-drink: 
+just-drink: yes
 hours: "Mon-Sat: noon-11pm; Sun: noon-10:30pm. Food served Mon-Sat: noon-9pm; Sun: noon-8pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13195418985/
   - http://www.flickr.com/photos/kake_pugh/13195696364/
 summary: Cosy locals’ pub serving Young’s ales, guest ales from London breweries, and American craft beers. A short and focused menu offers traditional pub food such as fish and chips, sausage and mash, and home-made pheasant pie. Vegetarian options are scarce. Large beer garden at the back.
-access: No steps at entrances, but steps down to the toilets from both bars. I think there was at least one step to the beer garden.
+access: No steps at entrance, but steps to toilets and beer garden.
 links: http://london.randomness.org.uk/wiki.cgi?Richard_I,_SE10_8RT
 surveyed: 
 ---
@@ -6191,10 +6193,10 @@ cuisine: British
 licensed: yes
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
-just-drink: 
+just-drink: yes
 hours: "Mon-Fri: noon-11pm; Sat: 11am-11pm; Sun: 11:30am-10:30pm. Food served Mon-Fri: noon-4pm, 5:30pm-10pm; Sat: 11am-10pm; Sun: noon-9pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13195359625/
@@ -6247,13 +6249,13 @@ cuisine: British
 licensed: 
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
 hours: "Mon-Sat: 9:30am-5:30pm; Sun: 10:30am-5:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/13195419743/
-summary: 
+summary: Long-established vegetarian cafe serving loose-leaf teas, breakfast, brunch, and lunch.
 access: 
 links: 
 surveyed: 
@@ -6332,10 +6334,10 @@ cuisine:
 licensed: yes
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
-just-drink: 
+just-drink: yes
 hours: "Mon-Sat: noon-midnight; Sun: noon-11pm.  Food served Tue-Sat: noon-2pm, 6pm-9pm; Sun: noon-4pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13197799025/
@@ -6479,7 +6481,7 @@ cuisine: Chinese
 licensed: 
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
@@ -7229,7 +7231,7 @@ cuisine:
 licensed: yes
 byob: 
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
@@ -7238,7 +7240,7 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/13334604744/
   - http://www.flickr.com/photos/kake_pugh/13334560214/
   - http://www.flickr.com/photos/kake_pugh/13334179545/
-summary: Thai-Malaysian fusion. One or two vegetarian plus one or two vegan options per course.
+summary: Small, cosy restaurant offering Thai-Malaysian fusion.  Vegetarian and vegan options are sparse.
 access: 
 links: 
 surveyed: 
@@ -7327,7 +7329,7 @@ name: Caphe House
 address: 114 Bermondsey Street, Bermondsey, SE1 3TX
 area: London Bridge
 website: http://caphehouse.com/
-twitter: 
+twitter: CapheHouse
 phone: 020 7403 3574
 lat: 51.500338
 long: -0.081737235
@@ -7337,13 +7339,13 @@ cuisine: Vietnamese
 licensed: 
 byob: 
 bookings: 
-eat-in: 
-takeaway: 
+eat-in: yes
+takeaway: yes
 delivery: 
 just-drink: 
 hours: "Mon-Fri: 8am-5pm; Sat: 9am-5pm; Sun: closed"
 photo: https://www.flickr.com/photos/kake_pugh/13347101535/
-summary: Small cafe with a covered outdoor terrace just across the street. Phở (rice noodle soup), bánh mì (Vietnamese baguettes), bagels, salads, summer rolls, steamed buns.
+summary: Small Vietnamese cafe with a covered outdoor terrace just across the street. Phở (rice noodle soup), bánh mì (Vietnamese baguettes), bagels, salads, summer rolls, steamed buns, and coffee.  Expect queues at lunchtime.
 access: 
 links: http://chowhound.chow.com/topics/638398
 surveyed: 
@@ -7488,15 +7490,15 @@ cuisine:
 licensed: yes
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: 
 delivery: 
 just-drink: 
-hours: "Mon-Sun: 6pm-10:30pm"
+hours: "Mon-Sat: 6pm-10:30pm; Sun: 6pm-10pm"
 photo:
   - https://www.flickr.com/photos/kake_pugh/13351091904/
   - https://www.flickr.com/photos/kake_pugh/13350866253/
-summary: A couple of vegetarian options.
+summary: Argentine steak restaurant with a large open grill.  A couple of vegetarian options.
 access: Step-free (but small ridge at entrance).  Ladies’ doubles as an accessible toilet.
 links: http://london.randomness.org.uk/wiki.cgi?Constancia,_SE1_3PH
 surveyed: 
@@ -8025,14 +8027,14 @@ licensed: yes
 byob: 
 bookings: 
 eat-in: yes
-takeaway: 
-delivery: 
+takeaway: yes
+delivery: no
 just-drink: yes
-hours: "Mon-Fri: 5pm-11pm; Sat-Sun: noon-11pm.  Food served Mon-Thu: 6pm-10pm; Fri: 6pm-10:30pm; Sat-Sun: noon-10pm."
+hours: "Mon-Thu: 4pm-11pm; Fri: 4pm-modnight; Sat: noon-midnight; Sun: noon-10pm.  Food served Mon-Thu: 6pm-9:30pm; Fri: 6pm-10pm; Sat: noon-10pm; Sun: noon-9:30pm."
 photo:
   - https://www.flickr.com/photos/rjw1/442446830/
   - https://www.flickr.com/photos/55935853@N00/3421180217/
-summary: "Not actually in Canary Wharf itself, but this Fuller’s pub is just across the river near the terminus of the ferry from Canary Wharf Pier, and offers a good base to explore the peninsula with its green spaces, historical wharves, and the Brunel Museum.  Real ales and Thai food.  Open from early evening on weekdays and all day on weekends."
+summary: Not actually in Canary Wharf itself, but this Fuller’s pub is just across the river near the terminus of the ferry from Canary Wharf Pier, and offers a good base to explore the peninsula with its green spaces, historical wharves, and the Brunel Museum.  Real ales and Thai food.
 access: 
 links: http://london.randomness.org.uk/wiki.cgi?Blacksmiths_Arms,_SE16_5EJ
 surveyed: 
