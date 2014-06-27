@@ -1425,8 +1425,8 @@ surveyed:
 name: The George
 address: 114 Glengall Grove, Crossharbour, E14 3ND
 area: Canary Wharf
-website: http://thegeorge-e14.com/
-twitter: 
+website: 
+twitter: TheGeorgeIOD
 phone: 020 7987 4433
 lat: 51.496083
 long: -0.013724059
@@ -1435,47 +1435,47 @@ type: pub
 cuisine: British
 licensed: yes
 byob: no
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Food served Mon-Sat: noon-3pm, 5pm-8pm; Sun: noon-4pm"
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sun: 11am-midnight.  Food served Mon-Fri: noon-3pm, 5pm-8pm; Sun: noon-4pm (no food Sat)"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12636861475/
   - http://www.flickr.com/photos/kake_pugh/12637047243/
   - http://www.flickr.com/photos/kake_pugh/12637034293/
   - http://www.flickr.com/photos/kake_pugh/12637020383/
   - http://www.flickr.com/photos/kake_pugh/12831430855/
-summary: Traditional British pub with real ales and an unusual “snug” bar.  Pub food and Sunday lunches.
-access: All three street entrances have low steps — approximately 1-2cm at the entrance to the snug, and 4-5cm elsewhere.  Once you’re in, it’s all on one level.
+summary: Traditional British pub with real ales and an unusual “snug” bar.  Pub food and Sunday lunches.  Highchairs and small portions for children.  25-seater conservatory available for private functions.  Courtyard garden.
+access: Small step at each entrance, more steps to garden.
 links: http://london.randomness.org.uk/wiki.cgi?George,_E14_3ND
-surveyed: 
+surveyed: June 2014
 ---
 name: Firezza
 address: Unit 6b, Baltimore Wharf, Pepper Street, Isle of Dogs, E14 9RH
 area: Canary Wharf
 website: http://firezza.com/
-twitter: 
+twitter: FirezzaPizza
 phone: 020 7987 7722
 lat: 51.496210
 long: -0.015658334
 station: Crossharbour
 type: takeaway
 cuisine: Italian
-licensed: 
-byob: 
-bookings: 
-eat-in: 
+licensed: yes
+byob: no
+bookings: no
+eat-in: yes
 takeaway: yes
 delivery: yes
 just-drink: 
 hours: "Mon-Sun: noon-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/12660454025/
-summary: 
-access: 
+summary: Part of a small chain, offering pizza from a wood-fired oven, plus salads.  Gluten-free bases available, dairy-free possible.
+access: Step-free, but narrow access to seating and accessible toilet.  All seating on high stools.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Manjal
 address: 3 Turnberry Quay, Isle of Dogs, E14 9RD
@@ -1489,18 +1489,18 @@ station: Crossharbour
 type: restaurant
 cuisine: Indian
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+eat-in: yes
+takeaway: yes
+delivery: yes
+just-drink: yes
 hours: "Mon-Sun: noon-10:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/12660909124/
-summary: 
-access: 
+summary: Indian restaurant with plenty of vegetarian options, a few vegan, and a few gluten-free.  Five highchairs, pull-down baby change in accessible toilet, and small portions available for children.
+access: Tiny step to get in.  Accessible toilet.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Lotus
 address: 9 Oakland Quay, Isle of Dogs, E14 9EA
@@ -1514,20 +1514,20 @@ station: Crossharbour
 type: restaurant
 cuisine: Chinese
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon: closed; Tue-Sun: noon-10:30pm"
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: no
+hours: "Mon: closed; Tue-Sun: noon-10:30pm.  Dim sum served noon-4:30pm."
 photo:
   - http://www.flickr.com/photos/kake_pugh/12660898754/
   - http://www.flickr.com/photos/kake_pugh/12660884864/
-summary: "Dim sum served noon-4:30pm."
-access: 
+summary: Cantonese restaurant on a boat in one of Canary Wharf’s many areas of open water.
+access: Step-free via slightly uneven surface at side entrance, but door here not openable from outside and there’s no bell.  Accessible toilet (though smaller than usual).
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Pepper Saint Ontiod
 address: 21 Pepper Street, Isle of Dogs, E14 9RP
@@ -1541,18 +1541,18 @@ station: Crossharbour
 type: pub
 cuisine: British
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: yes
+just-drink: yes
 hours: "Mon-Thu: noon-11pm; Fri: noon-midnight; Sat: noon-1pm; Sun: noon-10pm"
 photo: http://www.flickr.com/photos/kake_pugh/12660534643/
-summary: "Part of the “quirky” Antic chain."
-access: Step-free aside from upstairs seating and pool table.  Accessible toilet.
+summary: "Pub run by the “quirky” Antic chain, serving British food, real ales, and Teapigs tea.  Occasional hog roasts.  Board games behind the bar, pool table upstairs, and live music on Saturday evenings.  Six highchairs, baby change facilities, children’s entertainer on Saturday mornings.  Plenty of outside seating on the waterfront."
+access: Step-free aside from upstairs seating and pool table (but entrance door is quite heavy).  Accessible toilet.
 links: http://london.randomness.org.uk/wiki.cgi?Pepper_Saint_Ontiod,_E14_9RP
-surveyed: 
+surveyed: June 2014
 ---
 name: Byblos Harbour
 address: 41 Millharbour, Isle of Dogs, E14 9NB
@@ -1568,20 +1568,20 @@ station:
 type: restaurant
 cuisine: Lebanese
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sun: noon-midnight"
+byob: yes (corkage ~£7)
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: yes
+just-drink: no
+hours: "Mon-Sat: noon-11pm; Sun: noon-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12660391605/
   - http://www.flickr.com/photos/kake_pugh/12660391605/
-summary: 
-access: 
+summary: Lebanese restaurant with charcoal grill.  Plenty of vegetarian options such as mouhamara (crushed walnuts with pomegranate), charcoal grilled halloumi, and fuul moudamas (fava beans with lemon, garlic, and olive oil).  Covered outdoor seating looking onto the quay.  Two highchairs, and baby change facilities are expected to be installed by the time of the con.
+access: Step-free (lift to accessible toilet in basement).
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Tompkins
 address: 4 Pan Peninsula Square, Isle of Dogs, E14 9HN
@@ -1595,23 +1595,23 @@ station: South Quay
 type: restaurant
 cuisine: American
 licensed: yes
-byob: 
+byob: yes
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: 
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Restaurant/ground floor bar: Mon-Sun: 10am-11pm (kitchen closes 10pm).  Cocktail bar: Mon: closed; Tue-Sat: 5pm-late; Sun: closed."
 photo:
   - http://www.flickr.com/photos/kake_pugh/12660391605/
   - http://www.flickr.com/photos/kake_pugh/12660391605/
   - http://www.flickr.com/photos/kake_pugh/12660473733/
   - http://www.flickr.com/photos/kake_pugh/12660460543/
   - http://www.flickr.com/photos/kake_pugh/12660448273/
-summary: "NB: Phone number may be wrong (no answer on four occasions)."
-access: 
+summary: American restaurant and bar with several different areas of varying ambience.  Outside seating with waterfront view.  Separate cocktail bar on 48th floor, with amazing panoramic views over London (booking recommended on Friday and Saturday nights).  One highchair but no baby change facilities.  Occasional vegetarian options.
+access: Step-free (lift to cocktail bar).  Accessible toilet on ground floor.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Lemongrass Kitchen
 address: Unit 5, South Quay Plaza, 185 Marsh Wall, Isle of Dogs, E14 9SH
@@ -1627,46 +1627,46 @@ cuisine: pan-Asian
 licensed: 
 byob: 
 bookings: 
-eat-in: 
+eat-in: no
 takeaway: yes
 delivery: yes
 just-drink: 
 hours: "Mon-Fri: 11am-10pm; Sat-Sun: 5pm-10pm"
 photo: http://www.flickr.com/photos/kake_pugh/12660767214/
-summary: 
-access: 
+summary: Pan-Asian takeaway with a hot counter in the day and a la carte menu in the evening.  Daytime dishes include vegetable panang curry, Burmese beef curry, chicken gyoza, noodle soups, and pre-packed sushi boxes.  Evening dishes include a la carte sushi and sashimi, crispy aromatic duck, char kway teow, Singapore vermicelli, and Thai curries.
+access: Step-free, but tiny.  No customer toilets.  Only seating is two high stools.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Goodman
-address: 3 South Quay Square, Isle of Dogs, E14 9SH
+address: 3 South Quay Square, Discovery Dock East, Isle of Dogs, E14 9RU
 area: Canary Wharf
 website: http://goodmanrestaurants.com/
-twitter: Goodman_London
+twitter: GoodmanCanary_W
 phone: 020 7531 0300
 lat: 51.501570
 long: -0.019311100
 station: South Quay
 type: restaurant
-cuisine: steak
+cuisine: American
 licensed: yes
-byob: 
+byob: yes (£25/bottle corkage)
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
 delivery: no
-just-drink: 
+just-drink: yes
 hours: "Mon-Fri: noon-10:30pm; Sat: 5:30pm-10:30pm; Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12660365915/
   - http://www.flickr.com/photos/kake_pugh/12660744614/
-summary: 
-access: 
+summary: American steakhouse with a cigar humidor, lobster tank, and covered outdoor waterfront seating with a view of the O2.  Huge wine list with an extensive American section.  Limited vegetarian options available with advance notice.  Three highchairs.  Baby change facilities in ladies’ toilet only.
+access: Step-free.  RADAR-locked accessible toilet.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Hazev
-address: 2 South Quay Square, Isle of Dogs, E14 9RT
+address: 2 South Quay Square, Discovery Dock East, Isle of Dogs, E14 9RT
 area: Canary Wharf
 website: http://hazev.com/
 twitter: 
@@ -1677,22 +1677,22 @@ station: South Quay
 type: restaurant
 cuisine: Turkish
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Sat: noon-11:30pm; Sun: noon-10:30pm"
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: yes
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: noon-midnight; Sun: noon-10:30pm (cafe area closes at 10pm all nights)"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12660692154/
   - http://www.flickr.com/photos/kake_pugh/12660367203/
   - http://www.flickr.com/photos/kake_pugh/12660251895/
   - http://www.flickr.com/photos/kake_pugh/12660251895/
-summary: 
-access: "Step-free to get in, and step-free through to the ladies’ toilet at least, though the cubicles are a bit of a squeeze to get into."
+summary: Large Turkish restaurant, bar, and cafe with several separate areas offering different ambience.  Covered outdoor waterfront seating.  Private room for 15-25 people.  Plenty of vegetarian options; vegan and gluten-free also possible.  Three highchairs; baby change facilities in accessible toilet.
+access: Step-free.  Accessible toilet in cafe area.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: All Bar One
 address: 42 Mackenzie Walk, Canary Wharf, E14 5EH
@@ -1756,18 +1756,18 @@ station: Canary Wharf
 type: pub
 cuisine: American
 licensed: yes
-byob: 
+byob: no
 bookings: yes
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Food served noon-10pm Mon-Sat.  Closed Sundays."
+eat-in: yes
+takeaway: no (at least, not usually)
+delivery: no
+just-drink: yes
+hours: "Mon-Sat: noon-11pm (kitchen closes 10pm); Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/12751904225/
-summary: 
-access: 
+summary: American bar and restaurant specialising in steak, seafood, and cocktails.  Plenty of vegetarian options; gluten-free possible with advance notice.  Two highchairs, and baby change facilities are expected to be installed by the time of the con.  Non-smoking covered terrace garden with a view of the water and DLR.  (The lower level directly next to Canary Wharf Station is a separate bar-only venue in the same chain.)
+access: Step-free.  Accessible toilet.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Carluccio’s
 address: Reuters Plaza, Canary Wharf, E14 5AJ
@@ -1808,23 +1808,23 @@ station: Canary Wharf
 type: pub
 cuisine: French
 licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Wed: 10am-8pm; Thu-Fri: 10am-9pm; Sat: 11am-7pm; Sun: closed"
+byob: no
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Fri: noon-11pm; Sat-Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12751952233/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12751937103/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12751788725/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12751770965/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12751770965/in/photostream
-summary: Wine bar attached to a reputable French wine shop.  Small corkage charge for wine purchased in the shop.  Bar snacks and full meals.
-access: Step-free.
+summary: Wine bar attached to a reputable French wine shop (£2 corkage for wine purchased in the shop).  Bar snacks and full meals.
+access: Step-free.  Ladies’ doubles as accessible toilet.
 links: http://london.randomness.org.uk/wiki.cgi?Nicolas,_E14_5AX
-surveyed: 
+surveyed: June 2014
 ---
 name: Birley Salt Beef
 address: Unit 23A, One Canada Square, Canary Wharf, E14 5AX
@@ -1911,26 +1911,26 @@ name: Roka
 address: 1st Floor, 4 Park Pavilion, 40 Canada Square, Canary Wharf, E14 5FW
 area: Canary Wharf
 website: http://rokarestaurant.com/canary-wharf/en/home
-twitter: 
+twitter: RokaCanaryWharf
 phone: 020 7636 5228
 lat: 51.504966
 long: -0.018640548
 station: Canary Wharf
 type: restaurant
 cuisine: Japanese
-licensed: 
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Mon-Fri: 11:45am-3pm, 5:30pm-11pm; Sat: 11:30am-4pm, 5:30pm-11pm; Sun: 11:30am-8:30pm"
+licensed: yes
+byob: yes (corkage £35/bottle)
+bookings: yes
+eat-in: yes
+takeaway: no
+delivery: no
+just-drink: yes
+hours: "Mon-Fri: 11:45am-3pm, 5:30pm-11pm; Sat: 11:30am-4pm, 5:30pm-11pm; Sun: 11:30am-8pm"
 photo: http://www.flickr.com/photos/kake_pugh/12819600024/
-summary: Japanese restaurant specialising in robatayaki (charcoal grill).
-access: 
+summary: Japanese restaurant and bar specialising in shōchū (a distilled alcoholic drink served neat or mixed) and robatayaki (charcoal grill).  Large sake menu too.  Many highchairs, plus baby change facilities.
+access: Step-free via lift, but heavy entrance door.  Accessible toilet on floor above (via lift).
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Wahaca
 address: Park Pavilion, 40 Canada Square, Canary Wharf, E14 5FW
@@ -1944,16 +1944,16 @@ station: Canary Wharf
 type: restaurant
 cuisine: Mexican
 licensed: yes
-byob: 
-bookings: no
-eat-in: 
+byob: no
+bookings: yes
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: no
+just-drink: yes (bar on 2nd floor)
 hours: "Mon-Fri: 11:45am-11pm; Sat: noon-11pm; Sun: noon-10:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/12819586194/in/photostream
-summary: Mexican tapas restaurant and bar with a separate gluten-free menu.  Three items are about right for small appetites, and five for larger.  Part of a small chain.
-access: 
+summary: Mexican tapas restaurant and bar with a separate gluten-free menu.  Vegetarian and vegan options.  Three items are about right for small appetites, and five for larger.  Part of a small chain.  Five highchairs, and baby change facilities in accessible toilet.
+access: Step-free via lift.  Entrance often cluttered — attract attention of staff through glass entrance doors if necessary to make room.  Accessible toilet.
 links: 
 surveyed: 
 ---
@@ -2421,7 +2421,7 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12836276055/
   - http://www.flickr.com/photos/kake_pugh/12836327273/
   - http://www.flickr.com/photos/kake_pugh/12836226545/
-summary: Self-styled “Mozzarella bar” located in the bright, airy West Wintergarden atrium near Canary Wharf Station, offering pastas, pizzas, and salads as well as mozzarella-based dishes.  Highchairs and half-portions (mainly of pasta dishes) available for children.  Vegetarian and gluten-free options are mostly their main-course salads.  Other allergies catered for with advance notice, and the kitchen staff are aware of cross-contamination issues.
+summary: Self-styled “Mozzarella bar” located in the bright, airy West Wintergarden atrium near Canary Wharf Station.  Outside waterfront seating at the back of the building.  Pastas, pizzas, and salads as well as mozzarella-based dishes.  Highchairs and half-portions (mainly of pasta dishes) available for children.  Vegetarian and gluten-free options are mostly their main-course salads.  Other allergies catered for with advance notice, and the kitchen staff are aware of cross-contamination issues.
 access: Step-free access (not immediately obvious; go around the other side if you can’t see it).  RADAR-locked accessible toilet a short (indoor) distance away.
 links: 
 surveyed: May 2014
@@ -2439,21 +2439,21 @@ station:
   - South Quay
 type: restaurant
 cuisine: Middle Eastern
-licensed: 
+licensed: no
 byob: 
 bookings: 
-eat-in: 
+eat-in: yes
 takeaway: yes
-delivery: 
-just-drink: 
+delivery: no
+just-drink: yes
 hours: "Mon-Fri: 8am-8pm, Sat-Sun: 11am-6pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12836634524/
   - http://www.flickr.com/photos/kake_pugh/12836264283/
-summary: Kebab and falafel cafe.
-access: 
+summary: Kebab (doner and shish) and falafel cafe with self-serve salad bar and home-made fresh lemonade.  Four highchairs but no baby change facilities.  Vegetarian options limited to veggie burgers and falafel.
+access: Step-free.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: The North Pole
 exclude: Closed down as of June 2014, possibly set to be demolished.
@@ -2499,21 +2499,22 @@ station:
   - South Quay
 type: restaurant
 cuisine: Indian
-licensed: 
-byob: 
+licensed: yes
+byob: no
 bookings: yes
-eat-in: 
+eat-in: yes
 takeaway: yes
-delivery: yes
-just-drink: 
+delivery: yes (evening only)
+just-drink: yes
 hours: "Mon-Sun: noon-2:30pm, 5:30pm-11:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/12837415305/
-summary: 
-access: 
+summary: Indian restaurant and bar with cool decor and good-value thalis at lunchtimes.  Plenty of vegetarian options including tandoori paneer, spinach &amp; pumpkin curry, and vegetable biryani.  Meat options include lamb chops and chicken chilli jalfrezi.  Some gluten-free, but little or nothing for vegans.  Two highchairs, but no baby change facilities.
+access: Step-free.  Accessible toilet.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Aniseed
+exclude: Doesn’t really seem all that interesting, plus there’s Lime just round the corner.
 address: 25 Westferry Road, Isle of Dogs, E14 8JH
 area: Canary Wharf
 website: http://aniseed-docklands.co.uk/
@@ -2540,7 +2541,7 @@ photo:
 summary: 
 access: 
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Tesco Express
 address: Landmark Tower, Westferry Road, Isle of Dogs, E14 9AB
@@ -2564,10 +2565,10 @@ delivery:
 just-drink: 
 hours: "Mon-Sat: 6am-midnight; Sun: 6am-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/12837820014/
-summary: Convenience store run by a major UK supermarket chain.  Also has a free 24-hour cashpoint.
-access: 
+summary: Convenience store run by a major UK supermarket chain.  Fruit, vegetables, fresh meat, sandwiches, sushi, ready meals, chilled wine and beer, and cigarettes.  Free 24-hour cashpoint outside.
+access: Step-free via ramps at each side of building.
 links: 
-surveyed: 
+surveyed: June 2014
 ---
 name: Bene Bene
 address: 3 Westferry Circus, Canary Wharf, E14 4HD
