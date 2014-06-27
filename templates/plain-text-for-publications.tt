@@ -3,24 +3,31 @@
 [% INCLUDE introduction.tt | replace( '<\/?p>', '' ) | replace( '<\/?h2>', '**' ) | replace( '<\/?h3>', '*' )
  | replace( '\n<ul>', '' ) | replace( '<\/ul>', '' ) | replace( '<\/?li>', '' ) | replace( '&amp;', '&' )
  | replace( '<a\s+href="[^"]*">RADAR key<\/a>', 'RADAR key (crm.disabilityrightsuk.org/radar-nks-key)' )
- | replace( '<a\s+href="[^"]*">the Transport\s+Accessibility section of the Transport for London website<\/a>', 'the Transport Accessibility section
-of the Transport for London website (tfl.gov.uk/transport-accessibility/)' )
+ | replace( '<a\s+href="[^"]*">the Transport\s+Accessibility section of the Transport for London website<\/a>', 'the Transport Accessibility section of the Transport for London website (tfl.gov.uk/transport-accessibility/)' )
  | replace( '&#127860;', '[E]' ) | replace( '&#128092;', '[T]' ) | replace( '&#128665;', '[D]' ) | replace( '&#128214;', '[B]' )
  | replace( '&#127863;', '[A]' ) -%]
 
 **The List**
 
 The listings below are divided into the following areas:
+[% i = 0 -%]
 [% FOREACH area = areas %]
-- [% area.name %][% END %]
+[%- UNLESS area.colour %][% i = i + 1 %][% area.number = i %][% END %]
+- [% area.name %] ([% IF area.colour %][% area.colour %][% ELSE %][% i %][% END %])[% END %]
 
-[%- FOREACH area = areas -%]
+See maps below for numbered areas.  For a more detailed map, buy a copy of the London A-Z (available at bookshops, newsagents, tourist information offices, etc).  Get the full version, not the mini version, as the latter only covers Central London.  For DLR and Tube lines, pick up a free map from any train or Tube station.
 
-*[% area.name %]*
+[%- FOREACH area = areas %]
+*[% area.name %][% IF area.number %] ([% area.number %])[% END %]*
 
 [% IF area.overview %][% area.overview | replace( '&amp;', '&' ) %][% END %]
 
-[% IF area.access %][% area.access | replace( '&amp;', '&' ) %][% END %]
+[% IF area.access %]Access: [% area.access | replace( '&amp;', '&' ) %][% END %]
+[% END %]
+
+[%- FOREACH area = areas -%]
+
+*Restaurants [% IF area.name.match( ' Line$' ) OR area.name == 'DLR' %]on the[% ELSIF area.name == 'ExCeL' OR area.name == 'London Bridge' %]near[% ELSIF area.name == 'O2' %]in or near the[% ELSE %]in[% END %] [% area.name %]*
 
 [%- FOREACH venue = area.venues %]
 [% venue.name %], [% venue.address %].
@@ -39,5 +46,4 @@ The listings below are divided into the following areas:
     [%- IF venue.stations %] Public transport: [% venue.stations %].[% END %]
     [%- IF venue.hours %] [% venue.hours %][% UNLESS venue.hours.match('\.$') %].[% END %][% END %]
   [% END %]
-
 [% END %]

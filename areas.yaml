@@ -34,6 +34,7 @@ access: Canning Town Station is step-free accessible from both the Jubilee
   Line and the DLR.
 ---
 name: District Line
+colour: green
 description: Venues which aren’t in any of the main areas we list here, but
   which are easily reached via the District Line.  Get on the District Line
   at Tower Hill Station, or change (cross-platform) from the Central Line
@@ -56,6 +57,7 @@ access: The only step-free accessible way to get onto the District Line
   Plaistow Station and Upton Park Station are not step-free accessible.
 ---
 name: DLR
+colour: double blue
 description: Venues which aren’t in any of the main areas we list here, but
   which are easily reached via the DLR network.
 access: All DLR stations are step-free accessible.
@@ -73,6 +75,7 @@ description: A large area of East London served by Upton Park and East Ham
 access: "See the “District Line” section for accessibility information."
 ---
 name: East London Line
+colour: orange
 description: Venues which aren’t in any of the main areas we list here, but
   which are easily reached via the East London Line on London Overground.
   Change to London Overground from the DLR at Shadwell Station (involves

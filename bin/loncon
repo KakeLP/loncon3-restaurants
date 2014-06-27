@@ -124,11 +124,13 @@ close $output_fh;
 my @areainfo = LoadFile( $areafile );
 my %overviews;
 my %area_access;
+my %line_colours;
 foreach my $datum ( @areainfo ) {
   next unless $datum->{name}; # skip empty data
   my $name = canonicalise_area( $datum->{name} );
   $overviews{$name} = $datum->{description};
   $area_access{$name} = $datum->{access};
+  $line_colours{$name} = $datum->{colour};
 }
 
 # Write the list.
@@ -138,7 +140,7 @@ foreach my $area ( sort { lc( $a ) cmp lc( $b ) } keys %areahash ) {
   $anchor =~ s/[\/\s]+/_/g;
   push @areas, {
     name => $area, anchor => $anchor, overview => $overviews{$area} || "",
-    access => $area_access{$area},
+    colour => $line_colours{$area}, access => $area_access{$area},
     venues => [ sort namesort @{$areahash{$area}} ]
   };
 }
