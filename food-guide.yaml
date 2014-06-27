@@ -7735,31 +7735,6 @@ access: No steps in (just a small ridge).  Completely step-free once you’re in
 links: http://london.randomness.org.uk/wiki.cgi?Cristina%27s,_IG11_8AW
 surveyed: info from personal visits
 ---
-name: Red Lion
-address: 640 Leytonstone High Road, Leytonstone, E11 3AA
-area: Central Line
-website: http://theredlionleytonstone.com/
-twitter: RedLionE11
-phone: 020 8988 2929
-lat: 51.567391
-long: 0.012642
-station: Leytonstone
-type: pub
-cuisine: British
-licensed: yes
-byob: 
-bookings: 
-eat-in: 
-takeaway: 
-delivery: 
-just-drink: 
-hours: "Food served Mon: noon-3pm, 6pm-9pm; Tue-Fri: noon-3pm, 6pm-10pm; Sat: noon-9pm; Sun: noon-6pm."
-photo: 
-summary: "Pub run by the Antic chain, and a current entry in the Campaign For Real Ale’s <cite>Good Beer Guide</cite>.  Bare brick walls, exposed floorboards, and purposely mismatched furniture.  Large beer garden at back.  Ten handpumps offer a constantly changing selection of real ales from local and national breweries.  Internationally-sourced craft ales and single varietal ciders in bottles.  Food is a cut above the average pub, including dishes such as pan-fried Cornish squid with chickpeas, chilli, and garlic; rabbit salad with pickled radish and baby gem lettuce; and roasted duck breast with dauphinoise potatoes, curly kale, and red wine sauce."
-access: "Can get noisy at peak times."
-links: http://london.randomness.org.uk/wiki.cgi?Red_Lion,_E11_3AA
-surveyed: 
----
 name: Nutrilicious 4 Life
 exclude: Will be closing at end of July 2014.
 address: The Place, 2 Silvertown Way, Canning Town, E16 1ED
@@ -8204,31 +8179,6 @@ summary: "Wood-fired pizza takeaway and delivery from a small chain with several
 access: A large step to get in, and it’s quite small inside.
 links: 
 surveyed: April 2014
----
-name: Moshi Moshi
-address: Unit 24, Liverpool Street Station, EC2M 7PY
-area: Central Line
-website: http://moshimoshi.co.uk/
-twitter: MoshiMoshiLDN
-phone: 020 7247 3227
-lat: 51.517766
-long: -0.081511527
-station: Liverpool Street
-type: restaurant
-cuisine: Japanese
-licensed: yes
-byob: 
-bookings: yes
-eat-in: yes
-takeaway: yes
-delivery: 
-just-drink: 
-hours: "Mon-Fri: 11:30am-10pm"
-photo: https://www.flickr.com/photos/kake_pugh/2009000056/
-summary: "Japanese restaurant on the upper level of Liverpool Street Station, offering sushi and sashimi with a focus on sustainability.  A la carte menu plus a conveyor belt which offers a rather more interesting selection than one might expect.  Hot dishes too, plus freshly-squeezed juices, wine, sake, and beer.  Occasional vegetarian options.  Closed weekends."
-access: 
-links: http://london.randomness.org.uk/wiki.cgi?Moshi_Moshi_Sushi,_EC2M_7PY
-surveyed: 
 ---
 name: The Rooftop Cafe
 address: The Exchange, 28 London Bridge Street, London Bridge, SE1 9SG
