@@ -30,12 +30,12 @@ See maps below for numbered areas.  For a more detailed map, buy a copy of the L
 *Restaurants [% IF area.name.match( ' Line$' ) OR area.name == 'DLR' %]on the[% ELSIF area.name == 'ExCeL' OR area.name == 'London Bridge' %]near[% ELSIF area.name == 'O2' %]in or near the[% ELSE %]in[% END %] [% area.name %]*
 
 [%- FOREACH venue = area.venues %]
-[% venue.name %], [% venue.address %].
+[% venue.name %], [% venue.address | replace( '\bStreet\b', 'St' ) | replace( '\bSquare\b', 'Sq' ) | replace( '\bRoad\b', 'Rd' ) %].
     [%- IF venue.website %] [% venue.website.display %][% IF venue.twitter OR venue.phone %] ·[% ELSE %] .[% END %][% END %]
     [%- IF venue.twitter %] @[% venue.twitter %][% IF venue.phone %] ·[% ELSE %].[% END %][% END %]
     [%- IF venue.phone %] [% venue.phone %].[% END %]
-    [%- IF venue.summary %] [% venue.summary | replace( '<\/?cite>', '_' ) | replace( '&amp;', '&' ) %][% END %]
-    [%- IF venue.access %] *[% venue.access %]*[% END %]
+    [%- IF venue.summary %] [% venue.summary | replace( '<\/?cite>', '_' ) | replace( '&amp;', '&' ) | replace( '\band an?\b', 'and' ) | replace( '[,;] and', ' and' ) | replace( '\band\b', '&' ) | replace( '\b[Oo]ne\b', '1' ) | replace( '\b[Tt]wo\b', '2' ) | replace( '\b[Tt]hree\b', '3' ) | replace( '\b[Ff]our\b', '4' ) | replace( '\b[Ff]ive\b', '5' ) | replace( '\b[Ss]ix\b', '6' ) | replace( '\b[Ss]even\b', '7' ) | replace( '\b[Ee]ight\b', '8' ) | replace( '\b[Nn]ine\b', '9' ) | replace( '\b[Tt]en\b', '10' ) | replace( 'Campaign For Real Ale’s ', '' ) %][% END %]
+    [%- IF venue.access %] *[% venue.access | replace( ', and', ' and' ) | replace( '\band\b', '&' ) | replace( '\b[Oo]ne\b', '1' ) | replace( '\b[Tt]wo\b', '2' ) | replace( '\b[Tt]hree\b', '3' ) | replace( '\b[Ff]our\b', '4' ) | replace( '\b[Ff]ive\b', '5' ) | replace( '\b[Ss]ix\b', '6' ) | replace( '\b[Ss]even\b', '7' ) | replace( '\b[Ee]ight\b', '8' ) | replace( '\b[Nn]ine\b', '9' ) | replace( '\b[Tt]en\b', '10' )%]*[% END %]
     [%- IF 1 or venue.icons %] [% END %]
     [%- IF venue.item("eat-in") == "yes" %][E][% END %]
     [%- IF venue.takeaway == "yes" %][T][% END %]
@@ -43,7 +43,7 @@ See maps below for numbered areas.  For a more detailed map, buy a copy of the L
     [%- IF venue.bookings == "yes" %][B][% END %]
     [%- IF venue.licensed == "yes" %][A][% END %]
     [%- IF venue.byob == "yes" %][BYO][% END %]
-    [%- IF venue.stations %] Public transport: [% venue.stations %].[% END %]
-    [%- IF venue.hours %] [% venue.hours %][% UNLESS venue.hours.match('\.$') %].[% END %][% END %]
+    [%- IF venue.stations %] Station: [% venue.stations %].[% END %]
+    [%- IF venue.hours %] [% venue.hours | replace( '\bMon\b', 'M' ) | replace( '\bTue\b', 'Tu' ) | replace( '\bWed\b', 'W' ) | replace( '\bThu\b', 'Th' ) | replace( '\bFri\b', 'F' ) | replace( '\bSat\b', 'Sa' ) | replace( '\bSun\b', 'Su' ) | replace( ': ', ' ' ) %][% UNLESS venue.hours.match('\.$') %].[% END %][% END %]
   [% END %]
 [% END %]
