@@ -30,6 +30,7 @@ See maps below for numbered areas.  For a more detailed map, buy a copy of the L
 *Restaurants [% IF area.name.match( ' Line$' ) OR area.name == 'DLR' %]on the[% ELSIF area.name == 'ExCeL' OR area.name == 'London Bridge' %]near[% ELSIF area.name == 'O2' %]in or near the[% ELSE %]in[% END %] [% area.name %]*
 
 [%- FOREACH venue = area.venues %]
+[%- UNLESS venue.item("online-only") %]
 [% venue.name %], [% venue.address | replace( '\bStreet\b', 'St' ) | replace( '\bSquare\b', 'Sq' ) | replace( '\bRoad\b', 'Rd' ) %].
     [%- IF venue.website %] [% venue.website.display %][% IF venue.twitter OR venue.phone %] ·[% ELSE %] .[% END %][% END %]
     [%- IF venue.twitter %] @[% venue.twitter %][% IF venue.phone %] ·[% ELSE %].[% END %][% END %]
@@ -46,4 +47,5 @@ See maps below for numbered areas.  For a more detailed map, buy a copy of the L
     [%- IF venue.stations %] Station: [% venue.stations %].[% END %]
     [%- IF venue.hours %] [% venue.hours | replace( '\bMon\b', 'M' ) | replace( '\bTue\b', 'Tu' ) | replace( '\bWed\b', 'W' ) | replace( '\bThu\b', 'Th' ) | replace( '\bFri\b', 'F' ) | replace( '\bSat\b', 'Sa' ) | replace( '\bSun\b', 'Su' ) | replace( ': ', ' ' ) %][% UNLESS venue.hours.match('\.$') %].[% END %][% END %]
   [% END %]
+[%- END %]
 [% END %]
