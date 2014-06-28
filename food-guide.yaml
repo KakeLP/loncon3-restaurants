@@ -141,6 +141,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Albina,_E13_8EQ
 surveyed: June 2014
 ---
 name: Albena Russian Delicatessen
+online-only: yes
 address: 253 Barking Road, Canning Town, E13 8EQ
 area: Canning Town
 website: 
@@ -223,6 +224,7 @@ links:
 surveyed: 
 ---
 name: Pie Crust Cafe
+online-only: yes
 address: 273 Stratford High Street, E15 2TF
 area: Stratford
 website: 
@@ -2031,6 +2033,7 @@ links:
 surveyed: May 2014
 ---
 name: Boisdale
+online-only: yes
 address: Cabot Place, Canary Wharf, E14 4QT
 area: Canary Wharf
 website: http://boisdale.co.uk/
@@ -2424,6 +2427,7 @@ links:
 surveyed: 
 ---
 name: Obikà
+online-only: yes
 address: Unit 1, West Wintergarden, 35 Bank Street, Canary Wharf, E14 5NW
 area: Canary Wharf
 website: http://obika.com/
@@ -2899,6 +2903,7 @@ links:
 surveyed: May 2014
 ---
 name: Browns
+online-only: yes
 address: Unit A, 18 Hertsmere Road, West India Quay, E14 4AY
 area: Canary Wharf
 website: http://browns-restaurants.co.uk/locations/west-india-quay/
@@ -3331,6 +3336,7 @@ links:
 surveyed: June 2014
 ---
 name: Departure
+online-only: yes
 address: 649-651 Commercial Road, Limehouse, E14 7LW
 area: Limehouse
 website: http://departure.org.uk/
@@ -3979,6 +3985,7 @@ links:
 surveyed: 
 ---
 name: Stoney Hill
+online-only: yes
 address: 57-59 Leytonstone Road, Stratford, E15 1JA
 area: Stratford
 website: 
@@ -4067,6 +4074,7 @@ links:
 surveyed: April 2014
 ---
 name: Pizza Express
+online-only: yes
 address: Theatre Square, Stratford, E15 1BX
 area: Stratford
 website: http://pizzaexpress.com/
@@ -4703,6 +4711,7 @@ links:
 surveyed: May 2014
 ---
 name: Sahara Grill
+online-only: yes
 address: 49-53 New Road, Whitechapel, E1 1HH
 area: Whitechapel
 website: http://saharagrill.co.uk/
@@ -4989,6 +4998,7 @@ links:
 surveyed: 
 ---
 name: Still And Star
+online-only: yes
 address: 1 Little Somerset Street, Whitechapel, E1 8AH
 area: Whitechapel
 website: 
@@ -5496,6 +5506,7 @@ links: http://en.wikipedia.org/wiki/Town_of_Ramsgate
 surveyed: 
 ---
 name: Simplicity
+online-only: yes
 address: 1 Tunnel Road, Rotherhithe, SE16 4JJ
 area: East London Line
 website: http://simplicityrestaurants.com/
@@ -5802,6 +5813,7 @@ links:
 surveyed: May 2014
 ---
 name: Mevali
+online-only: yes
 address: 17 Greenwich Church Street, Greenwich, SE10 9BJ
 area: Greenwich
 website: 
@@ -6102,6 +6114,7 @@ links:
 surveyed: 
 ---
 name: The Green Cafe
+online-only: yes
 address: 285 Greenwich High Road, Greenwich, SE10 8NB
 area: Greenwich
 website: 
@@ -6956,6 +6969,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Bavarian_Beerhouse,_EC3N_2AU
 surveyed: May 2014
 ---
 name: The Chamberlain
+online-only: yes
 address: 130-135 Minories, City, EC3N 1NU
 area: Bank/Tower Hill
 website: http://thechamberlainhotel.co.uk/
@@ -6985,6 +6999,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Chamberlain,_EC3N_1NU
 surveyed: May 2014
 ---
 name: Velo
+online-only: yes
 address: 104 Tooley Street, London Bridge, SE1 2TH
 area: London Bridge
 website: http://velorestaurant.com/
@@ -7131,6 +7146,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Barrowboy_And_Banker,_SE1_9QQ
 surveyed: April 2014
 ---
 name: Tito’s
+online-only: yes
 address: 4-6 London Bridge Street, London Bridge, SE1 9SG
 area: London Bridge
 website: http://titosperuvianrestaurant.com/
@@ -7164,6 +7180,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Tito%27s,_SE1_9SG
 surveyed: April 2014
 ---
 name: Tapas Brindisa
+online-only: yes
 address: 18-20 Southwark Street, London Bridge, SE1 1TJ
 area: London Bridge
 website: http://brindisatapaskitchens.com/
@@ -7662,6 +7679,7 @@ links: http://www.yelp.co.uk/biz/tentazioni-fine-food-london
 surveyed: April 2014
 ---
 name: Tentazioni Restaurant
+online-only: yes
 address: Lloyds Wharf, 2 Mill Street, Bermondsey, SE1 2BD
 area: London Bridge
 website: http://tentazioni.co.uk/restaurant/
@@ -8389,6 +8407,7 @@ links:
 surveyed: June 2014
 ---
 name: Brooklyn Bowl
+online-only: yes
 address: The O2, Peninsula Square, SE10 0DX
 area: O2
 website: http://london.brooklynbowl.com/
@@ -8568,6 +8587,7 @@ links:
 surveyed: June 2014
 ---
 name: Nando’s
+online-only: yes
 address: Unit 25, The O2, Peninsula Square, SE10 0DX
 area: O2
 website: http://nandos.co.uk/
