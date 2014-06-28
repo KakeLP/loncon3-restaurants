@@ -31,10 +31,11 @@ my $total = scalar @venues;
 if ( $laptop ) {
 #  @venues = grep { !$_->{surveyed} } @venues;
 }
+my @for_print = grep { !$_->{"online-only"} } @venues;
 my $todo = scalar @venues;
 my $exclude = $total - $todo;
 
-print "Found $total venue" . ( $total == 1 ? "" : "s" ) . ", $exclude to exclude, $todo to process.\n";
+print "Found $total venue" . ( $total == 1 ? "" : "s" ) . ", $exclude to exclude, $todo to process, " . ( scalar @for_print ) . " to go in print version.\n";
 
 my ( $min_lat, $max_lat, $centre_lat, $min_long, $max_long, $centre_long );
 $min_lat = $max_lat = $venues[0]{lat};
