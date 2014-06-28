@@ -786,6 +786,7 @@ links:
 surveyed: 
 ---
 name: Freemasons Cafe
+online-only: yes
 address: 27 Freemasons Road, Custom House, E16 3AR
 area: ExCeL
 website: 
@@ -1003,6 +1004,7 @@ links: http://london.randomness.org.uk/wiki.cgi?China_Palace,_E16_1DR
 surveyed: June 2014
 ---
 name: Elite Dining
+online-only: yes
 address: 3 Western Gateway, Royal Victoria Dock, E16 1BD
 area: ExCeL
 website: http://elite-dining.co.uk/
@@ -1067,6 +1069,7 @@ links:
 surveyed: 
 ---
 name: Nisa Local
+online-only: yes
 address: 14 Western Gateway, Royal Victoria Dock, E16 1BJ
 area: ExCeL
 website: http://nisalocally.co.uk/
@@ -1210,6 +1213,7 @@ links:
 surveyed: 
 ---
 name: Docklands Bar And Grill
+online-only: yes
 address: Victoria Dock Road, Western Gateway, Royal Victoria Dock, E16 1AL
 area: ExCeL
 website: http://docklandsbarandgrill.co.uk/
@@ -1488,6 +1492,7 @@ links:
 surveyed: June 2014
 ---
 name: Manjal
+online-only: yes
 address: 3 Turnberry Quay, Isle of Dogs, E14 9RD
 area: Canary Wharf
 website: http://manjalrestaurant.com/
@@ -1784,6 +1789,7 @@ links:
 surveyed: June 2014
 ---
 name: Carluccio’s
+online-only: yes
 address: Reuters Plaza, Canary Wharf, E14 5AJ
 area: Canary Wharf
 website: http://carluccios.com/
@@ -2779,6 +2785,7 @@ links:
 surveyed: May 2014
 ---
 name: Temple Lounge
+online-only: yes
 address: Unit D, Hertsmere Road, West India Quay, E14 4AF
 area: Canary Wharf
 website: http://temple-lounge.com/
@@ -3182,6 +3189,7 @@ links:
 surveyed: 
 ---
 name: MK Cafe
+online-only: yes
 address: 819 Commercial Road, Limehouse, E14 7HG
 area: Limehouse
 website: 
@@ -3291,6 +3299,7 @@ links:
 surveyed: 
 ---
 name: Sapore Italiano
+online-only: yes
 address: 106 Salmon Lane, Limehouse, E14 7PQ
 area: Limehouse
 website: http://saporeitaliano.co.uk/
@@ -4001,6 +4010,7 @@ links:
 surveyed: April 2014
 ---
 name: D’Gaf
+online-only: yes
 address: 11 Leytonstone Road, Stratford, E15 1JA
 area: Stratford
 website: http://d-gaf.com/
@@ -4082,6 +4092,7 @@ links:
 surveyed: April 2014
 ---
 name: De Lites
+online-only: yes
 address: 81 Watney Street, Shadwell, E1 2QE
 area: Whitechapel
 website: 
@@ -4776,6 +4787,7 @@ links:
 surveyed: May 2014
 ---
 name: The Crêpe Shop
+online-only: yes
 address: 103 Fieldgate Street, Whitechapel, E1 1JU
 area: Whitechapel
 website: http://crepeshop.co.uk/
@@ -4916,6 +4928,7 @@ links:
 surveyed: May 2014
 ---
 name: Qasida
+online-only: yes
 address: 96 Whitechapel High Street, E1 7RA
 area: Whitechapel
 website: http://qasida.co.uk/
@@ -5389,6 +5402,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Royal_Palace,_SE16_2PP
 surveyed: May 2014
 ---
 name: Ma Po
+online-only: yes
 address: 176-178 Lower Road, Rotherhithe, SE16 2UN
 area: East London Line
 website: http://www.mapolondon.com/
@@ -5507,6 +5521,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Simplicity,_SE16_4JJ
 surveyed: 
 ---
 name: Mayflower
+online-only: yes
 address: 117 Rotherhithe Street, Rotherhithe, SE16 4NF
 area: East London Line
 website: 
@@ -5699,6 +5714,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Old_Brewery,_SE10_9LW
 surveyed: May 2014
 ---
 name: Black Vanilla
+online-only: yes
 address: 5 College Approach, Greenwich, SE10 9HY
 area: Greenwich
 website: http://black-vanilla.com/home.php
@@ -5911,6 +5927,7 @@ links:
 surveyed: May 2014
 ---
 name: Pizza Express
+online-only: yes
 address: 4 Greenwich Church Street, Greenwich, SE10 9BG
 area: Greenwich
 website: http://pizzaexpress.com/
@@ -6551,6 +6568,7 @@ links:
 surveyed: 
 ---
 name: Paul A Young
+online-only: yes
 address: 20 Royal Exchange, Threadneedle Street, City, EC3V 3LP
 area: Bank/Tower Hill
 website: http://paulayoung.co.uk/
@@ -6758,6 +6776,7 @@ links:
 surveyed: May 2014
 ---
 name: Wagamama
+online-only: yes
 address: 2B Tower Place, Tower Hill, EC3N 4EE
 area: Bank/Tower Hill
 website: http://wagamama.com/
@@ -6785,6 +6804,7 @@ links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1019713-Reviews-W
 surveyed: May 2014
 ---
 name: Brasserie Blanc
+online-only: yes
 address: 14 Trinity Square, Tower Hill, EC3N 4AA
 area: Bank/Tower Hill
 website: http://brasserieblanc.com/
@@ -6870,6 +6890,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Hung_Drawn_And_Quartered,_EC3R_5
 surveyed: May 2014
 ---
 name: Assenheims 56
+online-only: yes
 address: 19-21 Great Tower Street, EC3R 5AR
 area: Bank/Tower Hill
 website: http://as56.co.uk/
@@ -6992,6 +7013,7 @@ links: http://www.thegoodwebguide.co.uk/food-wine/table-talk/interviews/Nghi-Ngu
 surveyed: April 2014
 ---
 name: Suchard
+online-only: yes
 address: 102 Tooley Street, London Bridge, SE1 2JP
 area: London Bridge
 website: http://suchardthai.co.uk/
@@ -7170,6 +7192,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Tapas_Brindisa,_SE1_1TJ
 surveyed: April 2014
 ---
 name: Monmouth Coffee Company
+online-only: yes
 address: 2 Park Street, London Bridge, SE1 9AB
 area: London Bridge
 website: http://monmouthcoffee.co.uk/
@@ -7282,6 +7305,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Market_Porter,_SE1_9AA
 surveyed: April 2014
 ---
 name: Champor-Champor
+online-only: yes
 address: 62-64 Weston Street, London Bridge, SE1 3QJ
 area: London Bridge
 website: http://champor-champor.com/
@@ -7312,6 +7336,7 @@ links:
 surveyed: 
 ---
 name: Suchard Freehouse
+online-only: yes
 address: 2 Crucifix Lane, Bermondsey, SE1 3JW
 area: London Bridge
 website: http://suchardthai.co.uk/
@@ -7570,6 +7595,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Constancia,_SE1_3PH
 surveyed: 
 ---
 name: The Draft House
+online-only: yes
 address: 206-208 Tower Bridge Road, Bermondsey, SE1 2UP
 area: London Bridge
 website: http://drafthouse.co.uk/
@@ -7601,6 +7627,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Draft_House,_SE1_2UP
 surveyed: April 2014
 ---
 name: Tentazioni Fine Food
+online-only: yes
 address: 19 The Circle, Queen Elizabeth Street, Bermondsey, SE1 2JE
 area: London Bridge
 website: http://tentazioni.co.uk/delicatessen/
@@ -7725,6 +7752,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Teapod,_SE1_2YR
 surveyed: April 2014
 ---
 name: Peppers
+online-only: yes
 address: 7-9 West Ham Lane, Stratford, E15 4PH
 area: Stratford
 website: 
@@ -8083,6 +8111,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Chennai_Dosa,_E6_1JB
 surveyed: June 2014
 ---
 name: Blacksmith’s Arms
+online-only: yes
 address: 257 Rotherhithe Street, Rotherhithe, SE16 5EJ
 area: Canary Wharf
 website: http://blacksmithsarmsrotherhithe.co.uk/
@@ -8110,6 +8139,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Blacksmiths_Arms,_SE16_5EJ
 surveyed: 
 ---
 name: Piccalilli Caff
+online-only: yes
 address: Surrey Docks City Farm, Rotherhithe Street, Rotherhithe, SE16 5ET
 area: Canary Wharf
 website: http://piccalillicaff.com/
@@ -8191,6 +8221,7 @@ links: http://www.timeout.com/london/restaurants/moka-east
 surveyed: April 2014
 ---
 name: Squires
+online-only: yes
 address: 6 Beckton Road, Canning Town, E16 1EW
 area: Canning Town
 website: http://www.squiresuk.com/
