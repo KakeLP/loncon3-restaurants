@@ -69,9 +69,7 @@ surveyed</a>.</p>
       [% IF venue.summary %]
         <span class="summary">[% venue.summary %]</span>
       [% END %]
-      [% IF venue.access %]
-        <span class="access">[% venue.access %]</span>
-      [% END %]
+      <span class="access">[% IF venue.access %][% venue.access %][% ELSE %]Access not checked.[% END %]</span>
       [% IF venue.item("eat-in") == "yes" %]&#127860;[% END %]
       [% IF venue.takeaway == "yes" %]&#128092;[% END %]
       [% IF venue.delivery == "yes" %]&#128665;[% END %]

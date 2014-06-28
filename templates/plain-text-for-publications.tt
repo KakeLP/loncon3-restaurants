@@ -22,7 +22,7 @@ See maps below for numbered areas.  For a more detailed map, buy a copy of the L
 
 [% IF area.overview %][% area.overview | replace( '&amp;', '&' ) %][% END %]
 
-[% IF area.access %]Access: [% area.access | replace( '&amp;', '&' ) %][% END %]
+[% IF area.access %]Access: [% area.access | replace( '&amp;', '&' ) %][% ELSE %]Access not checked.[% END %]
 [% END %]
 
 [%- FOREACH area = areas -%]
