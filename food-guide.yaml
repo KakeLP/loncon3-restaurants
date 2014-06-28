@@ -1,4 +1,5 @@
 name: Gillani’s Restaurant
+online-only: yes
 address: 59-61 Barking Road, Canning Town, E16 4HB
 area: Canning Town
 website: 
@@ -257,6 +258,7 @@ links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2405494-Reviews-P
 surveyed: April 2014
 ---
 name: King Edward VII
+online-only: yes
 address: 47 Broadway, Stratford, E15 4BQ
 area: Stratford
 website: http://kingeddie.co.uk/
@@ -287,6 +289,7 @@ links: http://london.randomness.org.uk/wiki.cgi?King_Edward_VII,_E15_4BQ
 surveyed: April 2014
 ---
 name: Indisca
+online-only: yes
 address: 150 The Grove, Stratford, E15 1NS
 area: Stratford
 website: http://indisca.co.uk/
@@ -432,6 +435,7 @@ links: https://www.youtube.com/watch?v=luMejYXsD-U
 surveyed: April 2014
 ---
 name: Yoe Bo
+online-only: yes
 address: Unit 1, Gerry Raffles Square, Stratford, E15 1BG
 area: Stratford
 website: http://yoebo.co.uk/
@@ -730,6 +734,7 @@ links:
 surveyed: 
 ---
 name: Le Royal
+online-only: yes
 address: 13 Freemasons Road, Custom House, E16 3AR
 area: ExCeL
 website: 
@@ -835,6 +840,7 @@ links:
 surveyed: 
 ---
 name: Customs Bakery and Sandwich Bar
+online-only: yes
 address: 49 Freemasons Road, Custom House, E16 3PJ
 area: ExCeL
 website: 
@@ -1145,6 +1151,7 @@ links:
 surveyed: June 2014
 ---
 name: Café Bonnane
+online-only: yes
 address: Unit G8, ExCeL Marina, Western Gateway, E16 1DR
 area: ExCeL
 website: 
@@ -1257,6 +1264,7 @@ links:
 surveyed: June 2014
 ---
 name: Caffè Fratelli
+online-only: yes
 address: Unit 1, Western Gateway, E16 1AS
 area: ExCeL
 website: http://caffefratelli.co.uk/
@@ -1454,6 +1462,7 @@ links: http://london.randomness.org.uk/wiki.cgi?George,_E14_3ND
 surveyed: June 2014
 ---
 name: Firezza
+online-only: yes
 address: Unit 6b, Baltimore Wharf, Pepper Street, Isle of Dogs, E14 9RH
 area: Canary Wharf
 website: http://firezza.com/
@@ -1615,6 +1624,7 @@ links:
 surveyed: June 2014
 ---
 name: Lemongrass Kitchen
+online-only: yes
 address: Unit 5, South Quay Plaza, 185 Marsh Wall, Isle of Dogs, E14 9SH
 area: Canary Wharf
 website: http://lemongrasskitchen.co.uk/
@@ -1722,6 +1732,7 @@ links:
 surveyed: May 2014
 ---
 name: Slug and Lettuce
+online-only: yes
 address: 30 South Colonnade, Canary Wharf, E14 5EP
 area: Canary Wharf
 website: http://www.slugandlettuce.co.uk/slug-canarywharf
@@ -1856,6 +1867,7 @@ links:
 surveyed: May 2014
 ---
 name: Rocket
+online-only: yes
 address: 2 Churchill Place, Canary Wharf, E14 5RB
 area: Canary Wharf
 website: http://rocketrestaurants.co.uk/
@@ -1884,6 +1896,7 @@ links:
 surveyed: 
 ---
 name: Jamie’s Italian
+online-only: yes
 address: Unit 17, 2 Churchill Place, Canary Wharf, E14 5RB
 area: Canary Wharf
 website: http://jamieoliver.com/italian/restaurants/canary-wharf
@@ -2037,6 +2050,7 @@ links:
 surveyed: 
 ---
 name: Brera
+online-only: yes
 address: Unit 12, Cabot Place West, Canary Wharf, E14 4QT
 area: Canary Wharf
 website: http://cafebrera.com/
@@ -2167,6 +2181,7 @@ links:
 surveyed: 
 ---
 name: Gaucho
+online-only: yes
 address: 29 Westferry Circus, Canary Wharf, E14 8RR
 area: Canary Wharf
 website: http://gauchorestaurants.co.uk/
@@ -2433,6 +2448,7 @@ links:
 surveyed: May 2014
 ---
 name: Zamoo Falafel
+online-only: yes
 address: 19 Cuba Street, Isle of Dogs, E14 8LD
 area: Canary Wharf
 website: 
@@ -2577,6 +2593,7 @@ links:
 surveyed: June 2014
 ---
 name: Bene Bene
+online-only: yes
 address: 3 Westferry Circus, Canary Wharf, E14 4HD
 area: Canary Wharf
 website: 
@@ -2710,6 +2727,7 @@ links:
 surveyed: May 2014
 ---
 name: La Tasca
+online-only: yes
 address: Unit E, 12 Hertsmere Road, West India Quay, E14 4AE
 area: Canary Wharf
 website: http://latasca.com/canary-wharf/
@@ -2735,6 +2753,7 @@ links:
 surveyed: May 2014
 ---
 name: Strada
+online-only: yes
 address: Unit E, 12 Hertsmere Road, West India Quay, E14 4AE
 area: Canary Wharf
 website: http://strada.co.uk/italian-restaurant/west-india-quay
@@ -2840,6 +2859,7 @@ links:
 surveyed: May 2014
 ---
 name: Via
+online-only: yes
 address: Unit B, 18 Hertsmere Road, West India Quay, E14 4AY
 area: Canary Wharf
 website: http://viabars.co.uk/
@@ -2983,6 +3003,7 @@ links:
 surveyed: June 2014
 ---
 name: Bengal Classic
+online-only: yes
 address: 11 Pennyfields, Poplar, E14 8HP
 area: Limehouse
 website: http://bengal-classic.co.uk/
@@ -3014,6 +3035,7 @@ links:
 surveyed: June 2014
 ---
 name: The Tale of India
+online-only: yes
 address: 53 West India Dock Road, Poplar, London E14 8HP
 area: Limehouse
 website: http://thetaleofindia.com/
@@ -3075,6 +3097,7 @@ links:
 surveyed: 
 ---
 name: Spice Merchants
+online-only: yes
 address: 38 Salter Street, Poplar, E14 8AA
 area: Limehouse
 website: http://spicemerchants.com/
@@ -3214,6 +3237,7 @@ links:
 surveyed: June 2014
 ---
 name: Basiliano
+online-only: yes
 address: 795 Commercial Road, Limehouse, E14 7HG
 area: Limehouse
 website: 
@@ -3327,6 +3351,7 @@ links:
 surveyed: June 2014
 ---
 name: The Fish And Chicken Shop
+online-only: yes
 address: 139 Watney Street, Shadwell, E1 2QE
 area: Whitechapel
 website: 
@@ -3387,6 +3412,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Dar_Marrakech,_E15_4QZ
 surveyed: April 2014
 ---
 name: LA Bar
+online-only: yes
 address: 405 Stratford High Street, E15 4QZ
 area: Stratford
 website: 
@@ -3471,6 +3497,7 @@ links:
 surveyed: 
 ---
 name: The Langthorne
+online-only: yes
 address: 14 Broadway, Stratford, E15 4QS
 area: Stratford
 website: http://thelangthornestratford.co.uk/
@@ -3726,6 +3753,7 @@ links:
 surveyed: 
 ---
 name: Tiffin Grill
+online-only: yes
 address: 38 West Ham Lane, Stratford, E15 4PT
 area: Stratford
 website: 
@@ -3853,6 +3881,7 @@ links: http://www.yelp.co.uk/biz/calabash-london
 surveyed: June 2014
 ---
 name: Cafe Now
+online-only: yes
 address: 35 Leytonstone Road, Stratford, E15 1JA
 area: Stratford
 website: 
@@ -4124,6 +4153,7 @@ links: http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aO83M8lhZRb0
 surveyed: June 2014
 ---
 name: Rajboy
+online-only: yes
 address: 564 Commercial Road, Limehouse, E14 7JD
 area: Limehouse
 website: http://rajboy.com/
@@ -4177,6 +4207,7 @@ links:
 surveyed: June 2014
 ---
 name: Limehouse Fried Chicken/Spice Express
+online-only: yes
 address: 540 Commercial Road, Shadwell, E1 0HY
 area: Limehouse
 website: 
@@ -4231,6 +4262,7 @@ links:
 surveyed: 
 ---
 name: Popular Cafe
+online-only: yes
 address: 536 Commercial Road, Shadwell, E1 0HY
 area: Limehouse
 website: 
@@ -4714,6 +4746,7 @@ links:
 surveyed: May 2014
 ---
 name: Maza
+online-only: yes
 address: 97 New Road, Whitechapel, E1 1HJ
 area: Whitechapel
 website: http://mazaeatery.co.uk/
@@ -4855,6 +4888,7 @@ links:
 surveyed: May 2014
 ---
 name: misschu
+online-only: yes
 address: 91 Whitechapel High Street, E1 7RA
 area: Whitechapel
 website: http://misschu.co.uk/
@@ -5150,6 +5184,7 @@ links:
 surveyed: 
 ---
 name: Red Chilli
+online-only: yes
 address: 137 Leman Street, Whitechapel, E1 8EY
 area: Whitechapel
 website: http://redchillicurryclub.co.uk/
@@ -5178,6 +5213,7 @@ links:
 surveyed: May 2014
 ---
 name: Brown Bear
+online-only: yes
 address: 139 Leman Street, Whitechapel, E1 8EY
 area: Whitechapel
 website: 
@@ -5572,6 +5608,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Mien_Tay,_E2_8DP
 surveyed: 
 ---
 name: The Yacht
+online-only: yes
 address: 5-7 Crane Street, Greenwich, SE10 9NP
 area: Greenwich
 website: http://taylor-walker.co.uk/pub/yacht-greenwich/c7591/
@@ -5691,6 +5728,7 @@ links:
 surveyed: May 2014
 ---
 name: Papa Charlie
+online-only: yes
 address: 29-31 Greenwich Church Street, Greenwich, SE10 9BJ
 area: Greenwich
 website: 
@@ -5812,6 +5850,7 @@ links:
 surveyed: 
 ---
 name: San Miguel
+online-only: yes
 address: 18 Greenwich Church Street, Greenwich, SE10 9BJ
 area: Greenwich
 website: http://sanmiguelgreenwich.co.uk/
@@ -5842,6 +5881,7 @@ links:
 surveyed: May 2014
 ---
 name: Mogul
+online-only: yes
 address: 10 Greenwich Church Street, Greenwich, SE10 9BJ
 area: Greenwich
 website: http://mogulindian.co.uk/
@@ -5957,6 +5997,7 @@ links:
 surveyed: May 2014
 ---
 name: Vietnam Oriental
+online-only: yes
 address: 17-18 King William Walk, Greenwich, SE10 9JH
 area: Greenwich
 website: http://vietnamoriental.co.uk/
@@ -6072,6 +6113,7 @@ links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2479995-Reviews-T
 surveyed: May 2014
 ---
 name: Taperia
+online-only: yes
 address: 180 Greenwich High Road, Greenwich, SE10 8NN
 area: Greenwich
 website: http://taperia.co.uk/
@@ -6358,6 +6400,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Ashburnham_Arms,_SE10_8UH
 surveyed: 
 ---
 name: Baba’s Cafe
+online-only: yes
 address: 13-15 Greenwich South Street, Greenwich, SE10 8NW
 area: Greenwich
 website: 
@@ -6386,6 +6429,7 @@ links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2390100-Reviews-B
 surveyed: May 2014
 ---
 name: The Lost Hour
+online-only: yes
 address: 217-219 Greenwich High Road, Greenwich, SE10 8NB
 area: Greenwich
 website: http://www.thelosthourgreenwich.co.uk/
@@ -6416,6 +6460,7 @@ links:
 surveyed: May 2014
 ---
 name: Café Marrone
+online-only: yes
 address: Shadwell Station, Watney Street, Shadwell, E1 2QD
 area: Whitechapel
 website: http://cafemarrone.blogspot.co.uk/
@@ -6478,6 +6523,7 @@ links:
 surveyed: info from personal visits
 ---
 name: Super Three
+online-only: yes
 address: 207 East India Dock Road, Poplar, E14 0ED
 area: DLR
 website: 
@@ -7180,6 +7226,7 @@ links:
 surveyed: April 2014
 ---
 name: Konditor And Cook
+online-only: yes
 address: 10 Stoney Street, Bermondsey, SE1 9AD
 area: London Bridge
 website: http://konditorandcook.com/
@@ -8010,6 +8057,7 @@ links: http://chowhound.chow.com/topics/880866
 surveyed: June 2014
 ---
 name: Chennai Dosa
+online-only: yes
 address: 339 High Street North, East Ham, E12 6PQ
 area: East Ham
 website: http://chennaidosa.com/
@@ -8284,6 +8332,7 @@ links:
 surveyed: April 2014
 ---
 name: Armadillo
+online-only: yes
 address: Unit 9, The O2, Peninsula Square, SE10 0DX
 area: O2
 website: 
@@ -8359,6 +8408,7 @@ links:
 surveyed: June 2014
 ---
 name: Chiquito
+online-only: yes
 address: Peninsula Square, SE10 0EN
 area: O2
 website: http://chiquito.co.uk/
@@ -8384,6 +8434,7 @@ links:
 surveyed: June 2014
 ---
 name: Frankie & Benny’s
+online-only: yes
 address: Unit 17, The O2, Peninsula Square, SE10 0DX
 area: O2
 website: http://frankieandbennys.com/
@@ -8561,6 +8612,7 @@ links:
 surveyed: June 2014
 ---
 name: Wasabi
+online-only: yes
 address: Unit 16, The O2, Peninsula Square, SE10 0DY
 area: O2
 website: http://wasabi.uk.com/branches/1316
@@ -8586,6 +8638,7 @@ links:
 surveyed: June 2014
 ---
 name: Zizzi
+online-only: yes
 address: Unit 24, The O2, Peninsula Square, SE10 0DX
 area: O2
 website: http://zizzi.co.uk/
