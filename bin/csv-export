@@ -1,0 +1,68 @@
+#!/usr/bin/perl -w
+
+use strict;
+
+use Text::CSV;
+use YAML::Any qw( LoadFile );
+
+my $filename = "/Users/kake/Documents/Geo stuff/Loncon/food-guide.yaml";
+
+my @venues = LoadFile( $filename );
+@venues = sort namesort @venues;
+
+my $output;
+my $csv = Text::CSV->new ( { binary => 1 } );
+
+$csv->combine( qw( name address area website twitter phone lat long station type cuisine licensed byob bookings eat-in takeaway delivery just-drink hours photo summary access links surveyed ) );
+my $line = $csv->string();
+$output .= $line . "\n";
+
+foreach my $venue ( @venues ) {
+  my %info = %$venue;
+  my @data = @info{ qw( name address area website twitter phone lat long ) };
+  foreach my $key ( qw( station type cuisine ) ) {
+    if ( ref $info{$key} ) {
+      $csv->combine( @{$info{$key}} );
+      $line = $csv->string();
+      push @data, qq(") . $line . qq(");
+    } else {
+      push @data, $info{$key};
+    }
+  }
+  push @data, @info{ qw( licensed byob bookings eat-in takeaway delivery just-drink hours ) };
+  foreach my $key ( qw( photo ) ) {
+    if ( ref $info{$key} ) {
+      $csv->combine( @{$info{$key}} );
+      $line = $csv->string();
+      push @data, qq(") . $line . qq(");
+    } else {
+      push @data, $info{$key};
+    }
+  }
+  push @data, @info{ qw( summary access ) };
+  foreach my $key ( qw( linke ) ) {
+    if ( ref $info{$key} ) {
+      $csv->combine( @{$info{$key}} );
+      $line = $csv->string();
+      push @data, $line;
+    } else {
+      push @data, $info{$key};
+    }
+  }
+  push @data, $info{surveyed};
+
+  $csv->combine( @data );
+  $line = $csv->string();
+  $output .= $line . "\n";
+}
+
+print $output;
+
+sub namesort {
+  my $aa = lc( $a->{name} );
+  my $bb = lc( $b->{name} );
+  foreach ( ( $aa, $bb ) ) {
+    s/^the //;
+  }
+  $aa cmp $bb;
+}
