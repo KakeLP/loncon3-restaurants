@@ -4,31 +4,6 @@
 
 <h2>The List</h2>
 
-<p>Note: inclusion on this list does not imply inclusion in the final
-guide.  This is (still) just a shortlist.  <a href=""
-class="highlight">Highlight venues that still need to be
-surveyed</a>.</p>
-
-<script>
-
-  $( "a.highlight" ).click( highlight );
-
-  function highlight() {
-    $( ".not_surveyed" ).addClass( "not_surveyed_highlight" );
-    $( ".highlight" ).text( "Remove highlighting of venues that still need to be surveyed" );
-    $( "a.highlight" ).click( unhighlight );
-    return false;
-  }
-
-  function unhighlight() {
-    $( ".not_surveyed" ).removeClass( "not_surveyed_highlight" );
-    $( ".highlight" ).text( "Highlight venues that still need to be surveyed" );
-    $( "a.highlight" ).click( highlight );
-    return false;
-  }
-
-</script>
-
 <ul class="areas">
   [% FOREACH area = areas %]
     <li><a href="#[% area.anchor %]">[% area.name %]</a></li>
@@ -48,11 +23,7 @@ surveyed</a>.</p>
 
   <ul class="venues_by_area">
   [% FOREACH venue = area.venues %]
-    [% IF venue.surveyed %]
-      <li class="surveyed">
-    [% ELSE %]
-      <li class="not_surveyed">
-    [% END %]
+    <li>
       <span class="name">[% venue.name %],</span>
       <span class="address">[% venue.address %].</span>
       <span class="contact">
